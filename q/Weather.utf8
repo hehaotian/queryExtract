@@ -1,0 +1,201 @@
+<city_international> 降水量 强 不 强
+<day> <city> 的 气象
+下 小雨
+<day_rel> 外面 有 小雨
+<city_international> 有 没有 毛毛雨
+<city_international> <day_rel> 下 不下 小雨
+<day> 下 小雪 啊
+<day_rel> <day> 下 不下 小雪 啊
+<city> <day> 有 没有 小雪 啊
+<city_international> <day_rel> 有 小雪 啊
+<day_rel> <city_international> 下 小雪 啊
+<city_international> <day_rel> 下 不下 小雪 啊
+<day> 晴天 啊
+<day_rel> 天 晒 吗 啊
+<city_international> 晴天 啊
+<day> 天 晒 吗 啊
+<day> <day_rel> 晴天 啊
+<day> <city> 天 晒 吗 啊
+<day_rel> 晴天 啊
+<day_rel> <day> 天 晒 吗 啊
+<day_rel> <city> 晴天 啊
+<day_rel> <city_international> 天 晒 吗 啊
+<city> <day> 晴天 啊
+<city> <day_rel> 天 晒 吗 啊
+<city> <city_international> 晴天 啊
+<city_international> 天 晒 吗 啊
+<city_international> <day_rel> 晴天 啊
+<city_international> <city> 天 晒 吗 啊
+<day> <city> 晴天 啊
+路面 滑
+<city_international> 路况 滑
+<city> <day> 路面 滑
+<city> <day> 天气 热 吗
+<day_rel> 外边 冷
+<city> <day_rel> 冷
+要 用 雨衣
+是不是 得 擦 雨披
+<day> 需要 雨伞
+<day> 是不是 要 带 伞
+<day> 该 用 雨衣
+<day_rel> 需要 擦 雨披
+<day_rel> 是不是 得 雨伞
+<day_rel> 该不该 带 伞
+<city> 要 用 雨衣
+<city> 是不是 得 擦 雨披
+<city_international> 需要 雨伞
+<city_international> 是不是 要 带 伞
+<city_international> 该 用 雨衣
+<day> <city> 需要 擦 雨披
+<day> <city> 是不是 得 雨伞
+<day> <city> 该不该 带 伞
+<day> <city_international> 要 用 雨衣
+<day> <city_international> 是不是 得 擦 雨披
+<day_rel> <city> 需要 雨伞
+<day_rel> <city> 是不是 要 带 伞
+<day_rel> <city> 该 用 雨衣
+<day_rel> <city_international> 需要 擦 雨披
+<day_rel> <city_international> 是不是 得 雨伞
+<day_rel> <city_international> 该不该 带 伞
+<city> <day> 要 用 雨衣
+<city> <day> 是不是 得 擦 雨披
+<city> <day_rel> 需要 雨伞
+<city> <day_rel> 是不是 要 带 伞
+<city> <day_rel> 该 用 雨衣
+<city_international> <day> 需要 擦 雨披
+<city_international> <day> 是不是 得 雨伞
+<city_international> <day> 该不该 带 伞
+<city_international> <day_rel> 要 用 雨衣
+<city_international> <day_rel> 是不是 得 擦 雨披
+需要 太阳镜
+是不是 要 带 墨镜
+该 用 防晒 霜
+<day> 需要 擦 防晒 油
+<day> 是不是 得 太阳镜
+<day> 该不该 带 墨镜
+<day_rel> 要 用 防晒 霜
+<day_rel> 是不是 得 擦 防晒 油
+<city> 需要 太阳镜
+<city> 是不是 要 带 墨镜
+<city> 该 用 防晒 霜
+<city_international> 需要 擦 防晒 油
+<city_international> 是不是 得 太阳镜
+<city_international> 该不该 带 墨镜
+<day> <city> 要 用 防晒 霜
+<day> <city> 是不是 得 擦 防晒 油
+<day> <city_international> 需要 太阳镜
+<day> <city_international> 是不是 要 带 墨镜
+<day> <city_international> 该 用 防晒 霜
+<day_rel> <city> 需要 擦 防晒 油
+<day_rel> <city> 是不是 得 太阳镜
+<day_rel> <city> 该不该 带 墨镜
+<day_rel> <city_international> 要 用 防晒 霜
+<day_rel> <city_international> 是不是 得 擦 防晒 油
+<city> <day> 需要 太阳镜
+<city> <day> 是不是 要 带 墨镜
+<city> <day> 该 用 防晒 霜
+<city> <day_rel> 需要 擦 防晒 油
+<city> <day_rel> 是不是 得 太阳镜
+<city> <day_rel> 该不该 带 墨镜
+<city_international> <day> 要 用 防晒 霜
+<city_international> <day> 是不是 得 擦 防晒 油
+<city_international> <day_rel> 需要 太阳镜
+<city_international> <day_rel> 是不是 要 带 墨镜
+<city_international> <day_rel> 该 用 防晒 霜
+需要 穿 棉衣 棉裤
+是不是 要 棉衣 棉裤
+是不是 得 穿 棉衣 棉裤
+该不该 棉衣 棉裤
+<day> 需要 穿 棉衣 棉裤
+<day> 要 穿 厚衣 呀
+<day> 是不是 要 穿 厚 衣服 吗
+<day> 该 厚 衣服 吗
+<day> 该不该 穿 厚 衣服 吗
+<day_rel> 要 厚 衣服 吗
+<day_rel> 是不是 要 穿 多 吗
+<day_rel> 是不是 要 穿 外套 啊
+<day_rel> 是不是 得 穿 棉衣 棉裤 啊
+<day_rel> 该不该 棉衣 棉裤
+<city> 需要 穿 棉衣 棉裤
+<day> <city> 需要 毛衣 呀
+<city> 是不是 要 穿 棉裤
+<city> 是不是 得 毛衣 啊
+<city> 该 秋 衣 秋 裤 吗
+<city> 该不该 厚 衣服 吗
+<city_international> 需要 穿 厚 衣服 吗
+<city_international> 是不是 要 厚 衣服
+<day> <city> 是不是 得 大衣 呀
+<city_international> 该 棉裤 吗
+<day> <city> 该 穿 厚衣 呀
+<day> <city_international> 需要 厚衣 呀
+<day> <city_international> 要 秋裤 啊
+<day_rel> <city> 是不是 要 穿 厚 呀
+<day_rel> <city_international> 是不是 得 穿 多 呀
+<city> <day> 该 穿 多 呀
+<day> <city_international> 该 大衣 呀
+<day> <city_international> 该不该 穿 棉裤 吗
+<day_rel> <city> 需要 厚 衣服 呀
+<day_rel> <city> 要 穿 棉裤 呀
+<day_rel> <city> 是不是 得 棉裤 呀
+<day_rel> <city> 该 穿 棉裤 呀
+<city_international> 该不该 厚衣 吗
+<day_rel> <city_international> 需要 毛衣
+<day_rel> <city_international> 要 穿 毛衣
+<day_rel> <city_international> 是不是 得 毛衣
+<day_rel> <city_international> 该 穿 毛衣
+<city> <day> 需要 毛衣
+<city> <day> 要 穿 毛衣
+<city> <day> 是不是 得 毛衣
+<city> <day> 该 穿 毛衣
+<city> <day_rel> 需要 毛衣
+<city> <day_rel> 要 穿 毛衣
+<city> <day_rel> 是不是 得 毛衣
+<city> <day_rel> 该 穿 毛衣
+<city_international> <day> 需要 毛衣
+<city_international> <day> 要 穿 毛衣
+<city_international> <day> 是不是 得 毛衣
+<city_international> <day> 该 穿 毛衣
+<city_international> <day_rel> 需要 毛衣
+<city_international> <day_rel> 要 穿 毛衣
+<city_international> <day_rel> 是不是 得 毛衣
+<city_international> <day_rel> 该 穿 毛衣
+需要 穿 短裤
+是不是 得 穿 薄 衣服
+<day> 要 短袖
+<day> 该 短衣 短裤
+<day_rel> 要 比基尼
+<day_rel> 该 穿 短衣
+<city> 要 穿 薄 衣
+<city> 该不该 短裤
+<city_international> 是不是 要 薄 衣服
+<city_international> 该不该 穿 短袖
+<day> 要 穿 少
+<day_rel> 该 穿 少
+<city_international> 要 穿 少
+<day> <city> 要 穿 短衣
+<day> <city> 该 穿 薄 衣
+<day> <city_international> 是不是 要 短裤
+<day> <city_international> 该不该 薄 衣服
+<day_rel> <city> 是不是 要 穿 短袖
+<day_rel> <city> 该不该 穿 短衣 短裤
+<day_rel> <city_international> 是不是 要 穿 比基尼
+<city> <day> 需要 短衣
+<city> <day> 是不是 得 薄 衣
+<city> <day_rel> 需要 穿 短裤
+<city> <day_rel> 是不是 得 穿 薄 衣服
+<city_international> <day> 要 短袖
+<city_international> <day> 该 短衣 短裤
+<city_international> <day_rel> 要 比基尼
+<city_international> <day_rel> 该 穿 短衣
+<day> <city> 该不该 穿 凉爽
+<day_rel> <city> 是不是 要 穿 凉爽
+<day_rel> <city_international> 该不该 穿 凉爽
+<city> <day_rel> 是不是 要 穿 凉爽
+<city_international> <day> 该不该 穿 凉爽
+<city_international> 日落 几 点
+<city_international> 紫外线 指数
+的 可视 距离 怎样
+<city_international> 可 视度 高
+大气 压强
+<city> 大气 大气压 强 不 强
+<city_international> 空气 压强 多 大

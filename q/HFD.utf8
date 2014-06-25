@@ -1,0 +1,201 @@
+拨打 <contacts> 的 电话号码
+打 <firstnames> 的 电话
+呼叫 <lastnames> 号码
+致电 <lastnames> 的 电话号码
+接 <common_names> 的 电话
+给 <lastnames> 拨 打电话
+拨打 <common_names> 的 <phonetypes> 电话
+打电话 <contacts> <phonetypes> 号码
+拨 打电话 <contacts> 的 <phonetypes> 电话号码
+给 <contacts> <phonetypes> 号码 拨 打电话
+给 <lastnames> 的 <phonetypes> 电话 拨 打电话
+拨打 <lastnames> 的 <phonetypes> 电话号码
+呼叫 <common_names> 的 <phonetypes> 电话
+致电 <contacts> <phonetypes> 号码
+接通 <contacts> 的 <phonetypes> 电话号码
+接 <firstnames> 的 <phonetypes> 电话
+发 短信 给 <lastnames>
+发 一个 文字 信息 给 <lastnames>
+发送 一个 短 消息 给 <lastnames>
+文字 信息 <lastnames>
+<contacts> 发 个 文字 信息
+<firstnames> 发送 一个 短 消息
+给 <common_names> 发 一个 短信
+给 <contacts> 发送 一个 文字 信息
+给 <lastnames> 发送 短 消息
+向 <contacts> 发 短信
+向 <firstnames> 发送 文字 信息
+<lastnames>
+<hfd_phone_number> 发 文字 信息
+给 <hfd_phone_number> 发送 个 短 消息
+短 消息 <firstnames> 内容 <hfd_sms_dictation>
+文字 信息 <common_names> 内容 <hfd_sms_dictation>
+给 <firstnames> 内容 <hfd_sms_dictation>
+发 个 短 消息 给 <common_names> 内容 <hfd_sms_dictation>
+发 一个 短 消息 给 <firstnames> 内容 <hfd_sms_dictation>
+发送 短信 给 <common_names> 内容 <hfd_sms_dictation>
+发送 个 短信 给 <firstnames> 内容 <hfd_sms_dictation>
+发送 一个 文字 信息 给 <common_names> 内容 <hfd_sms_dictation>
+发 内容 <hfd_sms_dictation> 的 文字 信息 给 <common_names>
+发 一个 内容 <hfd_sms_dictation> 短 消息 给 <common_names>
+发送 内容 <hfd_sms_dictation> 短信 给 <common_names>
+发送 个 内容 <hfd_sms_dictation> 文字 信息 给 <common_names>
+发送 一个 内容 <hfd_sms_dictation> 的 短 消息 给 <common_names>
+<hfd_phone_number> 发 文字 信息 内容 为 <hfd_sms_dictation> 的 短信
+<hfd_phone_number> 发 个 短 消息 说 <hfd_sms_dictation> 的 文字 信息
+<hfd_phone_number> 发送 文字 信息 说 <hfd_sms_dictation> 的 短 消息
+<hfd_phone_number> 发送 个 短信 内容 为 <hfd_sms_dictation> 的 短信
+给 <hfd_phone_number> 发 文字 信息 说 <hfd_sms_dictation> 的 文字 信息
+给 <hfd_phone_number> 发 个 短信 说 <hfd_sms_dictation> 的 短 消息
+给 <hfd_phone_number> 发送 一个 短 消息 内容 为 <hfd_sms_dictation> 的 短信
+给 <hfd_phone_number> 发送 个 短信 说 <hfd_sms_dictation> 的 文字 信息
+向 <hfd_phone_number> 发 一个 短 消息 说 <hfd_sms_dictation> 的 短 消息
+向 <hfd_phone_number> 发 个 文字 信息 内容 为 <hfd_sms_dictation> 的 短信
+向 <hfd_phone_number> 发送 一个 短 消息 说 <hfd_sms_dictation> 的 文字 信息
+向 <hfd_phone_number> 发送 个 文字 信息 说 <hfd_sms_dictation> 的 短 消息
+发 一个 短 消息 给 <groups>
+发送 短信 给 <groups>
+发送 个 文字 信息 给 <groups>
+给 <groups> 群 发 个 短 消息
+给 <groups> 群组 发送 个 短信
+发 短 消息 内容 为 <hfd_sms_dictation> 的 短信 给 <groups> 组
+发 文字 信息 内容 为 <hfd_sms_dictation> 的 文字 信息 给 <groups> 组
+发 一个 文字 信息 内容 为 <hfd_sms_dictation> 的 短 消息 给 <groups> 组
+发 个 短信 内容 为 <hfd_sms_dictation> 的 短信 给 <groups> 组
+发送 短 消息 内容 为 <hfd_sms_dictation> 的 文字 信息 给 <groups> 组
+发送 一个 短 消息 内容 为 <hfd_sms_dictation> 的 短 消息 给 <groups> 组
+发送 一个 文字 信息 内容 为 <hfd_sms_dictation> 的 短信 给 <groups> 组
+发送 个 短信 内容 为 <hfd_sms_dictation> 的 文字 信息 给 <groups> 组
+给 <groups> 发 一个 文字 信息 内容 为 <hfd_sms_dictation> 的 短 消息
+给 <groups> 发送 一个 文字 信息 内容 为 <hfd_sms_dictation> 的 短信
+给 <groups> 群 发 一个 文字 信息 内容 为 <hfd_sms_dictation> 的 文字 信息
+给 <groups> 群 发送 个 短 消息 内容 为 <hfd_sms_dictation> 的 短 消息
+给 <groups> 群组 发 个 短 消息 内容 为 <hfd_sms_dictation> 的 短信
+给 <groups> 群组 发送 个 短 消息 内容 为 <hfd_sms_dictation> 的 文字 信息
+给 <groups> 组 发 个 短信 内容 为 <hfd_sms_dictation> 的 短 消息
+给 <groups> 组 发送 个 短信 内容 为 <hfd_sms_dictation> 的 短信
+<contacts> <phonetypes> 号码 发送 短信
+<contacts> 的 <phonetypes> 发送 文字 信息
+<common_names> <phonetypes> 短 消息
+<common_names> <phonetypes> 电话 短信
+<common_names> 的 <phonetypes> 号 文字 信息
+<firstnames> <phonetypes> 号码 发 短 消息
+<firstnames> 的 <phonetypes> 发 短信
+<firstnames> 的 <phonetypes> 电话 发 文字 信息
+<lastnames> <phonetypes> 号 发送 短 消息
+<lastnames> 的 <phonetypes> 号码 发送 短信
+给 <contacts> <phonetypes> 发送 文字 信息
+给 <contacts> 的 <phonetypes> 短 消息
+给 <contacts> 的 <phonetypes> 电话 短信
+给 <common_names> <phonetypes> 号 文字 信息
+给 <common_names> 的 <phonetypes> 号码 发 短 消息
+给 <firstnames> <phonetypes> 发 短信
+给 <firstnames> <phonetypes> 电话 发 文字 信息
+给 <firstnames> 的 <phonetypes> 号 发送 短 消息
+给 <lastnames> <phonetypes> 号码 发送 短信
+给 <lastnames> 的 <phonetypes> 发送 文字 信息
+短 消息 <contacts> <phonetypes>
+短 消息 <lastnames> 的 <phonetypes>
+短 消息 给 <lastnames> <phonetypes>
+短信 <firstnames> 的 <phonetypes>
+短信 给 <firstnames> <phonetypes>
+文字 信息 <common_names> 的 <phonetypes>
+文字 信息 给 <common_names> <phonetypes>
+发 短 消息 <contacts> 的 <phonetypes>
+发 短 消息 给 <contacts> <phonetypes>
+发 短 消息 给 <lastnames> 的 <phonetypes>
+发 短信 <lastnames> <phonetypes>
+发 短信 给 <firstnames> 的 <phonetypes>
+发 文字 信息 <firstnames> <phonetypes>
+发 文字 信息 给 <common_names> 的 <phonetypes>
+发送 短 消息 <common_names> <phonetypes>
+发送 短 消息 给 <contacts> 的 <phonetypes>
+发送 短信 <contacts> <phonetypes>
+发送 短信 <lastnames> 的 <phonetypes>
+发送 短信 给 <lastnames> <phonetypes>
+发送 文字 信息 <firstnames> 的 <phonetypes>
+发送 文字 信息 给 <firstnames> <phonetypes>
+<contacts> <phonetypes> 发 短信 <hfd_sms_dictation>
+<contacts> <phonetypes> 号码 发 短信 内容 <hfd_sms_dictation>
+<contacts> <phonetypes> 号 发 短信 说 <hfd_sms_dictation>
+<contacts> <phonetypes> 电话 发 文字 信息 <hfd_sms_dictation>
+<contacts> 的 <phonetypes> 发 文字 信息 内容 <hfd_sms_dictation>
+<contacts> 的 <phonetypes> 号码 发 文字 信息 说 <hfd_sms_dictation>
+<contacts> 的 <phonetypes> 号 发送 短 消息 <hfd_sms_dictation>
+<contacts> 的 <phonetypes> 电话 发送 短 消息 内容 <hfd_sms_dictation>
+<common_names> <phonetypes> 发送 短 消息 说 <hfd_sms_dictation>
+<common_names> <phonetypes> 号码 发送 短信 <hfd_sms_dictation>
+<common_names> <phonetypes> 号 发送 短信 内容 <hfd_sms_dictation>
+<common_names> <phonetypes> 电话 发送 短信 说 <hfd_sms_dictation>
+<common_names> 的 <phonetypes> 发送 文字 信息 <hfd_sms_dictation>
+<common_names> 的 <phonetypes> 号码 发送 文字 信息 内容 <hfd_sms_dictation>
+<common_names> 的 <phonetypes> 号 发送 文字 信息 说 <hfd_sms_dictation>
+<firstnames> <phonetypes> 短 消息 <hfd_sms_dictation>
+<firstnames> <phonetypes> 号码 短 消息 内容 <hfd_sms_dictation>
+<firstnames> <phonetypes> 号 短 消息 说 <hfd_sms_dictation>
+<firstnames> <phonetypes> 电话 短信 <hfd_sms_dictation>
+<firstnames> 的 <phonetypes> 短信 内容 <hfd_sms_dictation>
+<firstnames> 的 <phonetypes> 号码 短信 说 <hfd_sms_dictation>
+<firstnames> 的 <phonetypes> 号 文字 信息 <hfd_sms_dictation>
+<firstnames> 的 <phonetypes> 电话 文字 信息 内容 <hfd_sms_dictation>
+<lastnames> <phonetypes> 文字 信息 说 <hfd_sms_dictation>
+<lastnames> <phonetypes> 号码 发 短 消息 <hfd_sms_dictation>
+<lastnames> <phonetypes> 号 发 短 消息 内容 <hfd_sms_dictation>
+<lastnames> <phonetypes> 电话 发 短 消息 说 <hfd_sms_dictation>
+<lastnames> 的 <phonetypes> 发 短信 <hfd_sms_dictation>
+短 消息 <hfd_sms_dictation> 给 <common_names> <phonetypes> 号码
+短 消息 <hfd_sms_dictation> 发 给 <contacts> 的 <phonetypes> 号码
+短 消息 <hfd_sms_dictation> 发送 给 <contacts> <phonetypes> 号码
+短 消息 <hfd_sms_dictation> 发送 给 <lastnames> 的 <phonetypes> 号码
+短信 <hfd_sms_dictation> 给 <lastnames> <phonetypes> 号码
+短信 <hfd_sms_dictation> 发 给 <firstnames> 的 <phonetypes> 号码
+短信 <hfd_sms_dictation> 发送 给 <firstnames> <phonetypes> 号码
+文字 信息 <hfd_sms_dictation> 给 <common_names> 的 <phonetypes> 号码
+文字 信息 <hfd_sms_dictation> 发 给 <common_names> <phonetypes> 号码
+文字 信息 <hfd_sms_dictation> 发送 给 <contacts> 的 <phonetypes> 号码
+<lastnames> 的 <phonetypes> 号码 短信 说 <hfd_sms_dictation>
+<lastnames> 的 <phonetypes> 号 文字 信息 <hfd_sms_dictation>
+<lastnames> 的 <phonetypes> 电话 文字 信息 内容 <hfd_sms_dictation>
+给 <contacts> <phonetypes> 文字 信息 说 <hfd_sms_dictation>
+给 <contacts> <phonetypes> 号码 发 短 消息 <hfd_sms_dictation>
+给 <contacts> <phonetypes> 号 发 短 消息 内容 <hfd_sms_dictation>
+给 <contacts> <phonetypes> 电话 发 短 消息 说 <hfd_sms_dictation>
+给 <contacts> 的 <phonetypes> 发 短信 <hfd_sms_dictation>
+给 <contacts> 的 <phonetypes> 号码 发 短信 内容 <hfd_sms_dictation>
+给 <contacts> 的 <phonetypes> 号 发 短信 说 <hfd_sms_dictation>
+给 <contacts> 的 <phonetypes> 电话 发 文字 信息 <hfd_sms_dictation>
+给 <common_names> <phonetypes> 发 文字 信息 内容 <hfd_sms_dictation>
+给 <common_names> <phonetypes> 号码 发 文字 信息 说 <hfd_sms_dictation>
+给 <common_names> <phonetypes> 号 发送 短 消息 <hfd_sms_dictation>
+给 <common_names> <phonetypes> 电话 发送 短 消息 内容 <hfd_sms_dictation>
+给 <common_names> 的 <phonetypes> 发送 短 消息 说 <hfd_sms_dictation>
+给 <common_names> 的 <phonetypes> 号码 发送 短信 <hfd_sms_dictation>
+给 <common_names> 的 <phonetypes> 号 发送 短信 内容 <hfd_sms_dictation>
+给 <common_names> 的 <phonetypes> 电话 发送 短信 说 <hfd_sms_dictation>
+给 <firstnames> <phonetypes> 发送 文字 信息 <hfd_sms_dictation>
+给 <firstnames> <phonetypes> 号码 发送 文字 信息 内容 <hfd_sms_dictation>
+给 <firstnames> <phonetypes> 号 发送 文字 信息 说 <hfd_sms_dictation>
+给 <firstnames> 的 <phonetypes> 短 消息 <hfd_sms_dictation>
+给 <firstnames> 的 <phonetypes> 号码 短 消息 内容 <hfd_sms_dictation>
+给 <firstnames> 的 <phonetypes> 号 短 消息 说 <hfd_sms_dictation>
+给 <firstnames> 的 <phonetypes> 电话 短信 <hfd_sms_dictation>
+给 <lastnames> <phonetypes> 短信 内容 <hfd_sms_dictation>
+给 <lastnames> <phonetypes> 号码 短信 说 <hfd_sms_dictation>
+给 <lastnames> <phonetypes> 号 文字 信息 <hfd_sms_dictation>
+给 <lastnames> <phonetypes> 电话 文字 信息 内容 <hfd_sms_dictation>
+给 <lastnames> 的 <phonetypes> 文字 信息 说 <hfd_sms_dictation>
+给 <lastnames> 的 <phonetypes> 号码 发 短 消息 <hfd_sms_dictation>
+给 <lastnames> 的 <phonetypes> 号 发 短 消息 内容 <hfd_sms_dictation>
+给 <lastnames> 的 <phonetypes> 电话 发 短 消息 说 <hfd_sms_dictation>
+内容 <hfd_sms_dictation> 短 消息 发 <common_names> 的 <phonetypes>
+内容 <hfd_sms_dictation> 短 消息 发送 <common_names> <phonetypes>
+内容 <hfd_sms_dictation> 短信 发 <contacts> 的 <phonetypes>
+内容 <hfd_sms_dictation> 短信 发送 <contacts> <phonetypes>
+内容 <hfd_sms_dictation> 短信 发送 <lastnames> 的 <phonetypes>
+内容 <hfd_sms_dictation> 文字 信息 发 <lastnames> <phonetypes>
+内容 <hfd_sms_dictation> 文字 信息 发送 <firstnames> 的 <phonetypes>
+说 <hfd_sms_dictation> 短 消息 发 <firstnames> <phonetypes>
+说 <hfd_sms_dictation> 短 消息 发送 <common_names> 的 <phonetypes>
+说 <hfd_sms_dictation> 短信 发 <common_names> <phonetypes>
+说 <hfd_sms_dictation> 短信 发送 <contacts> 的 <phonetypes>
+说 <hfd_sms_dictation> 文字 信息 发 <contacts> <phonetypes>
