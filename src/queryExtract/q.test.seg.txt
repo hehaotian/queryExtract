@@ -1,0 +1,2851 @@
+好/a 开/v 全部/m 闹钟/n 到/v 。/wj 
+可以/v 响/v 全部/m 闹钟/n 到/v 。/wj 
+行/ng 开/v 着/uzhe 全部/m 闹钟/n 到/v 。/wj 
+ok/n 运行/vi 全部/m 闹钟/n 到/v 。/wj 
+yes/o 启动/v 全部/m 闹钟/n 到/v 。/wj 
+要/v 开/v 起来/vf 全部/m 闹钟/n 到/v 。/wj 
+肯定/d 要/v 开启/v 全部/m 闹钟/n 到/v 。/wj 
+是/vshi 要/v 启用/v 全部/m 闹钟/n 到/v 。/wj 
+不要/d 闹/v 所有/b 闹钟/n 到/v 。/wj 
+别/rz 工作/vn 所有/b 闹钟/n 到/v 。/wj 
+取消/v 开始/v 所有/b 闹钟/n 到/v 。/wj 
+不/d 打开/v 所有/b 闹钟/n 到/v 。/wj 
+好/a 取消/v 掉/v 闹钟/n 到/v 。/wj 
+行/ng 解除/v 闹钟/n 到/v 。/wj 
+要/v 关闭/v 闹钟/n 到/v 。/wj 
+肯定/d 要/v 取消/v 闹钟/n 到/v 。/wj 
+不/d 要/v 取消/v 一切/rz 闹钟/n 到/v 。/wj 
+取消/v 关掉/v 一切/rz 闹钟/n 到/v 。/wj 
+ok/n 开始/v 。/wj 
+全部/m 闹钟/n 开始/v 。/wj 
+禁止/v 所有/b 闹钟/n 。/wj 
+上午/t 九点/t 闹/v 铃/o 设/v 到/p 上午/t 十一点/t 。/wj 
+上午/t 九点/t 的/ude1 闹/v 铃/o 时间/n 改/vd 成/v 到/p 上午/t 十一点/t 。/wj 
+我/rr 的/ude1 上午/t 九点/t 闹钟/n 到/v 修改/v 到/p 上午/t 十一点/t 。/wj 
+我/rr 的/ude1 上午/t 九点/t 的/ude1 闹钟/n 到/v 时间/n 重/d 置/v 到/p 上午/t 十一点/t 。/wj 
+把/pba 上午/t 九点/t 闹钟/n 到/v 改/v 一/m 改/v 到/p 上午/t 十一点/t 。/wj 
+把/pba 上午/t 九点/t 的/ude1 闹钟/n 到/v 换/v 个/q 到/v 上午/t 十一点/t 。/wj 
+把/pba 我/rr 的/ude1 上午/t 九点/t 闹钟/n 到/v 时间/n 换/v 到/p 上午/t 十一点/t 。/wj 
+将/p 上午/t 九点/t 闹钟/n 换成/v 到/p 上午/t 十一点/t 。/wj 
+将/p 上午/t 九点/t 的/ude1 闹钟/n 时间/n 调整/v 到/p 上午/t 十一点/t 。/wj 
+将/p 我/rr 的/ude1 上午/t 九点/t 闹/v 铃/o 重/d 设/v 到/p 上午/t 十一点/t 。/wj 
+将/p 我/rr 的/ude1 上午/t 九点/t 的/ude1 闹/v 铃/o 时间/n 变/v 到/p 上午/t 十一点/t 。/wj 
+修改/v 上午/t 九点/t 闹/v 铃/o 到/v 上午/t 九点/t 。/wj 
+请/v 去除/v 星期一/t 闹钟/n 。/wj 
+去除/v 我/rr 的/ude1 上午/t 九点/t 的/ude1 闹钟/n 。/wj 
+把/pba 我/rr 的/ude1 上午/t 九点/t 闹钟/n 到/v 删除/v 。/wj 
+把/pba 起床/vi 闹钟/n 移/v 除/v 。/wj 
+将/p 我/rr 的/ude1 起床/vi 闹钟/n 到/v 删除/v 。/wj 
+移/v 走/v 下/vf 个/q 的/ude1 闹钟/n 。/wj 
+删/v 掉/v 闹钟/n 。/wj 
+开/v 起来/vf 星期一/t 的/ude1 闹钟/n 。/wj 
+开启/v 我/rr 的/ude1 上午/t 九点/t 的/ude1 闹钟/n 。/wj 
+把/pba 我/rr 的/ude1 上午/t 九点/t 闹钟/n 开启/v 。/wj 
+工作/vi 起床/vi 闹钟/n 。/wj 
+把/pba 叫做/v 起床/vi 闹钟/n 到/v 启用/v 。/wj 
+将/d 叫做/v 起床/vi 闹/v 铃/o 响/v 。/wj 
+关/v 我/rr 的/ude1 星期一/t 闹钟/n 。/wj 
+关掉/v 叫做/v 起床/vi 闹钟/n 。/wj 
+把/pba 叫做/v 起床/vi 闹/v 铃/o 取消/v 掉/v 。/wj 
+关闭/v 上午/t 九点/t 的/ude1 闹钟/n 。/wj 
+设置/v 上午/t 九点/t 闹/v 铃/o 名字/n 叫做/v 起床/vi 工作日/n 。/wj 
+设定/v 个/q 上午/t 九点/t 的/ude1 闹钟/n 到/v 名字/n 起床/vi 工作日/n 。/wj 
+设置/v 工作日/n 上午/t 九点/t 的/ude1 名字/n 为/p 闹/v 铃/ng 。/wj 
+设置/v 工作日/n 的/ude1 上午/t 九点/t 的/ude1 名字/n 叫/vi 做/v 的/ude1 闹钟/n 到/v 。/wj 
+设置/v 一/m 个/q 工作日/n 上午/t 九点/t 叫做/v 的/ude1 闹/v 铃/ng 。/wj 
+设置/v 一/m 个/q 工作日/n 的/ude1 上午/t 九点/t 的/ude1 名字/n 为/v 的/ude1 闹钟/n 到/v 。/wj 
+调/v 一个/mq 上午/t 九点/t 的/ude1 闹/v 铃/o 名字/n 起床/vi 工作日/n 。/wj 
+定/v 个个/q 上午/t 九点/t 闹钟/n 名字/n 起床/vi 工作日/n 。/wj 
+定/v 为/v 一个/mq 上午/t 九点/t 的/ude1 闹钟/n 到/v 名字/n 叫做/v 起床/vi 工作日/n 。/wj 
+上/f 个/q 上午/t 九点/t 闹钟/n 到/v 名字/n 起床/vi 工作日/n 。/wj 
+设/v 成/v 上午/t 九点/t 闹/v 铃/o 名字/n 叫做/v 起床/vi 工作日/n 。/wj 
+设/v 为/v 个/q 上午/t 九点/t 的/ude1 闹钟/n 到/v 名字/n 起床/vi 工作日/n 。/wj 
+设定/v 个/q 工作日/n 的/ude1 上午/t 九点/t 的/ude1 叫/vi 的/ude1 闹钟/n 到/v 。/wj 
+定/v 工作日/n 上午/t 九点/t 名字/n 为/p 闹钟/n 到/v 。/wj 
+定/v 个/q 工作日/n 上午/t 九点/t 名字/n 的/ude1 闹钟/n 到/v 。/wj 
+定/v 一/m 个/q 工作日/n 上午/t 九点/t 的/ude1 名/q 闹钟/n 到/v 。/wj 
+设/v 工作日/n 的/ude1 上午/t 九点/t 名字/n 为/v 的/ude1 闹钟/n 到/v 。/wj 
+设/v 个/q 工作日/n 的/ude1 上午/t 九点/t 的/ude1 叫做/v 闹钟/n 到/v 。/wj 
+设置/v 个/q 工作日/n 上午/t 九点/t 闹钟/n 名字/n 叫/vi 做/v 起/vf 床/n 。/wj 
+设置/v 一/m 个/q 工作日/n 上午/t 九点/t 闹钟/n 到/v 叫做/v 起床/vi 。/wj 
+设定/v 工作日/n 上午/t 九点/t 的/ude1 闹/v 铃/o 名/ng 起床/vi 。/wj 
+设定/v 个/q 工作日/n 的/ude1 上午/t 九点/t 闹钟/n 名字/n 叫/vi 做/v 起/vf 床/n 。/wj 
+调/v 一/m 个/q 工作日/n 上午/t 九点/t 叫/vi 闹钟/n 到/v 。/wj 
+定/v 个/q 工作日/n 上午/t 九点/t 的/ude1 叫做/v 闹钟/n 。/wj 
+定/v 个/q 个/q 工作日/n 上午/t 九点/t 叫做/v 闹钟/n 。/wj 
+定/v 个/q 个/q 工作日/n 的/ude1 上午/t 九点/t 的/ude1 名叫/v 闹钟/n 。/wj 
+定/v 个/q 一/m 个/q 工作日/n 的/ude1 上午/t 九点/t 的/ude1 名/q 为/v 的/ude1 闹钟/n 。/wj 
+定/v 为/v 个/q 工作日/n 上午/t 九点/t 叫/vi 闹钟/n 。/wj 
+定/v 为/v 个/q 工作日/n 的/ude1 上午/t 九点/t 的/ude1 名字/n 为/v 的/ude1 闹钟/n 。/wj 
+定/v 个/q 工作日/n 的/ude1 上午/t 九点/t 闹钟/n 到/v 名字/n 起床/vi 。/wj 
+定/v 在/p 工作日/n 上午/t 九点/t 叫做/v 的/ude1 闹/v 铃/ng 。/wj 
+定/v 在/p 工作日/n 的/ude1 上午/t 九点/t 名字/n 叫做/v 闹钟/n 到/v 。/wj 
+定/v 在/p 个/q 工作日/n 上午/t 九点/t 名为/v 闹钟/n 到/v 。/wj 
+定/v 在/p 个/q 工作日/n 的/ude1 上午/t 九点/t 的/ude1 名叫/v 闹钟/n 到/v 。/wj 
+定/v 在/p 一/m 个/q 工作日/n 上午/t 九点/t 的/ude1 名为/v 闹钟/n 到/v 。/wj 
+上/f 工作日/n 上午/t 九点/t 名叫/v 的/ude1 闹钟/n 到/v 。/wj 
+定/v 个/q 工作日/n 的/ude1 上午/t 九点/t 闹钟/n 到/v 名/q 为/v 起床/vi 。/wj 
+上/f 个/q 工作日/n 上午/t 九点/t 的/ude1 名叫/v 的/ude1 闹钟/n 到/v 。/wj 
+上/f 个/q 工作日/n 的/ude1 上午/t 九点/t 的/ude1 名/q 闹钟/n 到/v 。/wj 
+定为/v 工作日/n 的/ude1 上午/t 九点/t 的/ude1 闹钟/n 到/v 名字/n 起床/vi 。/wj 
+定/v 为/p 一/m 个/q 工作日/n 上午/t 九点/t 闹钟/n 到/v 名字/n 叫/vi 做/v 起/vf 床/n 。/wj 
+设定/v 为/p 工作日/n 的/ude1 上午/t 九点/t 名/ng 的/ude1 闹钟/n 到/v 。/wj 
+定/v 在/p 个/q 工作日/n 上午/t 九点/t 的/ude1 闹钟/n 到/v 名字/n 叫/vi 做/v 起/vf 床/n 。/wj 
+设定/v 为/v 个/q 工作日/n 的/ude1 上午/t 九点/t 的/ude1 名字/n 叫/vi 做/v 的/ude1 闹钟/n 到/v 。/wj 
+设定/v 为/p 一/m 个/q 工作日/n 上午/t 九点/t 的/ude1 名为/v 闹钟/n 到/v 。/wj 
+设/v 成/v 工作日/n 上午/t 九点/t 名叫/v 闹钟/n 到/v 。/wj 
+设/v 成/v 工作日/n 的/ude1 上午/t 九点/t 名字/n 叫/vi 做/v 的/ude1 闹钟/n 到/v 。/wj 
+设/v 成/v 个/q 工作日/n 上午/t 九点/t 名/ng 为/v 的/ude1 闹钟/n 到/v 。/wj 
+设定/v 为/p 一/m 个/q 工作日/n 上午/t 九点/t 的/ude1 闹钟/n 到/v 名字/n 叫/vi 做/v 起/vf 床/n 。/wj 
+设/v 成/v 工作日/n 的/ude1 上午/t 九点/t 闹钟/n 到/v 叫做/v 起床/vi 。/wj 
+设/v 成/v 个/q 工作日/n 的/ude1 上午/t 九点/t 的/ude1 闹钟/n 名字/n 叫/vi 做/v 起/vf 床/n 。/wj 
+设/v 为/p 工作日/n 的/ude1 上午/t 九点/t 名字/n 为/v 的/ude1 闹钟/n 到/v 。/wj 
+设/v 为/v 个/q 工作日/n 上午/t 九点/t 闹/v 铃/o 名字/n 起床/vi 。/wj 
+设/v 为/v 个/q 工作日/n 的/ude1 上午/t 九点/t 的/ude1 叫做/v 闹钟/n 到/v 。/wj 
+设/v 在/p 工作日/n 上午/t 九点/t 的/ude1 闹钟/n 到/v 名字/n 叫/vi 做/v 起/vf 床/n 。/wj 
+设/v 在/p 个/q 工作日/n 的/ude1 上午/t 九点/t 闹钟/n 到/v 叫做/v 起床/vi 。/wj 
+设/v 在/p 工作日/n 的/ude1 上午/t 九点/t 叫做/v 的/ude1 闹/v 铃/ng 。/wj 
+设/v 在/p 个/q 工作日/n 的/ude1 上午/t 九点/t 名字/n 为/v 的/ude1 闹钟/n 到/v 。/wj 
+设/v 在/p 一/m 个/q 工作日/n 的/ude1 上午/t 九点/t 的/ude1 叫做/v 闹钟/n 到/v 。/wj 
+调/v 一/m 个/q 工作日/n 重复/vn 的/ude1 闹钟/n 到/v 。/wj 
+设/v 为/p 工作日/n 重复/vn 闹钟/n 到/v 。/wj 
+上/f 一个/mq 闹钟/n 到/v 工作日/n 重复/vn 。/wj 
+设置/v 个/q 工作日/n 重复/vd 闹/v 铃/o 名字/n 叫/vi 做/v 起/vf 床/n 。/wj 
+设定/v 工作日/n 重复/vn 的/ude1 闹钟/n 到/v 名字/n 起床/vi 。/wj 
+定/v 工作日/n 的/ude1 闹钟/n 名字/n 叫/vi 做/v 起/vf 床/n 。/wj 
+定/v 一/m 个/q 工作日/n 重复/vd 闹/v 铃/o 名字/n 起床/vi 。/wj 
+设/v 个/q 工作日/n 重复/vn 的/ude1 闹钟/n 到/v 名字/n 叫/vi 做/v 起/vf 床/n 。/wj 
+调/v 个/q 工作日/n 的/ude1 闹钟/n 名字/n 起床/vi 。/wj 
+定/v 个/q 工作日/n 重复/vn 闹钟/n 到/v 名字/n 叫/vi 做/v 起/vf 床/n 。/wj 
+定/v 个/q 一/m 个/q 工作日/n 重复/vn 的/ude1 闹钟/n 到/v 名字/n 起床/vi 。/wj 
+定/v 为/p 一/m 个/q 工作日/n 的/ude1 闹/v 铃/o 名字/n 叫/vi 做/v 起/vf 床/n 。/wj 
+定/v 在/p 个/q 工作日/n 重复/vn 闹钟/n 到/v 名字/n 起床/vi 。/wj 
+上/f 个/q 工作日/n 闹钟/n 名字/n 叫/vi 做/v 起/vf 床/n 。/wj 
+设定/v 为/p 工作日/n 的/ude1 闹/v 铃/o 名字/n 起床/vi 。/wj 
+设定/v 为/p 一/m 个/q 工作日/n 重复/vn 闹钟/n 到/v 名字/n 叫/vi 做/v 起/vf 床/n 。/wj 
+设/v 成/v 一/m 个/q 工作日/n 闹钟/n 名字/n 起床/vi 。/wj 
+设/v 为/v 个/q 工作日/n 的/ude1 闹钟/n 到/v 名字/n 叫/vi 做/v 起/vf 床/n 。/wj 
+设置/v 工作日/n 的/ude1 名/q 的/ude1 闹/v 铃/ng 。/wj 
+设/v 在/p 工作日/n 重复/vn 闹钟/n 到/v 叫做/v 起床/vi 。/wj 
+设/v 在/p 一/m 个/q 工作日/n 重复/vn 的/ude1 闹钟/n 到/v 叫/vi 起床/vi 。/wj 
+设置/v 一/m 个/q 工作日/n 的/ude1 叫/vi 闹钟/n 到/v 。/wj 
+设置/v 名字/n 叫/vi 做/v 的/ude1 工作/vn 日/qt 的/ude1 闹钟/n 到/v 。/wj 
+设置/v 个/q 叫做/v 工作日/n 重复/vn 的/ude1 闹钟/n 到/v 。/wj 
+设定/v 个/q 工作日/n 名字/n 的/ude1 闹/v 铃/ng 。/wj 
+设置/v 一个/mq 名字/n 为/p 工作日/n 的/ude1 闹钟/n 到/v 。/wj 
+设定/v 一/m 个/q 工作日/n 重复/vn 的/ude1 叫/vi 的/ude1 闹/v 铃/ng 。/wj 
+定/v 工作日/n 的/ude1 名字/n 闹/v 铃/ng 。/wj 
+设定/v 叫/vi 的/ude1 工作日/n 重复/vn 的/ude1 闹钟/n 到/v 。/wj 
+设定/v 个/q 名叫/v 的/ude1 工作日/n 重复/vd 闹/v 铃/ng 。/wj 
+定/v 一/m 个/q 工作日/n 名字/n 叫/vi 做/v 的/ude1 闹钟/n 。/wj 
+设定/v 一个/mq 名字/n 为/v 的/ude1 工作日/n 重复/vn 的/ude1 闹/v 铃/ng 。/wj 
+设定/v 一个/mq 名字/n 的/ude1 工作/vn 日/qt 的/ude1 闹/v 铃/ng 。/wj 
+定/v 叫/vi 工作日/n 重复/vn 的/ude1 闹钟/n 到/v 。/wj 
+设/v 个/q 工作日/n 的/ude1 名字/n 闹钟/n 。/wj 
+设/v 个/q 工作日/n 重复/vn 的/ude1 名/q 为/v 的/ude1 闹钟/n 到/v 。/wj 
+定/v 一个/mq 名字/n 叫/vi 做/v 的/ude1 工作日/n 闹钟/n 。/wj 
+设/v 叫做/v 工作日/n 重复/vn 的/ude1 闹钟/n 。/wj 
+调/v 工作日/n 重复/v 名/q 闹/v 铃/ng 。/wj 
+设/v 个/q 名字/n 叫/vi 做/v 的/ude1 工作/vn 日/qt 的/ude1 闹钟/n 。/wj 
+调/v 个/q 工作日/n 的/ude1 名字/n 为/p 闹钟/n 到/v 。/wj 
+调/v 叫做/v 工作日/n 闹钟/n 到/v 。/wj 
+调/v 个/q 名叫/v 工作日/n 重复/vn 的/ude1 闹钟/n 到/v 。/wj 
+调/v 一个/mq 名字/n 为/v 的/ude1 工作日/n 重复/vn 闹钟/n 到/v 。/wj 
+设置/v 闹/v 铃/o 名叫/v 起床/vi 工作日/n 。/wj 
+定/v 个/q 个/q 名字/n 叫/vi 做/v 工作/vn 日/qt 的/ude1 闹/v 铃/ng 。/wj 
+定/v 个/q 个/q 名字/n 的/ude1 工作日/n 重复/vn 闹钟/n 。/wj 
+定/v 个/q 一个/mq 名/q 工作日/n 重复/vn 的/ude1 闹钟/n 。/wj 
+定/v 个/q 闹钟/n 名叫/v 起床/vi 工作日/n 重复/vn 。/wj 
+定/v 为/v 名/q 为/p 工作日/n 重复/vn 闹钟/n 到/v 。/wj 
+上/f 闹钟/n 到/v 叫/vi 起床/vi 工作日/n 。/wj 
+设/v 为/p 闹钟/n 到/v 名/q 起床/vi 工作日/n 。/wj 
+调/v 一/m 个/q 工作日/n 重复/vn 的/ude1 叫/vi 闹钟/n 到/v 。/wj 
+定/v 个/q 工作日/n 的/ude1 名/q 为/v 的/ude1 闹钟/n 到/v 。/wj 
+定/v 在/p 名/q 为/p 工作日/n 的/ude1 闹钟/n 到/v 。/wj 
+定/v 在/p 个/q 名字/n 叫/vi 做/v 工作日/n 闹钟/n 。/wj 
+定/v 在/p 个/q 名字/n 的/ude1 工作日/n 重复/vn 的/ude1 闹钟/n 到/v 。/wj 
+定/v 在/p 一个/mq 叫/vi 的/ude1 工作日/n 重复/vn 闹钟/n 到/v 。/wj 
+定为/v 工作日/n 的/ude1 名叫/v 闹钟/n 。/wj 
+上/f 名字/n 的/ude1 工作/vn 日/qt 的/ude1 闹钟/n 。/wj 
+上/f 个/q 叫/vi 的/ude1 工作日/n 重复/vd 闹/v 铃/ng 。/wj 
+定/v 为/v 个/q 工作日/n 重复/vn 的/ude1 叫/vi 闹钟/n 到/v 。/wj 
+设定/v 为/v 名/q 叫/vi 的/ude1 工作日/n 重复/vd 闹/v 铃/ng 。/wj 
+设定/v 为/v 个/q 名字/n 叫/vi 做/v 工作/vn 日/qt 的/ude1 闹/v 铃/ng 。/wj 
+定/v 为/p 一/m 个/q 工作日/n 名叫/v 闹/v 铃/ng 。/wj 
+定/v 为/p 一/m 个/q 工作日/n 重复/vn 名字/n 叫/vi 做/v 的/ude1 闹钟/n 到/v 。/wj 
+设/v 成名/vn 工作日/n 重复/vn 的/ude1 闹钟/n 到/v 。/wj 
+定/v 在/p 工作日/n 重复/vn 的/ude1 叫做/v 闹/v 铃/ng 。/wj 
+设/v 成/v 个/q 名字/n 工作日/n 闹钟/n 到/v 。/wj 
+定/v 在/p 个/q 工作日/n 重复/vn 的/ude1 叫/vi 的/ude1 闹钟/n 到/v 。/wj 
+设/v 为/p 叫做/v 的/ude1 工作/vn 日/qt 的/ude1 闹钟/n 到/v 。/wj 
+设/v 为/p 名字/n 工作日/n 闹/v 铃/ng 。/wj 
+设/v 为/v 一个/mq 叫做/v 工作日/n 重复/vn 的/ude1 闹/v 铃/ng 。/wj 
+设/v 在/p 名叫/v 的/ude1 工作日/n 重复/vd 闹/v 铃/ng 。/wj 
+设/v 在/p 个/q 名字/n 叫/vi 做/v 工作/vn 日/qt 的/ude1 闹/v 铃/ng 。/wj 
+设/v 在/p 一个/mq 叫/vi 的/ude1 工作日/n 闹/v 铃/ng 。/wj 
+上/f 工作日/n 重复/vn 名字/n 为/v 的/ude1 闹钟/n 到/v 。/wj 
+上/f 个/q 工作日/n 重复/vn 的/ude1 叫做/v 闹钟/n 到/v 。/wj 
+上/f 一/m 个/q 工作日/n 重复/vn 的/ude1 名/q 的/ude1 闹钟/n 到/v 。/wj 
+设定/v 为/v 个/q 工作日/n 名字/n 叫做/v 闹钟/n 到/v 。/wj 
+设定/v 为/p 一/m 个/q 工作日/n 的/ude1 叫做/v 的/ude1 闹钟/n 到/v 。/wj 
+设/v 成/v 工作日/n 的/ude1 名为/v 闹钟/n 到/v 。/wj 
+设/v 成/v 个/q 工作日/n 重复/vn 名字/n 叫/vi 做/v 的/ude1 闹钟/n 到/v 。/wj 
+设/v 成/v 一/m 个/q 工作日/n 重复/vn 的/ude1 名叫/v 闹钟/n 到/v 。/wj 
+设/v 为/p 工作日/n 重复/vn 的/ude1 名/q 为/v 的/ude1 闹钟/n 到/v 。/wj 
+设/v 为/p 一/m 个/q 工作日/n 叫/vi 闹钟/n 到/v 。/wj 
+设/v 在/p 工作日/n 的/ude1 名叫/v 的/ude1 闹钟/n 到/v 。/wj 
+设/v 在/p 个/q 工作日/n 的/ude1 名字/n 闹钟/n 到/v 。/wj 
+设/v 在/p 一/m 个/q 工作日/n 重复/vd 叫/vi 的/ude1 闹钟/n 到/v 。/wj 
+定/v 工作日/n 重复/v 上午/t 九点/t 闹钟/n 到/v 。/wj 
+定/v 个/q 工作日/n 重复/vn 的/ude1 上午/t 九点/t 的/ude1 闹钟/n 到/v 。/wj 
+上/f 个/q 工作日/n 的/ude1 上午/t 九点/t 闹钟/n 到/v 。/wj 
+打开/v 日历/n 程序/n 。/wj 
+打开/v 应用/vn 日历/n 。/wj 
+打开/v 应用/vn 日历/n 软件/n 。/wj 
+打开/v 程序/n 日历/n 程序/n 。/wj 
+打开/v 应用/vn 程序/n 日历/n 。/wj 
+打开/v 应用/vn 程序/n 日历/n 软件/n 。/wj 
+打开/v 软件/n 日历/n 程序/n 。/wj 
+打开/v 应用/vn 软件/n 日历/n 。/wj 
+打开/v 应用/vn 软件/n 日历/n 软件/n 。/wj 
+运行/vn 日历/n 程序/n 。/wj 
+运行/vn 应用/vn 日历/n 。/wj 
+运行/vn 应用/vn 日历/n 软件/n 。/wj 
+运行/vn 程序/n 日历/n 程序/n 。/wj 
+运行/vn 应用/vn 程序/n 日历/n 。/wj 
+运行/vn 应用/vn 程序/n 日历/n 软件/n 。/wj 
+运行/vn 软件/n 日历/n 程序/n 。/wj 
+运行/vn 应用/vn 软件/n 日历/n 。/wj 
+运行/vn 应用/vn 软件/n 日历/n 软件/n 。/wj 
+启动/v 日历/n 程序/n 。/wj 
+启动/v 应用/vn 日历/n 。/wj 
+启动/v 应用/vn 日历/n 软件/n 。/wj 
+启动/v 程序/n 日历/n 程序/n 。/wj 
+启动/v 应用/vn 程序/n 日历/n 。/wj 
+启动/v 应用/vn 程序/n 日历/n 软件/n 。/wj 
+启动/v 软件/n 日历/n 程序/n 。/wj 
+启动/v 应用/vn 软件/n 日历/n 。/wj 
+启动/v 应用/vn 软件/n 日历/n 软件/n 。/wj 
+开始/v 日历/n 程序/n 。/wj 
+开始/v 应用/vn 日历/n 。/wj 
+开始/v 应用/vn 日历/n 软件/n 。/wj 
+开始/v 程序/n 日历/n 程序/n 。/wj 
+开始/v 应用/vn 程序/n 日历/n 。/wj 
+开始/v 应用/vn 程序/n 日历/n 软件/n 。/wj 
+开始/v 软件/n 日历/n 程序/n 。/wj 
+开始/v 应用/vn 软件/n 日历/n 。/wj 
+开始/v 应用/vn 软件/n 日历/n 软件/n 。/wj 
+执行/v 日历/n 程序/n 。/wj 
+执行/v 应用/vn 日历/n 。/wj 
+执行/v 应用/vn 日历/n 软件/n 。/wj 
+执行/v 程序/n 日历/n 程序/n 。/wj 
+执行/v 应用/vn 程序/n 日历/n 。/wj 
+执行/v 应用/vn 程序/n 日历/n 软件/n 。/wj 
+执行/v 软件/n 日历/n 程序/n 。/wj 
+执行/v 应用/vn 软件/n 日历/n 。/wj 
+执行/v 应用/vn 软件/n 日历/n 软件/n 。/wj 
+使用/v 日历/n 程序/n 。/wj 
+使用/v 应用/vn 日历/n 。/wj 
+使用/v 应用/vn 日历/n 软件/n 。/wj 
+使用/v 程序/n 日历/n 程序/n 。/wj 
+使用/v 应用/vn 程序/n 日历/n 。/wj 
+使用/v 应用/vn 程序/n 日历/n 软件/n 。/wj 
+使用/v 软件/n 日历/n 程序/n 。/wj 
+使用/v 应用/vn 软件/n 日历/n 。/wj 
+使用/v 应用/vn 软件/n 日历/n 软件/n 。/wj 
+用/p 日历/n 程序/n 。/wj 
+用/p 应用/vn 日历/n 。/wj 
+用/p 应用/vn 日历/n 软件/n 。/wj 
+用/p 程序/n 日历/n 程序/n 。/wj 
+用/p 应用/vn 程序/n 日历/n 。/wj 
+用/p 应用/vn 程序/n 日历/n 软件/n 。/wj 
+用/p 软件/n 日历/n 程序/n 。/wj 
+用/p 应用/vn 软件/n 日历/n 。/wj 
+用/p 应用/vn 软件/n 日历/n 软件/n 。/wj 
+开启/v 日历/n 程序/n 。/wj 
+开启/v 应用/vn 日历/n 。/wj 
+开启/v 应用/vn 日历/n 软件/n 。/wj 
+开启/v 程序/n 日历/n 程序/n 。/wj 
+开启/v 应用/vn 程序/n 日历/n 。/wj 
+开启/v 应用/vn 程序/n 日历/n 软件/n 。/wj 
+开启/v 软件/n 日历/n 程序/n 。/wj 
+开启/v 应用/vn 软件/n 日历/n 。/wj 
+开启/v 应用/vn 软件/n 日历/n 软件/n 。/wj 
+开/v 日历/n 程序/n 。/wj 
+开/v 应用/vn 日历/n 。/wj 
+开/v 应用/vn 日历/n 软件/n 。/wj 
+开/v 程序/n 日历/n 程序/n 。/wj 
+开/v 应用/vn 程序/n 日历/n 。/wj 
+开/v 应用/vn 程序/n 日历/n 软件/n 。/wj 
+开/v 软件/n 日历/n 程序/n 。/wj 
+开/v 应用/vn 软件/n 日历/n 。/wj 
+开/v 应用/vn 软件/n 日历/n 软件/n 。/wj 
+启用/v 日历/n 程序/n 。/wj 
+启用/v 应用/vn 日历/n 。/wj 
+启用/v 应用/vn 日历/n 软件/n 。/wj 
+启用/v 程序/n 日历/n 程序/n 。/wj 
+启用/v 应用/vn 程序/n 日历/n 。/wj 
+启用/v 应用/vn 程序/n 日历/n 软件/n 。/wj 
+启用/v 软件/n 日历/n 程序/n 。/wj 
+启用/v 应用/vn 软件/n 日历/n 。/wj 
+启用/v 应用/vn 软件/n 日历/n 软件/n 。/wj 
+请/v 打开/v 日历/n 程序/n 。/wj 
+请/v 打开/v 应用/vn 日历/n 。/wj 
+请/v 打开/v 应用/vn 日历/n 软件/n 。/wj 
+请/v 打开/v 程序/n 日历/n 程序/n 。/wj 
+请/v 打开/v 应用/vn 程序/n 日历/n 。/wj 
+请/v 打开/v 应用/vn 程序/n 日历/n 软件/n 。/wj 
+请/v 打开/v 软件/n 日历/n 程序/n 。/wj 
+请/v 打开/v 应用/vn 软件/n 日历/n 。/wj 
+请/v 打开/v 应用/vn 软件/n 日历/n 软件/n 。/wj 
+请/v 运行/vn 日历/n 程序/n 。/wj 
+请/v 运行/vn 应用/vn 日历/n 。/wj 
+请/v 运行/vn 应用/vn 日历/n 软件/n 。/wj 
+请/v 运行/vn 程序/n 日历/n 程序/n 。/wj 
+请/v 运行/vn 应用/vn 程序/n 日历/n 。/wj 
+请/v 运行/vn 应用/vn 程序/n 日历/n 软件/n 。/wj 
+请/v 运行/vn 软件/n 日历/n 程序/n 。/wj 
+请/v 运行/vn 应用/vn 软件/n 日历/n 。/wj 
+请/v 运行/vn 应用/vn 软件/n 日历/n 软件/n 。/wj 
+请/v 启动/v 日历/n 程序/n 。/wj 
+请/v 启动/v 应用/vn 日历/n 。/wj 
+请/v 启动/v 应用/vn 日历/n 软件/n 。/wj 
+请/v 启动/v 程序/n 日历/n 程序/n 。/wj 
+请/v 启动/v 应用/vn 程序/n 日历/n 。/wj 
+请/v 启动/v 应用/vn 程序/n 日历/n 软件/n 。/wj 
+请/v 启动/v 软件/n 日历/n 程序/n 。/wj 
+请/v 启动/v 应用/vn 软件/n 日历/n 。/wj 
+请/v 启动/v 应用/vn 软件/n 日历/n 软件/n 。/wj 
+请/v 开始/v 日历/n 程序/n 。/wj 
+请/v 开始/v 应用/vn 日历/n 。/wj 
+请/v 开始/v 应用/vn 日历/n 软件/n 。/wj 
+请/v 开始/v 程序/n 日历/n 程序/n 。/wj 
+请/v 开始/v 应用/vn 程序/n 日历/n 。/wj 
+请/v 开始/v 应用/vn 程序/n 日历/n 软件/n 。/wj 
+请/v 开始/v 软件/n 日历/n 程序/n 。/wj 
+请/v 开始/v 应用/vn 软件/n 日历/n 。/wj 
+请/v 开始/v 应用/vn 软件/n 日历/n 软件/n 。/wj 
+请/v 执行/v 日历/n 程序/n 。/wj 
+请/v 执行/v 应用/vn 日历/n 。/wj 
+请/v 执行/v 应用/vn 日历/n 软件/n 。/wj 
+请/v 执行/v 程序/n 日历/n 程序/n 。/wj 
+请/v 执行/v 应用/vn 程序/n 日历/n 。/wj 
+请/v 执行/v 应用/vn 程序/n 日历/n 软件/n 。/wj 
+请/v 执行/v 软件/n 日历/n 程序/n 。/wj 
+请/v 执行/v 应用/vn 软件/n 日历/n 。/wj 
+请/v 执行/v 应用/vn 软件/n 日历/n 软件/n 。/wj 
+日历/n 运行/vn 。/wj 
+请/v 使用/v 日历/n 程序/n 。/wj 
+请/v 使用/v 日历/n 软件/n 。/wj 
+日历/n 开/v 。/wj 
+请/v 使用/v 应用/vn 日历/n 程序/n 。/wj 
+请/v 使用/v 应用/vn 日历/n 软件/n 。/wj 
+请/v 使用/v 程序/n 日历/n 。/wj 
+日历/n 请/v 用/v 。/wj 
+请/v 使用/v 程序/n 日历/n 应用/vn 程序/n 。/wj 
+请/v 使用/v 应用/vn 程序/n 日历/n 。/wj 
+日历/n 想/v 运行/vi 。/wj 
+日历/n 想/v 开始/v 。/wj 
+日历/n 想/v 使用/v 。/wj 
+请/v 使用/v 软件/n 日历/n 程序/n 。/wj 
+请/v 使用/v 软件/n 日历/n 软件/n 。/wj 
+请/v 使用/v 应用/vn 软件/n 日历/n 应用/vn 。/wj 
+请/v 使用/v 应用/vn 软件/n 日历/n 应用/vn 程序/n 。/wj 
+日历/n 要/v 使用/v 。/wj 
+日历/n 要/v 开启/v 。/wj 
+请/v 用/p 日历/n 程序/n 。/wj 
+日历/n 想/v 要/v 打开/v 。/wj 
+日历/n 想/v 要/v 开始/v 。/wj 
+日历/n 想/v 要/v 使用/v 。/wj 
+日历/n 想/v 要/v 开启/v 。/wj 
+日历/n 想/v 要/v 启用/v 。/wj 
+请/v 用/p 程序/n 日历/n 软件/n 。/wj 
+请/v 用/p 应用/vn 程序/n 日历/n 。/wj 
+日历/n 应用/vn 执行/vn 。/wj 
+日历/n 应用/vn 用/v 。/wj 
+日历/n 应用/vn 开/v 。/wj 
+请/v 用/p 软件/n 日历/n 程序/n 。/wj 
+日历/n 应用/vn 请/v 运行/vi 。/wj 
+日历/n 应用/vn 请/v 开始/v 。/wj 
+日历/n 应用/vn 请/v 用/v 。/wj 
+日历/n 应用/vn 请/v 开/v 。/wj 
+请/v 开启/v 日历/n 。/wj 
+日历/n 应用/vn 想/v 打开/v 。/wj 
+日历/n 应用/vn 想/v 启动/v 。/wj 
+日历/n 应用/vn 想/v 使用/v 。/wj 
+请/v 开启/v 应用/vn 日历/n 程序/n 。/wj 
+请/v 开启/v 应用/vn 日历/n 软件/n 。/wj 
+日历/n 应用/vn 要/v 运行/vi 。/wj 
+请/v 开启/v 程序/n 日历/n 程序/n 。/wj 
+请/v 开启/v 程序/n 日历/n 软件/n 。/wj 
+请/v 开启/v 应用/vn 程序/n 日历/n 。/wj 
+请/v 开启/v 应用/vn 程序/n 日历/n 程序/n 。/wj 
+请/v 开启/v 应用/vn 程序/n 日历/n 应用/vn 软件/n 。/wj 
+日历/n 应用/vn 想/v 要/v 开始/v 。/wj 
+请/v 开启/v 软件/n 日历/n 应用/vn 程序/n 。/wj 
+请/v 开启/v 应用/vn 软件/n 日历/n 应用/vn 。/wj 
+请/v 开启/v 应用/vn 软件/n 日历/n 应用/vn 软件/n 。/wj 
+请/v 开/v 日历/n 应用/vn 程序/n 。/wj 
+请/v 开/v 应用/vn 日历/n 应用/vn 。/wj 
+请/v 开/v 应用/vn 日历/n 应用/vn 软件/n 。/wj 
+请/v 开/v 程序/n 日历/n 应用/vn 程序/n 。/wj 
+请/v 开/v 应用/vn 程序/n 日历/n 应用/vn 。/wj 
+请/v 开/v 应用/vn 程序/n 日历/n 应用/vn 软件/n 。/wj 
+请/v 开/v 软件/n 日历/n 应用/vn 程序/n 。/wj 
+请/v 开/v 应用/vn 软件/n 日历/n 应用/vn 。/wj 
+请/v 开/v 应用/vn 软件/n 日历/n 应用/vn 软件/n 。/wj 
+请/v 启用/v 日历/n 应用/vn 程序/n 。/wj 
+请/v 启用/v 应用/vn 日历/n 应用/vn 。/wj 
+请/v 启用/v 应用/vn 日历/n 应用/vn 软件/n 。/wj 
+请/v 启用/v 程序/n 日历/n 应用/vn 程序/n 。/wj 
+请/v 启用/v 应用/vn 程序/n 日历/n 应用/vn 。/wj 
+能否/v 帮/v 展现/v 星期三/t 的/ude1 事情/n 。/wj 
+帮/v 我/rr 选取/v 星期三/t 事件/n 。/wj 
+请/v 让/v 朕/w 选择/v 于/p 星期三/t 的/ude1 事情/n 。/wj 
+可以/v 替/p 我们/rr 选/v 星期三/t 的/ude1 事项/n 。/wj 
+朕/w 想/v 展示/v 到/p 星期三/t 的/ude1 事/n 。/wj 
+请/v 告诉/v 咱/rr 咱/rr 有/vyou 什么/ry 事/n 在/p 星期三/t 没/v 。/wj 
+朕/w 想/v 要/v 看/v 一/m 看/v 于/p 星期三/t 的/ude1 事情/n 。/wj 
+帮/v 我/rr 找/v 一/m 下/f 于/p 星期三/t 的/ude1 事件/n 。/wj 
+请/v 告诉/v 俺/rr 寡人/n 在/p 星期三/t 有/vyou 事件/n 没/v 。/wj 
+能否/v 找/v 出/vf 在/p 星期三/t 的/ude1 活动/vn 。/wj 
+最/d 好/a 看/v 选择/v 于/p 星期三/t 的/ude1 事情/n 。/wj 
+需要/v 了解/v 俺/rr 有/vyou 哪/ry 一/m 些/q 事/n 在/p 星期三/t 没/v 。/wj 
+要求/v 了解/v 我/rr 有/vyou 事/n 在/p 星期三/t 吗/y 。/wj 
+最/d 好/a 理解/v 俺/rr 有/vyou 事情/n 在/p 星期三/t 。/wj 
+想/v 要/v 看/v 一下/mq 寡人/n 有/vyou 哪/ry 几/m 个/q 事件/n 在/p 星期三/t 没有/v 。/wj 
+需要/v 看/v 我/rr 有/vyou 哪/ry 几/m 个/q 事/n 在/p 星期三/t 没/v 。/wj 
+可以/v 告诉/v 我/rr 我/rr 到/v 星期三/t 有/vyou 事/n 没/v 。/wj 
+可以/v 告诉/v 朕/w 朕/w 到/v 星期三/t 有/vyou 哪/ry 一些/mq 事项/n 吗/y 。/wj 
+我/rr 想/v 看/v 下/vf 我/rr 有/vyou 什么/ry 事/n 在/p 星期三/t 没有/v 。/wj 
+可以/v 不/d 可以/v 告诉/v 咱/rr 咱们/rr 于/p 星期三/t 有/vyou 哪/ry 几/m 个/q 活动/vn 没/v 。/wj 
+可以/v 不/d 可以/v 告诉/v 咱们/rr 星期三/t 有/vyou 什么/ry 事情/n 没/v 。/wj 
+我们/rr 急需/v 看/v 下/vf 选/v 于/p 星期三/t 的/ude1 。/wj 
+俺/rr 要/v 看/v 有/vyou 哪/ry 一些/mq 事项/n 在/p 星期三/t 没/v 。/wj 
+咱们/rr 必须/d 看/v 一/m 看/v 展示/v 星期三/t 的/ude1 事/n 。/wj 
+俺/rr 想/v 要/v 看/v 一/m 看/v 寡人/n 有/vyou 什么/ry 事/n 在/p 星期三/t 没有/v 。/wj 
+想/v 要/v 理解/v 俺/rr 到/v 星期三/t 有/vyou 事项/n 没/v 。/wj 
+希望/v 了解/v 俺/rr 星期三/t 有/vyou 哪/ry 几/m 个/q 活动/vn 没/v 。/wj 
+帮/v 我/rr 找/v 下/vf 展示/v 于/p 星期三/t 的/ude1 。/wj 
+需要/v 理解/v 咱/rr 到/v 星期三/t 有/vyou 哪/ry 几/m 个/q 事项/n 没/v 。/wj 
+急需/v 了解/v 咱/rr 于/p 星期三/t 有/vyou 啥/ry 事情/n 。/wj 
+咱/rr 要求/v 看看/v 咱们/rr 有/vyou 啥/ry 事件/n 在/p 星期三/t 没/v 。/wj 
+咱/rr 最/d 好/a 看/v 下/f 朕/w 有/vyou 哪/ry 一些/mq 事项/n 在/p 星期三/t 没/v 。/wj 
+请/v 查出/v 选取/v 于/p 星期三/t 的/ude1 活动/vn 。/wj 
+最/d 好/a 了解/v 我/rr 在/p 星期三/t 有/vyou 哪些/ry 事项/n 没有/v 。/wj 
+请/v 帮助/v 我/rr 找/v 出来/vf 选择/v 到/p 星期三/t 事件/n 。/wj 
+朕/w 要求/v 看/v 下/vf 咱们/rr 有/vyou 哪/ry 几/m 个/q 事项/n 在/p 星期三/t 吗/y 。/wj 
+寡人/n 要/v 看看/v 朕/w 有事/vi 项/q 在/p 星期三/t 没/v 。/wj 
+寡人/n 想/v 要/v 看/v 我们/rr 有/vyou 啥/ry 事/n 在/p 星期三/t 没有/v 。/wj 
+寡人/n 希望/v 看/v 一下/mq 咱们/rr 有/vyou 哪些/ry 事情/n 在/p 星期三/t 没有/v 。/wj 
+寡人/n 急需/v 看看/v 咱们/rr 有/vyou 哪/ry 几/m 个/q 事项/n 在/p 星期三/t 吗/y 。/wj 
+希望/v 看看/v 在/p 星期三/t 有/vyou 哪/ry 一些/mq 事项/n 没/v 。/wj 
+我们/rr 要/v 看/v 下/vf 我们/rr 有/vyou 哪/ry 几/m 个/q 事/n 在/p 星期三/t 。/wj 
+能否/v 帮助/v 我/rr 查询/v 展现/v 到/p 星期三/t 。/wj 
+需要/v 看/v 一/m 看/v 咱/rr 星期三/t 有/vyou 哪些/ry 活动/vn 。/wj 
+我们/rr 要求/v 看看/v 咱们/rr 有/vyou 哪些/ry 事项/n 在/p 星期三/t 吗/y 。/wj 
+要求/v 看/v 咱/rr 星期三/t 有/vyou 哪/ry 几/m 个/q 事项/n 没有/v 。/wj 
+咱们/rr 想/v 看/v 一下/mq 咱们/rr 有/vyou 哪/ry 几/m 个/q 事项/n 在/p 星期三/t 。/wj 
+能否/v 给/p 我/rr 展现/v 展示/v 于/p 星期三/t 事件/n 。/wj 
+必须/d 看/v 一/m 看/v 寡人/n 到/p 星期三/t 有/vyou 哪/ry 几/m 个/q 事/n 没有/v 。/wj 
+最/d 好/a 看/v 一下/mq 我们/rr 到/v 星期三/t 有/vyou 事件/n 。/wj 
+能/v 不/d 能/v 讲/v 一/m 下/f 展现/v 于/p 星期三/t 的/ude1 。/wj 
+我/rr 要/v 看/v 一/m 看/v 我们/rr 于/p 星期三/t 有/vyou 哪/ry 一些/mq 事项/n 吗/y 。/wj 
+标/v 一下/mq 我们/rr 有/vyou 事件/n 在/p 星期三/t 吗/y 。/wj 
+报/n 一下/mq 俺/rr 有/vyou 什么/ry 事情/n 在/p 星期三/t 吗/y 。/wj 
+展现/v 寡人/n 有/vyou 哪/ry 几/m 个/q 事项/n 在/p 星期三/t 吗/y 。/wj 
+我/rr 想/v 要/v 看看/v 寡人/n 在/p 星期三/t 有/vyou 活动/vn 吗/y 。/wj 
+帮助/v 我/rr 找/v 出来/vf 我/rr 有/vyou 活动/vn 在/p 星期三/t 。/wj 
+帮助/v 我/rr 说/v 出来/vf 我/rr 有/vyou 啥/ry 事件/n 在/p 星期三/t 吗/y 。/wj 
+我/rr 希望/v 看/v 一/m 看/v 寡人/n 星期三/t 有/vyou 哪些/ry 事/n 。/wj 
+可以/v 帮助/v 我/rr 找/v 出/vf 选择/v 在/p 星期三/t 的/ude1 事件/n 。/wj 
+帮/v 我/rr 找到/v 我/rr 有/vyou 哪/ry 一/m 些/q 事/n 在/p 星期三/t 没有/v 。/wj 
+帮/v 我/rr 说/v 说/v 我/rr 有/vyou 事/n 在/p 星期三/t 。/wj 
+我/rr 要求/v 看看/v 俺/rr 在/p 星期三/t 有/vyou 哪/ry 一些/mq 活动/vn 。/wj 
+给/p 我/rr 查找/v 咱们/rr 有/vyou 哪/ry 几/m 个/q 事情/n 在/p 星期三/t 没/v 。/wj 
+给/p 我/rr 找/v 出来/vf 俺/rr 有/vyou 啥/ry 事/n 在/p 星期三/t 没/v 。/wj 
+可以/v 让/v 我/rr 找/v 出来/vf 选择/v 到/p 星期三/t 事/n 。/wj 
+给/p 我/rr 显示/v 出/vf 朕/w 有/vyou 哪/ry 一些/mq 事情/n 在/p 星期三/t 没/v 。/wj 
+俺/rr 要/v 看/v 一下/mq 寡人/n 星期三/t 有事/vi 吗/y 。/wj 
+可以/v 不/d 可以/v 展示/v 下/vf 选取/v 在/p 星期三/t 的/ude1 事情/n 。/wj 
+俺/rr 想/v 看/v 一/m 看/v 朕/w 星期三/t 有/vyou 活动/vn 吗/y 。/wj 
+俺/rr 想/v 要/v 看/v 一下/mq 我/rr 在/p 星期三/t 有/vyou 什么/ry 事/n 吗/y 。/wj 
+可以/v 不/d 可以/v 帮/v 我/rr 念/v 出/vf 来/vf 选取/v 星期三/t 的/ude1 。/wj 
+俺/rr 想/v 要/v 看/v 下/vf 咱们/rr 星期三/t 有/vyou 哪/ry 一些/mq 事件/n 吗/y 。/wj 
+俺/rr 希望/v 看/v 一下/mq 于/p 星期三/t 有/vyou 活动/vn 。/wj 
+俺/rr 需要/v 看/v 俺/rr 星期三/t 有/vyou 哪/ry 几/m 个/q 活动/vn 没/v 。/wj 
+俺/rr 需要/v 看/v 下/f 朕/w 到/v 星期三/t 有/vyou 事项/n 没/v 。/wj 
+请/v 帮助/v 我/rr 查/v 一下/mq 俺/rr 有/vyou 啥/ry 事/n 项/q 在/p 星期三/t 吗/y 。/wj 
+请/v 帮助/v 我/rr 标记/n 一下/mq 朕/w 有/vyou 哪/ry 一/m 些/q 事/n 在/p 星期三/t 没有/v 。/wj 
+请/v 帮助/v 我/rr 念/v 出/vf 来/vf 俺/rr 有/vyou 哪些/ry 事件/n 在/p 星期三/t 吗/y 。/wj 
+请/v 帮/v 我/rr 查/v 一下/mq 我们/rr 有/vyou 哪/ry 几/m 个/q 事件/n 在/p 星期三/t 。/wj 
+请/v 帮/v 我/rr 标记/n 一下/mq 咱/rr 有/vyou 活动/vn 在/p 星期三/t 吗/y 。/wj 
+请/v 帮/v 我/rr 念/v 一下/mq 咱们/rr 有/vyou 哪些/ry 活动/vn 在/p 星期三/t 吗/y 。/wj 
+请/v 给/p 我/rr 查找/v 俺/rr 有/vyou 哪些/ry 活动/vn 在/p 星期三/t 没/v 。/wj 
+请/v 给/p 我/rr 标/v 一下/mq 有/vyou 哪些/ry 事情/n 在/p 星期三/t 没有/v 。/wj 
+请/v 给/p 我/rr 念/v 一下/mq 我/rr 有/vyou 啥/ry 事/n 在/p 星期三/t 吗/y 。/wj 
+请/v 让/v 我/rr 查/v 一下/mq 我/rr 有/vyou 啥/ry 活动/vn 在/p 星期三/t 吗/y 。/wj 
+咱/rr 希望/v 看看/v 咱/rr 到/v 星期三/t 有/vyou 哪/ry 一些/mq 活动/vn 吗/y 。/wj 
+咱/rr 需要/v 看/v 寡人/n 星期三/t 有/vyou 什么/ry 事件/n 吗/y 。/wj 
+能否/v 查找/v 咱/rr 有/vyou 啥/ry 事/n 项/q 在/p 星期三/t 。/wj 
+咱/rr 急需/v 看/v 下/vf 俺/rr 到/v 星期三/t 有/vyou 哪/ry 几/m 个/q 事件/n 吗/y 。/wj 
+能否/v 念/v 一下/mq 朕/w 有/vyou 什么/ry 事件/n 在/p 星期三/t 。/wj 
+咱/rr 必须/d 看看/v 我/rr 星期三/t 有/vyou 什么/ry 事项/n 没/v 。/wj 
+咱/rr 最/d 好/a 看/v 于/p 星期三/t 有/vyou 啥/ry 事件/n 。/wj 
+能否/v 帮助/v 我/rr 念/v 一下/mq 咱/rr 有/vyou 啥/ry 活动/vn 在/p 星期三/t 吗/y 。/wj 
+朕/w 要/v 看/v 一下/mq 咱们/rr 到/v 星期三/t 有/vyou 什么/ry 事情/n 吗/y 。/wj 
+朕/w 想/v 看看/v 朕/w 到/v 星期三/t 有/vyou 什么/ry 事件/n 吗/y 。/wj 
+能否/v 帮/v 我/rr 念/v 下/vf 我/rr 有/vyou 哪/ry 一/m 些/q 事/n 在/p 星期三/t 。/wj 
+朕/w 想/v 要/v 看/v 一/m 看/v 寡人/n 到/p 星期三/t 有/vyou 哪/ry 几/m 个/q 活动/vn 。/wj 
+能否/v 给/p 我/rr 标/v 一下/mq 有/vyou 哪些/ry 事件/n 在/p 星期三/t 吗/y 。/wj 
+朕/w 希望/v 看/v 一下/mq 俺/rr 到/v 星期三/t 有/vyou 事件/n 吗/y 。/wj 
+朕/w 需要/v 看看/v 俺/rr 在/p 星期三/t 有/vyou 啥/ry 事情/n 吗/y 。/wj 
+能否/v 让/v 我/rr 标/v 一下/mq 朕/w 有/vyou 哪/ry 几/m 个/q 事件/n 在/p 星期三/t 没有/v 。/wj 
+能否/v 让/v 我/rr 念/v 一下/mq 咱们/rr 有/vyou 哪些/ry 事项/n 在/p 星期三/t 吗/y 。/wj 
+能/v 不能/v 查找/v 俺/rr 有/vyou 啥/ry 事情/n 在/p 星期三/t 吗/y 。/wj 
+能/v 不能/v 标记/n 出来/vf 咱/rr 有/vyou 哪些/ry 活动/vn 在/p 星期三/t 。/wj 
+朕/w 最好/d 看/v 咱们/rr 在/p 星期三/t 有/vyou 哪/ry 一些/mq 事情/n 。/wj 
+能/v 不/d 能/v 帮助/v 我/rr 查询/v 俺/rr 有/vyou 哪/ry 几/m 个/q 事项/n 在/p 星期三/t 没有/v 。/wj 
+寡人/n 要/v 看/v 一/m 看/v 星期三/t 有/vyou 什么/ry 事件/n 吗/y 。/wj 
+寡人/n 想/v 看/v 一下/mq 咱们/rr 于/p 星期三/t 有/vyou 哪/ry 一/m 些/q 事/n 没有/v 。/wj 
+能/v 不/d 能/v 帮/v 我/rr 查询/v 一下/mq 有/vyou 事/n 在/p 星期三/t 。/wj 
+寡人/n 想/v 要/v 看/v 我们/rr 星期三/t 有/vyou 什么/ry 事情/n 。/wj 
+能/v 不/d 能/v 帮/v 我/rr 报/v 一下/mq 寡人/n 有/vyou 哪些/ry 事项/n 在/p 星期三/t 没有/v 。/wj 
+寡人/n 希望/v 看/v 下/f 朕/w 在/p 星期三/t 有/vyou 哪/ry 一些/mq 事件/n 吗/y 。/wj 
+寡人/n 需要/v 看/v 一下/mq 咱/rr 在/p 星期三/t 有/vyou 哪/ry 几/m 个/q 事/n 吗/y 。/wj 
+能/v 不能/v 给/p 我/rr 讲/v 一/m 下/f 咱/rr 有/vyou 哪些/ry 事件/n 在/p 星期三/t 吗/y 。/wj 
+能/v 不能/v 给/p 我/rr 展示/v 下/vf 寡人/n 有/vyou 哪/ry 一些/mq 事件/n 在/p 星期三/t 吗/y 。/wj 
+能/v 不能/v 让/v 我/rr 标记/v 出来/vf 咱/rr 有/vyou 哪些/ry 事件/n 在/p 星期三/t 。/wj 
+寡人/n 必须/d 看/v 一下/mq 朕/w 于/p 星期三/t 有/vyou 哪/ry 几/m 个/q 事件/n 没有/v 。/wj 
+寡人/n 最好/d 看看/v 朕/w 到/v 星期三/t 有/vyou 哪/ry 一/m 些/q 事/n 吗/y 。/wj 
+可以/v 找/v 出来/vf 咱们/rr 有/vyou 啥/ry 事/n 在/p 星期三/t 没有/v 。/wj 
+可以/v 报/n 下/f 朕/w 有/vyou 哪/ry 一些/mq 活动/vn 在/p 星期三/t 。/wj 
+我们/rr 想/v 看/v 下/f 朕/w 到/v 星期三/t 有/vyou 什么/ry 事情/n 吗/y 。/wj 
+可以/v 帮助/v 我/rr 查出/v 来/vf 我们/rr 有/vyou 哪/ry 一些/mq 事情/n 在/p 星期三/t 。/wj 
+可以/v 帮助/v 我/rr 报/v 一下/mq 我/rr 有/vyou 哪/ry 一/m 些/q 事/n 在/p 星期三/t 没/v 。/wj 
+可以/v 帮助/v 我/rr 展示/v 出/vf 寡人/n 有/vyou 哪些/ry 事件/n 在/p 星期三/t 吗/y 。/wj 
+我们/rr 希望/v 看/v 一/m 看/v 寡人/n 于/p 星期三/t 有/vyou 事情/n 。/wj 
+我们/rr 需要/v 看/v 下/vf 寡人/n 在/p 星期三/t 有/vyou 哪/ry 几/m 个/q 事件/n 吗/y 。/wj 
+我们/rr 急需/v 看/v 一下/mq 寡人/n 星期三/t 有/vyou 什么/ry 事件/n 没有/v 。/wj 
+我们/rr 要求/v 看看/v 朕/w 于/p 星期三/t 有/vyou 哪/ry 几/m 个/q 活动/vn 没/v 。/wj 
+可以/v 给/p 我/rr 讲讲/v 朕/w 有/vyou 哪/ry 几/m 个/q 事件/n 在/p 星期三/t 没/v 。/wj 
+我们/rr 必须/d 看/v 一/m 看/v 咱/rr 星期三/t 有/vyou 哪/ry 一些/mq 事情/n 没/v 。/wj 
+我们/rr 最/d 好/a 看/v 下/vf 俺/rr 星期三/t 有/vyou 哪/ry 一些/mq 事件/n 吗/y 。/wj 
+咱们/rr 要/v 看/v 一下/mq 俺/rr 在/p 星期三/t 有/vyou 哪/ry 几/m 个/q 事情/n 。/wj 
+可以/v 让/v 我/rr 出来/vf 我们/rr 有/vyou 事/n 在/p 星期三/t 吗/y 。/wj 
+可以/v 不/d 可以/v 找/v 出/vf 我们/rr 有/vyou 什么/ry 事情/n 在/p 星期三/t 。/wj 
+可以/v 不/d 可以/v 说/v 出来/vf 俺/rr 有/vyou 哪些/ry 活动/vn 在/p 星期三/t 。/wj 
+咱们/rr 想/v 要/v 看/v 下/vf 我/rr 星期三/t 有/vyou 什么/ry 事项/n 吗/y 。/wj 
+咱们/rr 希望/v 看/v 一下/mq 在/p 星期三/t 有/vyou 什么/ry 事情/n 。/wj 
+咱们/rr 需要/v 看/v 寡人/n 于/p 星期三/t 有/vyou 什么/ry 事件/n 。/wj 
+可以/v 不/d 可以/v 帮助/v 我/rr 出来/vf 我/rr 有/vyou 哪/ry 一些/mq 事件/n 在/p 星期三/t 。/wj 
+咱们/rr 急需/v 看/v 下/vf 寡人/n 在/p 星期三/t 有/vyou 哪些/ry 事/n 没有/v 。/wj 
+可以/v 不/d 可以/v 帮/v 我/rr 讲讲/v 我/rr 有/vyou 哪些/ry 事项/n 在/p 星期三/t 。/wj 
+可以/v 不/d 可以/v 帮/v 我/rr 展示/v 一/m 下/f 有/vyou 啥/ry 事件/n 在/p 星期三/t 吗/y 。/wj 
+可以/v 不/d 可以/v 给/p 我/rr 标记/n 一下/mq 朕/w 有/vyou 活动/vn 在/p 星期三/t 没有/v 。/wj 
+可以/v 不/d 可以/v 给/p 我/rr 报/v 下/f 朕/w 有/vyou 啥/ry 活动/vn 在/p 星期三/t 没/v 。/wj 
+可以/v 不/d 可以/v 让/v 我/rr 查找/v 我们/rr 有/vyou 啥/ry 事情/n 在/p 星期三/t 吗/y 。/wj 
+找/v 一下/mq 我们/rr 于/p 星期三/t 有/vyou 啥/ry 事项/n 。/wj 
+查找/v 一下/mq 我们/rr 星期三/t 有/vyou 事项/n 没有/v 。/wj 
+查/v 到/v 朕/w 到/v 星期三/t 有/vyou 哪些/ry 活动/vn 没有/v 。/wj 
+标记/n 一下/mq 俺/rr 到/v 星期三/t 有/vyou 哪/ry 一些/mq 事件/n 吗/y 。/wj 
+说/v 出来/vf 我/rr 在/p 星期三/t 有/vyou 哪/ry 一些/mq 事件/n 吗/y 。/wj 
+念/v 下/vf 咱们/rr 到/v 星期三/t 有/vyou 哪/ry 一些/mq 事件/n 吗/y 。/wj 
+出现/v 我们/rr 在/p 星期三/t 有/vyou 哪/ry 一些/mq 事件/n 吗/y 。/wj 
+帮助/v 我/rr 查/v 一下/mq 朕/w 到/v 星期三/t 有/vyou 哪/ry 一些/mq 事件/n 吗/y 。/wj 
+帮助/v 我/rr 找/v 出/vf 咱/rr 在/p 星期三/t 有/vyou 哪/ry 一些/mq 事件/n 吗/y 。/wj 
+帮助/v 我/rr 标记/n 一下/mq 我/rr 到/v 星期三/t 有/vyou 哪/ry 一些/mq 事件/n 吗/y 。/wj 
+帮助/v 我/rr 说/v 出来/vf 在/p 星期三/t 有/vyou 哪/ry 一些/mq 事件/n 吗/y 。/wj 
+帮助/v 我/rr 念/v 下/vf 我们/rr 到/v 星期三/t 有/vyou 哪/ry 一些/mq 事件/n 吗/y 。/wj 
+帮助/v 我/rr 出现/v 寡人/n 在/p 星期三/t 有/vyou 哪/ry 一些/mq 事件/n 吗/y 。/wj 
+帮/v 我/rr 查/v 一下/mq 咱/rr 到/v 星期三/t 有/vyou 哪/ry 一些/mq 事件/n 吗/y 。/wj 
+帮/v 我/rr 找/v 出/vf 俺/rr 在/p 星期三/t 有/vyou 哪/ry 一些/mq 事件/n 吗/y 。/wj 
+帮/v 我/rr 标记/v 一/m 下/f 到/v 星期三/t 有/vyou 哪/ry 一些/mq 事件/n 吗/y 。/wj 
+帮/v 我/rr 说/v 出/vf 咱们/rr 在/p 星期三/t 有/vyou 哪/ry 一些/mq 事件/n 吗/y 。/wj 
+帮/v 我/rr 念/v 下/vf 寡人/n 到/p 星期三/t 有/vyou 哪/ry 一些/mq 事件/n 吗/y 。/wj 
+帮/v 我/rr 出现/v 朕/w 在/p 星期三/t 有/vyou 哪/ry 一些/mq 事件/n 吗/y 。/wj 
+给/p 我/rr 查/v 一下/mq 俺/rr 到/v 星期三/t 有/vyou 哪/ry 一些/mq 事件/n 吗/y 。/wj 
+给/p 我/rr 找/v 出/vf 我/rr 在/p 星期三/t 有/vyou 哪/ry 一些/mq 事件/n 吗/y 。/wj 
+给/p 我/rr 标/v 一下/mq 咱们/rr 到/v 星期三/t 有/vyou 哪/ry 一些/mq 事件/n 吗/y 。/wj 
+给/p 我/rr 说/v 出/vf 我们/rr 在/p 星期三/t 有/vyou 哪/ry 一些/mq 事件/n 吗/y 。/wj 
+给/p 我/rr 念/v 下/f 朕/w 到/v 星期三/t 有/vyou 哪/ry 一些/mq 事件/n 吗/y 。/wj 
+给/p 我/rr 出现/v 咱/rr 在/p 星期三/t 有/vyou 哪/ry 一些/mq 事件/n 吗/y 。/wj 
+让/v 我/rr 查/v 一下/mq 我/rr 到/v 星期三/t 有/vyou 哪/ry 一些/mq 事件/n 吗/y 。/wj 
+让/v 我/rr 找/v 出/vf 在/p 星期三/t 有/vyou 哪/ry 一些/mq 事件/n 吗/y 。/wj 
+让/v 我/rr 标/v 一下/mq 我们/rr 到/v 星期三/t 有/vyou 哪/ry 一些/mq 事件/n 吗/y 。/wj 
+让/v 我/rr 说/v 出/vf 寡人/n 在/p 星期三/t 有/vyou 哪/ry 一些/mq 事件/n 吗/y 。/wj 
+让/v 我/rr 念/v 下/vf 咱/rr 到/v 星期三/t 有/vyou 哪/ry 一些/mq 事件/n 吗/y 。/wj 
+让/v 我/rr 出现/v 俺/rr 在/p 星期三/t 有/vyou 哪/ry 一些/mq 事件/n 吗/y 。/wj 
+请/v 查/v 一下/mq 到/v 星期三/t 有/vyou 哪/ry 一些/mq 事件/n 吗/y 。/wj 
+请/v 查出/v 咱们/rr 在/p 星期三/t 有/vyou 哪/ry 一些/mq 事件/n 吗/y 。/wj 
+请/v 标/v 一下/mq 寡人/n 到/p 星期三/t 有/vyou 哪/ry 一些/mq 事件/n 吗/y 。/wj 
+请/v 说/v 出/vf 朕/w 在/p 星期三/t 有/vyou 哪/ry 一些/mq 事件/n 吗/y 。/wj 
+请/v 念/v 下/vf 俺/rr 到/v 星期三/t 有/vyou 哪/ry 一些/mq 事件/n 吗/y 。/wj 
+请/v 出现/v 我/rr 在/p 星期三/t 有/vyou 哪/ry 一些/mq 事件/n 吗/y 。/wj 
+请/v 帮助/v 我/rr 查找/v 咱们/rr 到/v 星期三/t 有/vyou 哪/ry 一些/mq 事件/n 吗/y 。/wj 
+请/v 帮助/v 我/rr 查出/v 我们/rr 在/p 星期三/t 有/vyou 哪/ry 一些/mq 事件/n 吗/y 。/wj 
+请/v 帮助/v 我/rr 标/v 一下/mq 朕/w 到/v 星期三/t 有/vyou 哪/ry 一些/mq 事件/n 吗/y 。/wj 
+请/v 帮助/v 我/rr 说/v 出/vf 咱/rr 在/p 星期三/t 有/vyou 哪/ry 一些/mq 事件/n 吗/y 。/wj 
+请/v 帮助/v 我/rr 念/v 下/vf 我/rr 到/v 星期三/t 有/vyou 哪/ry 一些/mq 事件/n 吗/y 。/wj 
+请/v 帮助/v 我/rr 出现/v 在/p 星期三/t 有/vyou 哪/ry 一些/mq 事件/n 吗/y 。/wj 
+请/v 帮/v 我/rr 查找/v 我们/rr 到/v 星期三/t 有/vyou 哪/ry 一些/mq 事件/n 吗/y 。/wj 
+请/v 帮/v 我/rr 查出/v 寡人/n 在/p 星期三/t 有/vyou 哪/ry 一些/mq 事件/n 吗/y 。/wj 
+请/v 帮/v 我/rr 标/v 一下/mq 咱/rr 到/v 星期三/t 有/vyou 哪/ry 一些/mq 事件/n 吗/y 。/wj 
+请/v 帮/v 我/rr 说/v 出/vf 俺/rr 在/p 星期三/t 有/vyou 哪/ry 一些/mq 事件/n 吗/y 。/wj 
+请/v 帮/v 我/rr 念/v 下/vf 到/v 星期三/t 有/vyou 哪/ry 一些/mq 事件/n 吗/y 。/wj 
+请/v 帮/v 我/rr 展现/v 咱们/rr 在/p 星期三/t 有/vyou 哪/ry 一些/mq 事件/n 吗/y 。/wj 
+请/v 给/p 我/rr 查找/v 寡人/n 到/p 星期三/t 有/vyou 哪/ry 一些/mq 事件/n 吗/y 。/wj 
+请/v 给/p 我/rr 查出/v 朕/w 在/p 星期三/t 有/vyou 哪/ry 一些/mq 事件/n 吗/y 。/wj 
+请/v 给/p 我/rr 标/v 一下/mq 俺/rr 到/v 星期三/t 有/vyou 哪/ry 一些/mq 事件/n 吗/y 。/wj 
+请/v 给/p 我/rr 说/v 出/vf 我/rr 在/p 星期三/t 有/vyou 哪/ry 一些/mq 事件/n 吗/y 。/wj 
+请/v 给/p 我/rr 念/v 一下/mq 咱们/rr 到/v 星期三/t 有/vyou 哪/ry 一些/mq 事件/n 吗/y 。/wj 
+能/v 不能/v 告诉/v 我们/rr 本/rz 时区/n 什么/ry 时辰/n 。/wj 
+希望/v 知道/v 我/rr 这边/rzs 为/v 几/m 点/qt 。/wj 
+帮/v 我/rr 看看/v 我们/rr 这儿/rzs 时辰/n 。/wj 
+找/v 出/vf 本/rz 地区/n 在/p 几/m 点/qt 。/wj 
+给/p 我/rr 查询/v 本/rz 地点/n 。/wj 
+能否/v 帮/v 我/rr 标记/v 出来/vf 时辰/n 。/wj 
+给/p 我/rr 说/v 说/v 这里/rzs 时辰/n 。/wj 
+帮/v 我/rr 看/v 一下/mq 当地/s 为/v 什么/ry 时候/n 。/wj 
+能否/v 帮助/v 我/rr 显示/v 出/vf 我们/rr 这儿/rzs 的/ude1 点/qt 。/wj 
+我/rr 这里/rzs 什么/ry 时辰/n 看/v 一下/mq 。/wj 
+本地/rzs 什么/ry 时候/n 找/v 下/vf 。/wj 
+给/p 我/rr 展现/v 本/rz 时区/n 在/p 什么/ry 时辰/n 。/wj 
+给/p 我/rr 出现/v 本/rz 地区/n 什么/ry 时辰/n 。/wj 
+让/v 我/rr 出来/vf 本地/rzs 在/p 几/m 点/qt 。/wj 
+可以/v 帮/v 我/rr 找到/v 本地/rzs 的/ude1 时候/n 。/wj 
+请/v 讲讲/v 几/m 点/qt 。/wj 
+可以/v 不/d 可以/v 找/v 到/v 当地/s 的/ude1 时候/n 。/wj 
+可以/v 不/d 可以/v 帮助/v 我/rr 标/v 一下/mq 这儿/rzs 的/ude1 点/qt 。/wj 
+请/v 帮/v 我/rr 查/v 到/v 当地/s 在/p 什么/ry 时辰/n 。/wj 
+将/p 本/rz 地区/n 是/vshi 什么/ry 时间/n 告诉/v 咱/rr 。/wj 
+请/v 给/p 我/rr 找/v 找/v 我们/rr 这儿/rzs 什么/ry 时辰/n 。/wj 
+请/v 给/p 我/rr 查询/v 本地/rzs 为什么/ryv 时辰/n 。/wj 
+请/v 让/v 我/rr 显示/v 一下/mq 这儿/rzs 时间/n 。/wj 
+请/v 本/rz 时区/n 什么/ry 时间/n 念/v 下/vf 。/wj 
+请/v 把/pba 我/rr 这里/rzs 什么/ry 时辰/n 查/v 一下/mq 。/wj 
+请/v 给/p 我/rr 显示/v 一下/mq 我们/rr 这儿/rzs 什么/ry 时候/n 。/wj 
+请/v 让/v 我/rr 找/v 到/v 当地/s 为/v 什么/ry 时候/n 。/wj 
+能否/v 我/rr 这边/rzs 点/v 告诉/v 咱们/rr 。/wj 
+请/v 将/p 这儿/rzs 在/p 几/m 点/qt 告诉/v 我/rr 。/wj 
+请/v 将/p 本地/rzs 为什么/ryv 时辰/n 念/v 下/vf 。/wj 
+能否/v 给/p 我/rr 查找/v 我们/rr 这儿/rzs 什么/ry 时辰/n 。/wj 
+能否/v 查询/v 本地/rzs 什么/ry 时辰/n 。/wj 
+可以/v 不/d 可以/v 把/pba 我/rr 这边/rzs 时间/n 查找/v 一下/mq 。/wj 
+能否/v 本/rz 地区/n 是/vshi 什么/ry 时辰/n 告诉/v 朕/w 。/wj 
+能否/v 给/p 我/rr 显示/v 出/vf 来/vf 这儿/rzs 什么/ry 时辰/n 。/wj 
+能否/v 帮助/v 我/rr 找/v 找/v 这里/rzs 到/v 了/ule 什么/ry 时间/n 。/wj 
+能/v 不/d 能/v 帮/v 我/rr 找/v 一/m 找/v 时间/n 。/wj 
+能否/v 将/d 是/vshi 什么/ry 时间/n 说说/v 。/wj 
+能否/v 将/p 这里/rzs 什么/ry 时候/n 查/v 一/m 查/v 。/wj 
+能/v 不能/v 给/p 我/rr 出现/v 我们/rr 这儿/rzs 几/m 点/qt 。/wj 
+可以/v 帮助/v 我/rr 找/v 一下/mq 我们/rr 这儿/rzs 点/n 。/wj 
+能否/v 帮/v 我/rr 报/v 下/vf 本/rz 地区/n 到/v 了/ule 几/m 点/qt 。/wj 
+能否/v 给/p 我/rr 找/v 一/m 找/v 这儿/rzs 在/p 几/m 点/qt 。/wj 
+能否/v 给/p 我/rr 念/v 下/vf 本地/rzs 是/vshi 什么/ry 时辰/n 。/wj 
+可以/v 给/p 我/rr 念/v 一下/mq 本地/rzs 几/m 点/qt 。/wj 
+能否/v 让/v 我/rr 看看/v 这儿/rzs 为什么/ryv 时间/n 。/wj 
+可以/v 不/d 可以/v 帮助/v 我/rr 显示/v 一下/mq 本/n 地区/n 点/qt 。/wj 
+可以/v 不/d 可以/v 给/p 我/rr 查/v 下/vf 本/rz 地区/n 几/m 点/qt 。/wj 
+能/v 不能/v 标/v 一下/mq 本/n 地区/n 为/v 什么/ry 时间/n 。/wj 
+能/v 不/d 能/v 显示/v 出/vf 这里/rzs 几/m 点/qt 。/wj 
+能/v 不/d 能/v 将/p 这儿/rzs 到/v 了/ule 什么/ry 时候/n 展现/v 。/wj 
+能/v 不/d 能/v 帮助/v 我/rr 展示/v 当地/s 几/m 点/qt 。/wj 
+可以/v 这儿/rzs 是/vshi 什么/ry 时候/n 讲/v 一下/mq 。/wj 
+能/v 不/d 能/v 帮/v 我/rr 展示/v 下/vf 本/rz 地区/n 在/p 什么/ry 时候/n 。/wj 
+能/v 不能/v 请/v 给/p 我/rr 说/v 一/m 说/v 什么/ry 时候/n 假如/c 河内/nsf 在/p 晚上/t 八点/t 的/ude1 时候/n 。/wj 
+可以/v 不/d 可以/v 帮/v 我/rr 找/v 一/m 下/f 什么/ry 时间/n 假设/v 武汉/ns 时间/n 是/vshi 晚上/t 八点/t 。/wj 
+能/v 不/d 能/v 帮/v 我/rr 说/v 说/v 当/p 武汉/ns 到/v 了/ule 晚上/t 八点/t 如何/ryv 。/wj 
+可以/v 不/d 可以/v 让/v 我/rr 说/v 一下/mq 什么/ry 时间/n 假如/c 武汉/ns 时间/n 为/p 晚上/t 八点/t 。/wj 
+能否/v 找/v 出来/vf 什么/ry 时间/n 如果/c 河内/nsf 是/vshi 晚上/t 八点/t 的/ude1 时候/n 。/wj 
+查/v 一/m 查/v 如果/c 河内/nsf 是/vshi 晚上/t 八点/t 之/uzhi 时/ng 怎样/ryv 。/wj 
+帮助/v 我/rr 标记/v 出来/vf 假设/v 河内/nsf 在/p 晚上/t 八点/t 之/uzhi 时/ng 怎么样/ryv 。/wj 
+帮/v 我/rr 说/v 出/vf 武汉/ns 是/vshi 晚上/t 八点/t 怎样/ryv 。/wj 
+给/p 我/rr 说/v 出/vf 如果/c 武汉/ns 晚上/t 八点/t 之/uzhi 时/ng 什么/ry 情况/n 。/wj 
+可以/v 帮/v 我/rr 查找/v 假设/v 武汉/ns 晚上/t 八点/t 。/wj 
+告诉/v 我们/rr 武汉/ns 是/vshi 晚上/t 八点/t 几/m 点/qt 。/wj 
+可以/v 不/d 可以/v 查找/v 一下/mq 假如/c 武汉/ns 晚上/t 八点/t 之/uzhi 时/ng 呢/y 。/wj 
+请/v 让/v 我/rr 查询/v 假如/c 河内/nsf 到/v 了/ule 晚上/t 八点/t 的/ude1 时候/n 怎样/ryv 。/wj 
+必须/d 知道/v 在/p 武汉/ns 是/vshi 晚上/t 八点/t 什么/ry 时候/n 。/wj 
+找/v 出来/vf 武汉/ns 在/p 晚上/t 八点/t 的/ude1 时候/n 又/d 什么/ry 时间/n 。/wj 
+帮助/v 我/rr 查/v 一下/mq 当/p 河内/nsf 在/p 晚上/t 八点/t 的/ude1 时候/n 什么/ry 时辰/n 。/wj 
+请/v 告诉/v 咱们/rr 假设/v 武汉/ns 晚上/t 八点/t 的/ude1 时候/n 时间/n 在/p 什么/ry 时间/n 。/wj 
+能/v 不能/v 给/p 我/rr 念/v 出/vf 来/vf 什么/ry 时辰/n 武汉/ns 晚上/t 八点/t 。/wj 
+能/v 不能/v 让/v 我/rr 说/v 说/v 什么/ry 时候/n 如果/c 武汉/ns 到/v 了/ule 晚上/t 八点/t 之/uzhi 时/ng 。/wj 
+可以/v 讲讲/v 什么/ry 时间/n 假如/c 武汉/ns 为/p 晚上/t 八点/t 之/uzhi 时/ng 。/wj 
+可以/v 帮助/v 我/rr 展现/v 什么/ry 时间/n 假设/v 河内/nsf 到/v 了/ule 晚上/t 八点/t 之/uzhi 时/ng 。/wj 
+要/v 理解/v 若/c 武汉/ns 在/p 晚上/t 八点/t 时间/n 在/p 几/m 点/qt 。/wj 
+想/v 要/v 知道/v 如果/c 河内/nsf 为/p 晚上/t 八点/t 时间/n 在/p 什么/ry 时辰/n 。/wj 
+希望/v 了解/v 假如/c 河内/nsf 晚上/t 八点/t 之/uzhi 时/ng 时间/n 为/p 几/m 点/qt 。/wj 
+急需/v 知道/v 若/c 武汉/ns 到/v 了/ule 晚上/t 八点/t 时间/n 为/v 。/wj 
+可以/v 不/d 可以/v 帮助/v 我/rr 出来/vf 什么/ry 时间/n 河内/nsf 晚上/t 八点/t 。/wj 
+请/v 给/p 我/rr 说/v 一/m 说/v 当/p 武汉/ns 为/p 晚上/t 八点/t 的/ude1 时候/n 又/d 几/m 点/qt 。/wj 
+可以/v 不/d 可以/v 给/p 我/rr 念/v 一下/mq 什么/ry 时辰/n 武汉/ns 为/p 晚上/t 八点/t 。/wj 
+可以/v 给/p 我/rr 出现/v 假设/v 武汉/ns 为/p 晚上/t 八点/t 的/ude1 时候/n 什么/ry 情况/n 。/wj 
+能否/v 帮助/v 我/rr 查/v 一/m 查/v 在/p 武汉/ns 晚上/t 八点/t 几/m 点/qt 。/wj 
+说/v 出来/vf 假如/c 河内/nsf 到/v 了/ule 晚上/t 八点/t 时间/n 到/v 了/y 。/wj 
+显示/v 一下/mq 河内/nsf 为/p 晚上/t 八点/t 之/uzhi 时/ng 时间/n 。/wj 
+能/v 不能/v 查找/v 在/p 武汉/ns 到/v 了/ule 晚上/t 八点/t 几/m 点/qt 。/wj 
+可以/v 不/d 可以/v 给/p 我/rr 说/v 出/vf 假设/v 河内/nsf 晚上/t 八点/t 的/ude1 时候/n 怎么样/ryv 。/wj 
+能/v 不/d 能/v 帮/v 我/rr 说/v 出来/vf 武汉/ns 是/vshi 晚上/t 八点/t 之/uzhi 时/ng 又/d 几/m 点/qt 。/wj 
+能/v 不能/v 让/v 我/rr 查询/v 一下/mq 河内/nsf 在/p 晚上/t 八点/t 的/ude1 时候/n 又/d 什么/ry 时间/n 。/wj 
+可以/v 看看/v 在/p 河内/nsf 是/vshi 晚上/t 八点/t 什么/ry 时辰/n 。/wj 
+可以/v 帮助/v 我/rr 展示/v 一/m 下/vf 武汉/ns 在/p 晚上/t 八点/m 又/d 什么/ry 时间/n 。/wj 
+可以/v 给/p 我/rr 报/v 下/f 当/p 武汉/ns 晚上/t 八点/m 又/d 什么/ry 时辰/n 。/wj 
+可以/v 不/d 可以/v 找/v 下/f 当/p 武汉/ns 晚上/t 八点/m 又/d 什么/ry 时候/n 。/wj 
+帮/v 我/rr 展示/v 如果/c 河内/nsf 在/p 晚上/t 八点/t 之/uzhi 时/ng 时间/n 是/vshi 什么/ry 时辰/n 。/wj 
+给/p 我/rr 找/v 下/vf 若/v 武汉/ns 是/vshi 晚上/t 八点/t 的/ude1 时候/n 时间/n 为/p 几/m 点/qt 。/wj 
+可以/v 不/d 可以/v 让/v 我/rr 说/v 一/m 说/v 河内/nsf 到/v 了/ule 晚上/t 八点/m 又/d 什么/ry 时间/n 。/wj 
+给/p 我/rr 出现/v 假如/c 河内/nsf 为/p 晚上/t 八点/t 之/uzhi 时/ng 时间/n 为/v 什么/ry 时候/n 。/wj 
+让/v 我/rr 说/v 一下/mq 假设/n 武汉/ns 是/vshi 晚上/t 八点/t 时间/n 为/v 什么/ry 时候/n 。/wj 
+请/v 查找/v 武汉/ns 在/p 晚上/t 八点/t 的/ude1 时候/n 时间/n 为/v 什么/ry 时候/n 。/wj 
+请/v 讲讲/v 假如/c 河内/nsf 为/p 晚上/t 八点/t 之/uzhi 时/ng 时间/n 为/v 什么/ry 时候/n 。/wj 
+请/v 帮助/v 我/rr 找/v 一/m 找/v 假设/v 武汉/ns 是/vshi 晚上/t 八点/t 时间/n 为/v 什么/ry 时候/n 。/wj 
+请/v 帮助/v 我/rr 念/v 出/vf 来/vf 武汉/ns 在/p 晚上/t 八点/t 的/ude1 时候/n 时间/n 为/v 什么/ry 时候/n 。/wj 
+请/v 帮/v 我/rr 找/v 找/v 假如/c 河内/nsf 为/p 晚上/t 八点/t 之/uzhi 时/ng 时间/n 为/v 什么/ry 时候/n 。/wj 
+请/v 帮/v 我/rr 展现/v 假设/v 武汉/ns 是/vshi 晚上/t 八点/t 时间/n 为/v 什么/ry 时候/n 。/wj 
+请/v 给/p 我/rr 看看/v 武汉/ns 在/p 晚上/t 八点/t 的/ude1 时候/n 时间/n 为/v 什么/ry 时候/n 。/wj 
+请/v 让/v 我/rr 查询/v 一下/mq 假如/c 河内/nsf 为/p 晚上/t 八点/t 之/uzhi 时/ng 时间/n 为/v 什么/ry 时候/n 。/wj 
+请/v 让/v 我/rr 说/v 出来/vf 假设/v 武汉/ns 是/vshi 晚上/t 八点/t 时间/n 为/v 什么/ry 时候/n 。/wj 
+能否/v 查/v 一/m 查/v 武汉/ns 在/p 晚上/t 八点/t 的/ude1 时候/n 时间/n 为/v 什么/ry 时候/n 。/wj 
+能否/v 念/v 一下/mq 假如/c 河内/nsf 为/p 晚上/t 八点/t 之/uzhi 时/ng 时间/n 为/v 什么/ry 时候/n 。/wj 
+能否/v 帮助/v 我/rr 找到/v 假设/v 武汉/ns 是/vshi 晚上/t 八点/t 时间/n 为/v 什么/ry 时候/n 。/wj 
+能否/v 帮助/v 我/rr 展示/v 武汉/ns 在/p 晚上/t 八点/t 的/ude1 时候/n 时间/n 为/v 什么/ry 时候/n 。/wj 
+能否/v 帮/v 我/rr 标记/n 一下/mq 假如/c 河内/nsf 为/p 晚上/t 八点/t 之/uzhi 时/ng 时间/n 为/v 什么/ry 时候/n 。/wj 
+能否/v 帮/v 我/rr 展示/v 下/vf 假设/v 武汉/ns 是/vshi 晚上/t 八点/t 时间/n 为/v 什么/ry 时候/n 。/wj 
+能否/v 给/p 我/rr 说/v 出/vf 武汉/ns 在/p 晚上/t 八点/t 的/ude1 时候/n 时间/n 为/v 什么/ry 时候/n 。/wj 
+能否/v 让/v 我/rr 找/v 一/m 下/f 假如/c 河内/nsf 为/p 晚上/t 八点/t 之/uzhi 时/ng 时间/n 为/v 什么/ry 时候/n 。/wj 
+能否/v 让/v 我/rr 报/v 下/vf 假设/v 武汉/ns 是/vshi 晚上/t 八点/t 时间/n 为/v 什么/ry 时候/n 。/wj 
+能/v 不能/v 查/v 到/v 武汉/ns 在/p 晚上/t 八点/t 的/ude1 时候/n 时间/n 为/v 什么/ry 时候/n 。/wj 
+能/v 不/d 能/v 显示/v 出/vf 假如/c 河内/nsf 为/p 晚上/t 八点/t 之/uzhi 时/ng 时间/n 为/v 什么/ry 时候/n 。/wj 
+能/v 不/d 能/v 帮助/v 我/rr 标/v 一下/mq 假设/n 武汉/ns 是/vshi 晚上/t 八点/t 时间/n 为/v 什么/ry 时候/n 。/wj 
+能/v 不/d 能/v 帮助/v 我/rr 展示/v 出/vf 武汉/ns 在/p 晚上/t 八点/t 的/ude1 时候/n 时间/n 为/v 什么/ry 时候/n 。/wj 
+能/v 不/d 能/v 帮/v 我/rr 说/v 说/v 假如/c 河内/nsf 为/p 晚上/t 八点/t 之/uzhi 时/ng 时间/n 为/v 什么/ry 时候/n 。/wj 
+能/v 不能/v 给/p 我/rr 查/v 下/vf 假设/v 武汉/ns 是/vshi 晚上/t 八点/t 时间/n 为/v 什么/ry 时候/n 。/wj 
+能/v 不能/v 给/p 我/rr 报/v 一下/mq 武汉/ns 在/p 晚上/t 八点/t 的/ude1 时候/n 时间/n 为/v 什么/ry 时候/n 。/wj 
+能/v 不能/v 让/v 我/rr 查出/v 假如/c 河内/nsf 为/p 晚上/t 八点/t 之/uzhi 时/ng 时间/n 为/v 什么/ry 时候/n 。/wj 
+能/v 不能/v 让/v 我/rr 显示/v 一下/mq 假设/n 武汉/ns 是/vshi 晚上/t 八点/t 时间/n 为/v 什么/ry 时候/n 。/wj 
+可以/v 标记/n 出来/vf 武汉/ns 在/p 晚上/t 八点/t 的/ude1 时候/n 时间/n 为/v 什么/ry 时候/n 。/wj 
+可以/v 出来/vf 假如/c 河内/nsf 为/p 晚上/t 八点/t 之/uzhi 时/ng 时间/n 为/v 什么/ry 时候/n 。/wj 
+可以/v 帮助/v 我/rr 看/v 一/m 看/v 假设/v 武汉/ns 是/vshi 晚上/t 八点/t 时间/n 为/v 什么/ry 时候/n 。/wj 
+可以/v 帮/v 我/rr 查/v 一下/mq 武汉/ns 在/p 晚上/t 八点/t 的/ude1 时候/n 时间/n 为/v 什么/ry 时候/n 。/wj 
+可以/v 帮/v 我/rr 讲/v 一/m 讲/v 假如/c 河内/nsf 为/p 晚上/t 八点/t 之/uzhi 时/ng 时间/n 为/v 什么/ry 时候/n 。/wj 
+可以/v 给/p 我/rr 查找/v 一下/mq 假设/n 武汉/ns 是/vshi 晚上/t 八点/t 时间/n 为/v 什么/ry 时候/n 。/wj 
+可以/v 给/p 我/rr 显示/v 武汉/ns 在/p 晚上/t 八点/t 的/ude1 时候/n 时间/n 为/v 什么/ry 时候/n 。/wj 
+可以/v 让/v 我/rr 查出/v 来/vf 假如/c 河内/nsf 为/p 晚上/t 八点/t 之/uzhi 时/ng 时间/n 为/v 什么/ry 时候/n 。/wj 
+可以/v 让/v 我/rr 出现/v 假设/v 武汉/ns 是/vshi 晚上/t 八点/t 时间/n 为/v 什么/ry 时候/n 。/wj 
+可以/v 不/d 可以/v 说/v 一下/mq 武汉/ns 在/p 晚上/t 八点/t 的/ude1 时候/n 时间/n 为/v 什么/ry 时候/n 。/wj 
+可以/v 不/d 可以/v 帮助/v 我/rr 查询/v 假如/c 河内/nsf 为/p 晚上/t 八点/t 之/uzhi 时/ng 时间/n 为/v 什么/ry 时候/n 。/wj 
+可以/v 不/d 可以/v 帮助/v 我/rr 讲讲/v 假设/v 武汉/ns 是/vshi 晚上/t 八点/t 时间/n 为/v 什么/ry 时候/n 。/wj 
+可以/v 不/d 可以/v 帮/v 我/rr 找/v 一/m 找/v 武汉/ns 在/p 晚上/t 八点/t 的/ude1 时候/n 时间/n 为/v 什么/ry 时候/n 。/wj 
+可以/v 不/d 可以/v 帮/v 我/rr 念/v 下/f 假如/c 河内/nsf 为/p 晚上/t 八点/t 之/uzhi 时/ng 时间/n 为/v 什么/ry 时候/n 。/wj 
+可以/v 不/d 可以/v 给/p 我/rr 找/v 找/v 假设/v 武汉/ns 是/vshi 晚上/t 八点/t 时间/n 为/v 什么/ry 时候/n 。/wj 
+可以/v 不/d 可以/v 给/p 我/rr 展现/v 武汉/ns 在/p 晚上/t 八点/t 的/ude1 时候/n 时间/n 为/v 什么/ry 时候/n 。/wj 
+可以/v 不/d 可以/v 让/v 我/rr 看/v 一下/mq 假如/c 河内/nsf 为/p 晚上/t 八点/t 之/uzhi 时/ng 时间/n 为/v 什么/ry 时候/n 。/wj 
+请/v 念/v 一下/mq 是/vshi 在/p 晚上/t 八点/t 。/wj 
+请/v 给/p 我/rr 显示/v 出/vf 端午节/t 什么/ry 时候/n 。/wj 
+二十五/m 号/q 日期/n 是/vshi 几/m 月/n 几/m 日/qt 看看/v 。/wj 
+是/vshi 二十五/m 号/q 时间/n 是/vshi 几/m 号/q 查询/v 一下/mq 。/wj 
+在/p 二十五/m 号/q 的/ude1 时间/n 什么/ry 时间/n 查找/v 。/wj 
+帮/v 我/rr 查/v 一/m 查/v 是/vshi 二十五/m 号/q 的/ude1 时候/n 几/m 月/n 几/m 日/qt 。/wj 
+给/p 我/rr 查找/v 是/vshi 在/p 二十五/m 号/q 的/ude1 日子/n 哪/ry 天/qt 。/wj 
+把/v 是/vshi 在/p 二十五/m 号/q 日期/n 是/vshi 在/p 星期/n 几/m 查询/vn 。/wj 
+让/v 我/rr 展示/v 是/vshi 在/p 二十五/m 号/q 日子/n 几/m 月/n 几/m 日/qt 。/wj 
+请/v 显示/v 是/vshi 二十五/m 号/q 的/ude1 时间/n 多少/ry 号/q 。/wj 
+将/d 是/vshi 在/p 二十五/m 号/q 的/ude1 时候/n 在/p 哪/ry 天/qt 查/v 到/v 。/wj 
+请/v 帮/v 我/rr 说/v 出来/vf 是/vshi 二十五/m 号/q 时候/n 是/vshi 什么/ry 时候/n 。/wj 
+请/v 在/p 二十五/m 号/q 的/ude1 日期/n 在/p 什么/ry 日子/n 讲/v 一/m 讲/v 。/wj 
+请/v 位于/v 二十五/m 号/q 的/ude1 时间/n 多少/ry 号/q 查找/v 一下/mq 。/wj 
+请/v 把/qv 是/vshi 二十五/m 号/q 时候/n 在/p 哪/ry 天/qt 查/v 出来/vf 。/wj 
+请/v 把/qv 是/vshi 在/p 二十五/m 号/q 日子/n 是/vshi 哪/ry 天/qt 展示/v 一下/mq 。/wj 
+能否/v 帮/v 我/rr 找/v 下/vf 二十五/m 号/q 的/ude1 时候/n 周/nr1 几/m 。/wj 
+能否/v 给/p 我/rr 查询/v 是/vshi 在/p 二十五/m 号/q 时间/n 是/vshi 哪/ry 一/m 天/qt 。/wj 
+请/v 将/d 位于/v 二十五/m 号/q 周/nr1 几/m 查找/v 。/wj 
+能否/v 让/v 我/rr 显示/v 出来/vf 在/p 二十五/m 号/q 的/ude1 时候/n 几/m 月/n 几/m 日/qt 。/wj 
+能否/v 在/p 二十五/m 号/q 的/ude1 日子/n 是/vshi 多少/ry 号/q 标/v 一下/mq 。/wj 
+能/v 不/d 能/v 帮助/v 我/rr 讲/v 一/m 下/f 二十五/m 号/q 的/ude1 日期/n 是/vshi 。/wj 
+能否/v 把/qv 是/vshi 二十五/m 号/q 的/ude1 时间/n 周/nr1 几/m 说说/v 。/wj 
+能否/v 把/qv 是/vshi 在/p 二十五/m 号/q 的/ude1 星期/n 几/m 念/v 下/vf 。/wj 
+能/v 不能/v 让/v 我/rr 找/v 出来/vf 是/vshi 在/p 二十五/m 号/q 时间/n 是/vshi 几/m 月/n 几/m 号/q 。/wj 
+可以/v 查/v 到/v 是/vshi 二十五/m 号/q 周/nr1 几/m 。/wj 
+能否/v 将/d 位于/v 二十五/m 号/q 时间/n 是/vshi 在/p 星期/n 几/m 查询/vn 。/wj 
+可以/v 帮/v 我/rr 查/v 一下/mq 二十五/m 号/q 是/vshi 几/m 号/q 。/wj 
+可以/v 帮/v 我/rr 展示/v 出/vf 位于/v 二十五/m 号/q 时间/n 是/vshi 几/m 月/n 几/m 号/q 。/wj 
+可以/v 给/p 我/rr 展示/v 位于/v 二十五/m 号/q 的/ude1 日子/n 是/vshi 多少/ry 号/q 。/wj 
+可以/v 让/v 我/rr 显示/v 在/p 二十五/m 号/q 日期/n 几/m 号/q 。/wj 
+能/v 不能/v 把/qv 是/vshi 在/p 二十五/m 号/q 的/ude1 时间/n 在/p 出现/v 。/wj 
+能/v 不/d 能/v 将/p 二十五/m 号/q 的/ude1 是/vshi 哪/ry 天/qt 标/v 一下/mq 。/wj 
+可以/v 不/d 可以/v 帮/v 我/rr 说/v 一/m 下/f 是/vshi 二十五/m 号/q 的/ude1 时间/n 是/vshi 周/nr1 几/m 。/wj 
+能/v 不/d 能/v 将/d 位于/v 二十五/m 号/q 日子/n 在/p 几/m 月/n 几/m 日/qt 标/v 一下/mq 。/wj 
+可以/v 是/vshi 二十五/m 号/q 日期/n 是/vshi 在/p 几/m 号/q 查询/vn 。/wj 
+可以/v 是/vshi 在/p 二十五/m 号/q 的/ude1 是/vshi 找/v 一下/mq 。/wj 
+可以/v 把/pba 在/p 二十五/m 号/q 日子/n 是/vshi 在/p 几/m 月/n 几/m 日/qt 告诉/v 寡人/n 。/wj 
+可以/v 将/d 是/vshi 二十五/m 号/q 日期/n 是/vshi 星期/n 几/m 出来/vf 。/wj 
+可以/v 不/d 可以/v 二十五/m 号/q 是/vshi 在/p 哪/ry 天/qt 念/v 出来/vf 。/wj 
+可以/v 不/d 可以/v 是/vshi 在/p 二十五/m 号/q 的/ude1 时候/n 在/p 什么/ry 日子/n 说/v 出来/vf 。/wj 
+可以/v 不/d 可以/v 把/pba 在/p 二十五/m 号/q 的/ude1 日子/n 星期/n 几/m 标记/n 一下/mq 。/wj 
+可以/v 不/d 可以/v 将/d 是/vshi 二十五/m 号/q 的/ude1 时间/n 在/p 哪/ry 天/qt 找/v 出/vf 。/wj 
+请/v 查/v 到/v 在/p 河内/nsf 的/ude1 时间/n 。/wj 
+给/p 我/rr 念/v 出/vf 来/vf 在/p 河内/nsf 是/vshi 几/m 号/q 开展/v 。/wj 
+请/v 让/v 我/rr 显示/v 一下/mq 在/p 河内/nsf 是/vshi 哪/ry 一/m 天/qt 开展/v 。/wj 
+能/v 不能/v 展示/v 河内/nsf 什么/ry 日子/n 开展/v 。/wj 
+可以/v 帮助/v 我/rr 出现/v 河内/nsf 星期/n 几/m 开展/v 。/wj 
+可以/v 不/d 可以/v 帮/v 我/rr 展示/v 一/m 下/f 河内/nsf 哪/ry 天/qt 开展/v 。/wj 
+请/v 告诉/v 寡人/n 即将/d 到来/vi 的/ude1 节/n 什么/ry 时间/n 来/vf 。/wj 
+出现/v 即将/d 到来/vi 的/ude1 什么/ry 。/wj 
+查询/v 一下/mq 接着/v 的/ude1 节日/n 几/m 月/n 几/m 号/q 。/wj 
+能否/v 说/v 出/vf 下/vf 一个/mq 节日/n 是/vshi 哪/ry 一个/mq 。/wj 
+帮助/v 我/rr 讲/v 一下下/m 一个/mq 节日/n 哪/ry 一/m 天/qt 。/wj 
+帮/v 我/rr 标记/v 出来/vf 接下来/vl 的/ude1 节日/n 星期/n 几/m 到/v 。/wj 
+给/p 我/rr 找/v 找/v 接下来/vl 的/ude1 节日/n 什么/ry 时候/n 到/v 。/wj 
+让/v 我/rr 查找/v 一下/mq 下/f 个/q 节日/n 多少/ry 号/q 。/wj 
+让/v 我/rr 展示/v 将要/d 来临/vi 的/ude1 哪/ry 一/m 天/qt 来临/vi 。/wj 
+能/v 不/d 能/v 帮/v 我/rr 查/v 一/m 查/v 下/vf 一个/mq 是/vshi 啥/ry 。/wj 
+请/v 帮助/v 我/rr 标/v 一下/mq 接下来/vl 的/ude1 节/n 几/m 号/q 到/v 。/wj 
+帮/v 我/rr 查找/v 接下来/vl 的/ude1 节/n 是/vshi 哪/ry 一个/mq 。/wj 
+请/v 给/p 我/rr 查/v 下/f 下/vf 一个/mq 节日/n 什么/ry 时候/n 到来/vi 。/wj 
+可以/v 不/d 可以/v 帮助/v 我/rr 看/v 一下/mq 即将/d 到来/vi 的/ude1 哪个/ry 。/wj 
+请/v 查/v 到/v 下/vf 一个/mq 来/f 是/vshi 哪/ry 一个/mq 。/wj 
+请/v 帮助/v 我/rr 说/v 一下/mq 接着/v 的/ude1 到/v 的/ude1 是/vshi 哪/ry 一个/mq 。/wj 
+能否/v 帮/v 我/rr 查出/v 下/vf 一个/mq 节/n 哪/ry 天/qt 到/v 。/wj 
+能否/v 查询/v 下/vf 个/q 到来/vi 的/ude1 节/n 是/vshi 哪/ry 一个/mq 。/wj 
+能否/v 让/v 我/rr 说/v 一下/mq 接下来/vl 的/ude1 节/n 几/m 号/q 到来/vn 。/wj 
+能/v 不能/v 讲讲/v 将要/d 来临/vi 的/ude1 什么/ry 时间/n 来/vf 。/wj 
+能/v 不/d 能/v 帮助/v 我/rr 念/v 出/vf 来/f 将要/d 来临/vi 的/ude1 多少/ry 号/n 来/vf 。/wj 
+能/v 不/d 能/v 帮/v 我/rr 出现/v 接着/v 的/ude1 节日/n 多少/ry 号/q 到来/vn 。/wj 
+能/v 不能/v 给/p 我/rr 念/v 一下/mq 下/f 个/q 来/f 的/ude1 是/vshi 哪个/ry 。/wj 
+可以/v 看看/v 下/vf 个/q 到来/vn 是/vshi 哪个/ry 。/wj 
+可以/v 帮助/v 我/rr 找到/v 接着/v 的/ude1 节/n 什么/ry 日子/n 到来/vi 。/wj 
+可以/v 帮/v 我/rr 标记/n 一下/mq 接着/v 的/ude1 哪/ry 一/m 天/qt 。/wj 
+找/v 陈菲菲/nr 的/ude1 工作/vn 电话/n 。/wj 
+请/v 查看/v 陈菲菲/nr 的/ude1 工作/vn 电话/n 。/wj 
+找/v 一/m 下/f 陈菲菲/nr 的/ude1 电话/n 。/wj 
+搜索/v 陈菲菲/nr 的/ude1 电话/n 。/wj 
+给/p 陈菲菲/nr 的/ude1 电话/n 。/wj 
+永浩/nr2 的/ude1 地点/n 在/p 啥/ry 。/wj 
+陈菲菲/nr 的/ude1 地址/n 在/p 什么/ry 。/wj 
+找/v 一/m 找/v 老/a 王/nr1 地点/n 。/wj 
+帮/v 我/rr 找/v 一/m 下/vf 老/a 王/nr1 地点/n 。/wj 
+帮/v 我/rr 给/p 老/a 王/nr1 地点/n 。/wj 
+给/p 我/rr 提供/v 老/a 王/nr1 地点/n 。/wj 
+请/v 显示/v 老/a 王/nr1 地点/n 。/wj 
+请/v 帮/v 我/rr 搜/v 老/a 王/nr1 地点/n 。/wj 
+请/v 给/p 我/rr 搜/v 一下/mq 老/a 王/nr1 地点/n 。/wj 
+麻烦/an 搜索/v 老/a 王/nr1 地点/n 。/wj 
+麻烦/an 帮/v 我/rr 找/v 老/a 王/nr1 地点/n 。/wj 
+麻烦/an 给/v 我/rr 查看/v 老/a 王/nr1 地点/n 。/wj 
+周杰伦/nr 的/ude1 家庭/n 住址/n 在/p 啥/ry 。/wj 
+陈菲菲/nr 家庭/n 地方/n 在/p 什么/ry 。/wj 
+显示/v 老王/nr 家庭/n 地点/n 。/wj 
+请/v 搜/v 老/a 王/nr1 家庭/n 地点/n 。/wj 
+麻烦/an 搜/v 一下/mq 老/a 王/nr1 家庭/n 地点/n 。/wj 
+老/a 王/nr1 电子/n 邮件/n 是/vshi 多少/ry 。/wj 
+查找/v 周杰伦/nr 的/ude1 电子/n 信箱/n 地址/n 。/wj 
+搜索/v 老/a 王/nr1 邮件/n 地址/n 。/wj 
+显示/v 陈菲菲/nr 电子/n 邮件/n 地址/n 。/wj 
+请/v 找/v 一/m 找/v 周杰伦/nr 的/ude1 电子/n 信箱/n 地址/n 。/wj 
+请/v 找/v 老/a 王/nr1 邮件/n 地址/n 。/wj 
+请/v 搜/v 陈菲菲/nr 电子/n 邮件/n 地址/n 。/wj 
+麻烦/an 找/v 一/m 下/f 周杰伦/nr 的/ude1 电子/n 信箱/n 地址/n 。/wj 
+麻烦/an 查看/v 老/a 王/nr1 邮件/n 地址/n 。/wj 
+麻烦/an 搜/v 一下/mq 陈菲菲/nr 电子/n 邮件/n 地址/n 。/wj 
+麻烦/an 给/v 周杰伦/nr 的/ude1 电子/n 信箱/n 地址/n 。/wj 
+把/pba 老/a 王/nr1 邮件/n 地址/n 告诉/v 我/rr 。/wj 
+永浩/nr2 公司/n 信箱/n 住址/n 是/vshi 多少/ry 。/wj 
+陈菲菲/nr 的/ude1 公司/n 电/n 邮/ng 住址/n 是/vshi 多少/ry 。/wj 
+搜索/v 陈菲菲/nr 的/ude1 公司/n 信箱/n 。/wj 
+请/v 找/v 一/m 找/v 毛毛/nr 公司/n 电/n 邮/ng 。/wj 
+请/v 显示/v 永浩/nr2 公司/n 邮箱/n 。/wj 
+请/v 告诉/v 我/rr 陈菲菲/nr 的/ude1 公司/n 邮件/n 地址/n 。/wj 
+毛毛/nr 订婚/vi 在/p 哪/ry 一/m 天/qt 。/wj 
+提供/v 老/a 王/nr1 的/ude1 订婚/vn 日期/n 。/wj 
+请/v 显示/v 陈菲菲/nr 的/ude1 订婚/vn 。/wj 
+老/a 王/nr1 全部/m 的/ude1 电话/n 号码/n 是/vshi 多少/ry 。/wj 
+找/v 一/m 下/vf 老/a 王/nr1 的/ude1 一切/rz 电话/n 。/wj 
+查找/v 永/d 浩/ag 全部/m 电话/n 。/wj 
+查看/v 陈菲菲/nr 的/ude1 所有/b 电话/n 。/wj 
+找/v 陈菲菲/nr 全部/m 的/ude1 电话/n 。/wj 
+搜/v 一下/mq 永/d 浩/ag 全部/m 电话/n 。/wj 
+搜/v 陈菲菲/nr 的/ude1 所有/b 电话/n 。/wj 
+把/pba 陈菲菲/nr 所有/b 的/ude1 号码/n 告诉/v 我/rr 。/wj 
+提供/v 永/d 浩/ag 全部/m 电话/n 。/wj 
+给/p 陈菲菲/nr 的/ude1 所有/b 电话/n 。/wj 
+搜/v 一下/mq 老/a 王/nr1 的/ude1 一切/rz 地址/n 。/wj 
+请/v 搜索/v 陈菲菲/nr 全部/m 地址/n 。/wj 
+麻烦/an 找/v 一/m 下/f 陈菲菲/nr 的/ude1 一切/rz 地址/n 。/wj 
+麻烦/an 帮/v 我/rr 周杰伦/nr 的/ude1 全部/m 地址/n 。/wj 
+把/pba 周杰伦/nr 全部/m 电子/n 信箱/n 地址/n 列出/v 。/wj 
+把/pba 永浩/nr2 的/ude1 所有/b 信箱/n 罗列/vn 。/wj 
+把/pba 毛毛/nr 信箱/n 地址/n 显示/v 。/wj 
+把/pba 陈菲菲/nr 一切/rz 邮件/n 地址/n 列出/v 。/wj 
+将/p 周杰伦/nr 的/ude1 全部/m 邮箱/n 罗列/vn 。/wj 
+将/d 老/a 王/nr1 所有/b 邮箱/n 地址/n 显示/v 。/wj 
+将/p 毛毛/nr 的/ude1 所有/b 电子/n 邮件/n 地址/n 列出/v 。/wj 
+找/v 一/m 下/f 周杰伦/nr 信箱/n 地址/n 。/wj 
+找/v 一/m 下/f 陈菲菲/nr 所有/b 邮箱/n 地址/n 。/wj 
+找/v 一/m 找/v 毛毛/nr 一切/rz 电/n 邮/ng 地址/n 。/wj 
+查找/v 老王/nr 的/ude1 信箱/n 地址/n 。/wj 
+查看/v 永浩/nr2 的/ude1 所有/b 邮箱/n 地址/n 。/wj 
+找/v 周杰伦/nr 的/ude1 一切/rz 电/n 邮/ng 地址/n 。/wj 
+搜索/v 周/nr1 杰/ag 伦/ng 信箱/n 地址/n 。/wj 
+搜索/v 陈菲菲/nr 所有/b 邮箱/n 地址/n 。/wj 
+搜/v 一下/mq 毛毛/nr 一切/rz 电/n 邮/ng 地址/n 。/wj 
+搜/v 老/a 王/nr1 的/ude1 信箱/n 地址/n 。/wj 
+显示/v 永浩/nr2 的/ude1 所有/b 邮箱/n 地址/n 。/wj 
+提供/v 周杰伦/nr 的/ude1 一切/rz 电/n 邮/ng 地址/n 。/wj 
+给/p 周杰伦/nr 信箱/n 地址/n 。/wj 
+给/p 陈菲菲/nr 所有/b 邮箱/n 地址/n 。/wj 
+列出/v 毛毛/nr 一切/rz 电/n 邮/ng 地址/n 。/wj 
+罗列/v 老/a 王/nr1 的/ude1 信箱/n 地址/n 。/wj 
+请/v 找/v 一/m 下/f 周杰伦/nr 的/ude1 一切/rz 电/n 邮/ng 地址/n 。/wj 
+请/v 找/v 一/m 找/v 周杰伦/nr 信箱/n 地址/n 。/wj 
+请/v 找/v 一/m 找/v 陈菲菲/nr 所有/b 邮箱/n 地址/n 。/wj 
+请/v 查找/v 毛毛/nr 一切/rz 电/n 邮/ng 地址/n 。/wj 
+请/v 查看/v 老/a 王/nr1 的/ude1 信箱/n 地址/n 。/wj 
+请/v 找/v 永浩/nr2 的/ude1 所有/b 邮箱/n 地址/n 。/wj 
+请/v 搜索/v 周杰伦/nr 的/ude1 一切/rz 电/n 邮/ng 地址/n 。/wj 
+请/v 搜/v 一下/mq 周/n 杰/ag 伦/ng 信箱/n 地址/n 。/wj 
+请/v 搜/v 一下/mq 陈菲菲/nr 所有/b 邮箱/n 地址/n 。/wj 
+请/v 搜/v 毛毛/nr 一切/rz 电/n 邮/ng 地址/n 。/wj 
+请/v 显示/v 老王/nr 的/ude1 信箱/n 地址/n 。/wj 
+请/v 提供/v 永浩/nr2 的/ude1 所有/b 邮箱/n 地址/n 。/wj 
+请/v 给/p 周杰伦/nr 的/ude1 一切/rz 电/n 邮/ng 地址/n 。/wj 
+请/v 列出/v 周/nr1 杰/ag 伦/ng 信箱/n 地址/n 。/wj 
+请/v 列出/v 陈菲菲/nr 所有/b 邮箱/n 地址/n 。/wj 
+请/v 罗列/v 毛毛/nr 一切/rz 电/n 邮/ng 地址/n 。/wj 
+请/v 显示/v 一切/rz 订婚/vn 事件/n 。/wj 
+告诉/v 永浩/nr2 的/ude1 一切/rz 日程/n 。/wj 
+找/v 一/m 找/v 永/d 浩/ag 所有/b 安排/vn 。/wj 
+把/pba 周杰伦/nr 全部/m 日程/n 给/v 。/wj 
+把/pba 周杰伦/nr 的/ude1 所有/b 安排/vn 搜/v 一下/mq 。/wj 
+搜索/v 陈菲菲/nr 的/ude1 日程/n 安排/vn 。/wj 
+搜/v 周杰伦/nr 的/ude1 日程/n 安排/vn 。/wj 
+把/pba 老王/nr 事件/n 罗列/vn 。/wj 
+把/pba 老/a 王/n 一切/rz 日程/n 安排/v 找/v 。/wj 
+给/p 毛毛/nr 的/ude1 全部/m 日程/n 。/wj 
+罗列/v 永浩/nr2 安排/v 。/wj 
+告诉/v 我/rr 毛毛/nr 的/ude1 安排/vn 。/wj 
+请/v 找/v 一/m 下/f 永浩/nr2 安排/v 。/wj 
+请/v 找/v 一/m 找/v 永浩/nr2 的/ude1 全部/m 日程/n 。/wj 
+把/pba 毛毛/nr 的/ude1 全部/m 日程/n 安排/v 查找/v 。/wj 
+请/v 找/v 毛毛/nr 所有/b 日程/n 安排/vn 。/wj 
+请/v 搜/v 一下/mq 周/n 杰/ag 伦/ng 所有/b 日程/n 。/wj 
+请/v 搜/v 永/d 浩/ag 一切/rz 日程/n 。/wj 
+将/p 周杰伦/nr 的/ude1 日程/n 安排/v 搜/v 。/wj 
+请/v 显示/v 老/a 王/nr1 所有/b 日程/n 。/wj 
+将/p 永浩/nr2 的/ude1 所有/b 日程/n 查找/v 。/wj 
+请/v 列出/v 周/nr1 杰/ag 伦/ng 一切/rz 日程/n 。/wj 
+请/v 显示/v 老/a 王/nr1 全部/m 事件/n 。/wj 
+将/d 老/a 王/n 一切/rz 安排/v 显示/v 。/wj 
+将/p 毛毛/nr 所有/b 日程/n 安排/v 列出/v 。/wj 
+将/p 陈菲菲/nr 日程/n 搜/v 一下/mq 。/wj 
+将/p 陈菲菲/nr 的/ude1 一切/rz 事件/n 找/v 一/m 找/v 。/wj 
+告诉/v 周杰伦/nr 的/ude1 所有/b 数据/n 。/wj 
+找/v 一/m 找/v 毛毛/nr 所有/b 数据/n 。/wj 
+找/v 周杰伦/nr 的/ude1 所有/b 数据/n 。/wj 
+搜/v 一下/mq 毛毛/nr 所有/b 数据/n 。/wj 
+提供/v 周杰伦/nr 的/ude1 所有/b 数据/n 。/wj 
+列出/v 毛毛/nr 所有/b 数据/n 。/wj 
+告诉/v 我/rr 周杰伦/nr 的/ude1 所有/b 数据/n 。/wj 
+把/pba 周杰伦/nr 的/ude1 数据/n 搜/v 一下/mq 。/wj 
+把/pba 永/d 浩/ag 一切/rz 信息/n 找/v 一/m 找/v 。/wj 
+把/pba 老/a 王/nr1 所有/b 情况/n 列出/v 。/wj 
+把/pba 毛毛/nr 数据/n 搜/v 一下/mq 。/wj 
+把/pba 毛毛/nr 的/ude1 一切/rz 信息/n 找/v 一/m 找/v 。/wj 
+找/v 一/m 找/v 老王/nr 的/ude1 所有/b 数据/n 。/wj 
+把/pba 陈菲菲/nr 的/ude1 一切/rz 情况/n 查看/v 。/wj 
+查看/v 陈菲菲/nr 的/ude1 全部/m 情况/n 。/wj 
+将/p 周杰伦/nr 的/ude1 全部/m 数据/n 找/v 一下/mq 。/wj 
+将/d 永/d 浩/ag 所有/b 情况/n 罗列/vn 。/wj 
+将/p 永浩/nr2 的/ude1 所有/b 信息/n 查看/v 。/wj 
+给/p 陈菲菲/nr 的/ude1 所有/b 情况/n 。/wj 
+将/d 老/a 王/n 一切/rz 数据/n 罗列/vn 。/wj 
+将/p 老王/nr 的/ude1 所有/b 信息/n 给/v 。/wj 
+请/v 找/v 陈菲菲/nr 的/ude1 所有/b 联系人/n 数据/n 。/wj 
+请/v 搜/v 老/a 王/nr1 的/ude1 所有/b 详情/n 。/wj 
+将/p 毛毛/nr 的/ude1 全部/m 情况/n 给/v 。/wj 
+麻烦/an 找/v 一/m 下/vf 老/a 王/nr1 的/ude1 全部/m 数据/n 。/wj 
+麻烦/an 查找/v 周杰伦/nr 的/ude1 一切/rz 情况/n 。/wj 
+将/p 陈菲菲/nr 的/ude1 一切/rz 数据/n 给/v 。/wj 
+麻烦/an 搜/v 一下/mq 陈菲菲/nr 的/ude1 所有/b 联系人/n 数据/n 。/wj 
+麻烦/an 给/v 周杰伦/nr 的/ude1 一切/rz 联系人/n 数据/n 。/wj 
+找/v 一/m 找/v 去/vf 周杰伦/nr 的/ude1 线路/n 。/wj 
+搜/v 去/vf 毛毛/nr 那儿/rzs 的/ude1 线路/n 。/wj 
+告诉/v 我/rr 去/vf 永浩/nr2 那/rzv 的/ude1 线路/n 。/wj 
+把/pba 老王/nr 的/ude1 路线/n 找/v 一/m 找/v 。/wj 
+把/pba 陈菲菲/nr 的/ude1 方向/n 列出/v 。/wj 
+把/pba 去/vf 永浩/nr2 那儿/rzs 的/ude1 线路/n 搜/v 一下/mq 。/wj 
+把/pba 去/vf 毛毛/nr 那/rzv 的/ude1 路线/n 找/v 一/m 找/v 。/wj 
+将/p 周杰伦/nr 那/rzv 的/ude1 方向/n 列出/v 。/wj 
+告诉/v 我/rr 老/a 王/nr1 的/ude1 路线/n 。/wj 
+将/p 陈菲菲/nr 那/rzv 的/ude1 路线/n 找/v 一/m 找/v 。/wj 
+将/d 去/vf 永浩/nr2 那/rzv 的/ude1 方向/n 列出/v 。/wj 
+将/d 去/vf 陈菲菲/nr 的/ude1 线路/n 搜/v 一下/mq 。/wj 
+我/rr 想/v 找/v 周杰伦/nr 的/ude1 地点/n 。/wj 
+永浩/nr2 家庭/n 线路/n 。/wj 
+老王/nr 的/ude1 家庭/n 地址/n 那/rzv 线路/n 。/wj 
+陈菲菲/nr 家庭/n 住址/n 那儿/rzs 线路/n 。/wj 
+去/vf 永浩/nr2 家庭/n 线路/n 。/wj 
+想/v 知道/v 周杰伦/nr 家庭/n 住址/n 线路/n 。/wj 
+去/vf 毛毛/nr 家庭/n 地址/n 那/rzv 的/ude1 线路/n 。/wj 
+去/vf 陈菲菲/nr 家庭/n 的/ude1 方向/n 。/wj 
+想/v 知道/v 老王/nr 的/ude1 家庭/n 地址/n 那/rzv 线路/n 。/wj 
+想/v 知道/v 陈菲菲/nr 家庭/n 住址/n 那儿/rzs 线路/n 。/wj 
+告诉/v 永浩/nr2 家庭/n 线路/n 。/wj 
+告诉/v 老王/nr 的/ude1 家庭/n 地址/n 那/rzv 线路/n 。/wj 
+告诉/v 毛毛/nr 的/ude1 家庭/n 地方/n 那/rzv 的/ude1 路线/n 。/wj 
+找/v 一/m 下/f 周杰伦/nr 的/ude1 家庭/n 地址/n 那儿/rzs 的/ude1 路线/n 。/wj 
+找/v 一/m 下/vf 老/a 王/nr1 家庭/n 住址/n 的/ude1 路线/n 。/wj 
+找/v 一下/mq 毛毛/nr 的/ude1 家庭/n 地方/n 那/rzv 的/ude1 路线/n 。/wj 
+找/v 一/m 找/v 周杰伦/nr 的/ude1 家庭/n 的/ude1 线路/n 。/wj 
+周杰伦/nr 家庭/n 那/rzv 的/ude1 路线/n 给/v 。/wj 
+周杰伦/nr 家庭/n 地址/n 那儿/rzs 地址/n 列出/v 。/wj 
+找/v 一/m 找/v 老王/nr 的/ude1 家庭/n 地方/n 那儿/rzs 方向/n 。/wj 
+找/v 一/m 找/v 毛毛/nr 的/ude1 家庭/n 地点/n 那/rzv 的/ude1 地址/n 。/wj 
+查找/v 周杰伦/nr 家庭/n 地方/n 那儿/rzs 的/ude1 路线/n 。/wj 
+查找/v 老王/nr 家庭/n 地址/n 的/ude1 路线/n 。/wj 
+周杰伦/nr 家庭/n 地点/n 那/rzv 的/ude1 方向/n 查找/v 。/wj 
+查找/v 陈菲菲/nr 的/ude1 家庭/n 住址/n 那/rzv 的/ude1 路线/n 。/wj 
+周杰伦/nr 家庭/n 住址/n 那儿/rzs 路线/n 找/v 一下/mq 。/wj 
+查看/v 永浩/nr2 的/ude1 家庭/n 地址/n 那/rzv 方向/n 。/wj 
+查看/v 老/a 王/nr1 的/ude1 家庭/n 的/ude1 线路/n 。/wj 
+周杰伦/nr 的/ude1 家庭/n 方向/n 搜索/vn 。/wj 
+查看/v 陈菲菲/nr 家庭/n 地点/n 的/ude1 路线/n 。/wj 
+周杰伦/nr 的/ude1 家庭/n 地址/n 那儿/rzs 的/ude1 路线/n 查看/v 。/wj 
+周杰伦/nr 的/ude1 家庭/n 地点/n 那儿/rzs 的/ude1 方向/n 显示/v 。/wj 
+周杰伦/nr 的/ude1 家庭/n 住址/n 那儿/rzs 的/ude1 线路/n 罗列/vn 。/wj 
+找/v 周杰伦/nr 的/ude1 家庭/n 地址/n 那/rzv 的/ude1 方向/n 。/wj 
+找/v 老王/nr 家庭/n 住址/n 那儿/rzs 的/ude1 方向/n 。/wj 
+拨打/v 陈菲菲/nr 的/ude1 电话/n 号码/n 。/wj 
+打/v 永浩/nr2 的/ude1 电话/n 。/wj 
+呼叫/v 小/a 张/q 号码/n 。/wj 
+致电/v 小张/nr 的/ude1 电话/n 号码/n 。/wj 
+接/v 周杰伦/nr 的/ude1 电话/n 。/wj 
+给/p 小/a 张/q 拨打/v 电话/n 。/wj 
+拨打/v 周杰伦/nr 的/ude1 手机/n 电话/n 。/wj 
+打电话/vi 陈菲菲/nr 手机/n 号码/n 。/wj 
+拨/v 打电话/vi 陈菲菲/nr 的/ude1 手机/n 电话/n 号码/n 。/wj 
+给/p 陈菲菲/nr 手机/n 号码/n 拨打/v 电话/n 。/wj 
+给/p 小张/nr 的/ude1 手机/n 电话/n 拨打/v 电话/n 。/wj 
+拨/v 打/v 小/a 张/q 的/ude1 手机/n 电话/n 号码/n 。/wj 
+呼叫/v 周杰伦/nr 的/ude1 手机/n 电话/n 。/wj 
+致电/v 陈菲菲/nr 手机/n 号码/n 。/wj 
+接通/v 陈菲菲/nr 的/ude1 手机/n 电话/n 号码/n 。/wj 
+接/v 永浩/nr2 的/ude1 手机/n 电话/n 。/wj 
+发/v 短/a 信/n 给/p 小/a 张/q 。/wj 
+发/v 一个/mq 文字/n 信息/n 给/p 小/a 张/q 。/wj 
+发送/v 一个/mq 短/a 消息/n 给/p 小/a 张/q 。/wj 
+文字/n 信息/n 小/a 张/q 。/wj 
+陈菲菲/nr 发/v 个/q 文字/n 信息/n 。/wj 
+永/d 浩/ag 发送/v 一个/mq 短/a 消息/n 。/wj 
+给/p 周杰伦/nr 发/v 一个/mq 短/a 信/n 。/wj 
+给/p 陈菲菲/nr 发送/v 一个/mq 文字/n 信息/n 。/wj 
+给/p 小/a 张/q 发送/v 短/a 消息/n 。/wj 
+向/p 陈菲菲/nr 发/v 短/a 信/n 。/wj 
+向/p 永/d 浩/ag 发送/v 文字/n 信息/n 。/wj 
+小张/nr 。/wj 
+张小涛/nr 发/v 文字/n 信息/n 。/wj 
+给/p 张小涛/nr 发送/v 个/q 短/a 消息/n 。/wj 
+短/a 消息/n 永/d 浩/ag 内容/n 我/rr 已经/d 到/v 宾馆/n 了/y 。/wj 
+文字/n 信息/n 周/nr1 杰/ag 伦/ng 内容/n 我/rr 已经/d 到/v 宾馆/n 了/y 。/wj 
+给/p 永/d 浩/ag 内容/n 我/rr 已经/d 到/v 宾馆/n 了/y 。/wj 
+发/v 个/q 短/a 消息/n 给/p 周杰伦/nr 内容/n 我/rr 已经/d 到/v 宾馆/n 了/y 。/wj 
+发/v 一个/mq 短/a 消息/n 给/p 永/d 浩/ag 内容/n 我/rr 已经/d 到/v 宾馆/n 了/y 。/wj 
+发送/v 短/a 信/n 给/p 周杰伦/nr 内容/n 我/rr 已经/d 到/v 宾馆/n 了/y 。/wj 
+发送/v 个/q 短/a 信/n 给/p 永/d 浩/ag 内容/n 我/rr 已经/d 到/v 宾馆/n 了/y 。/wj 
+发送/v 一个/mq 文字/n 信息/n 给/p 周杰伦/nr 内容/n 我/rr 已经/d 到/v 宾馆/n 了/y 。/wj 
+发/v 内容/n 我/rr 已经/d 到/v 宾馆/n 了/ule 的/ude1 文字/n 信息/n 给/p 周杰伦/nr 。/wj 
+发/v 一个/mq 内容/n 我/rr 已经/d 到/v 宾馆/n 了/ule 短/a 消息/n 给/p 周杰伦/nr 。/wj 
+发送/v 内容/n 我/rr 已经/d 到/v 宾馆/n 了/ule 短/a 信/n 给/p 周杰伦/nr 。/wj 
+发送/v 个/q 内容/n 我/rr 已经/d 到/v 宾馆/n 了/ule 文字/n 信息/n 给/p 周杰伦/nr 。/wj 
+发送/v 一个/mq 内容/n 我/rr 已经/d 到/v 宾馆/n 了/ule 的/ude1 短/a 消息/n 给/p 周杰伦/nr 。/wj 
+张小涛/nr 发/v 文字/n 信息/n 内容/n 为/p 我/rr 已经/d 到/v 宾馆/n 了/ule 的/ude1 短/a 信/n 。/wj 
+张小涛/nr 发/v 个/q 短/a 消息/n 说/v 我/rr 已经/d 到/v 宾馆/n 了/ule 的/ude1 文字/n 信息/n 。/wj 
+张小涛/nr 发送/v 文字/n 信息/n 说/v 我/rr 已经/d 到/v 宾馆/n 了/ule 的/ude1 短/a 消息/n 。/wj 
+张小涛/nr 发送/v 个/q 短/a 信/n 内容/n 为/p 我/rr 已经/d 到/v 宾馆/n 了/ule 的/ude1 短/a 信/n 。/wj 
+给/p 张小涛/nr 发/v 文字/n 信息/n 说/v 我/rr 已经/d 到/v 宾馆/n 了/ule 的/ude1 文字/n 信息/n 。/wj 
+给/p 张小涛/nr 发/v 个/q 短/a 信/n 说/v 我/rr 已经/d 到/v 宾馆/n 了/ule 的/ude1 短/a 消息/n 。/wj 
+给/p 张小涛/nr 发送/v 一个/mq 短/a 消息/n 内容/n 为/p 我/rr 已经/d 到/v 宾馆/n 了/ule 的/ude1 短/a 信/n 。/wj 
+给/p 张小涛/nr 发送/v 个/q 短/a 信/n 说/v 我/rr 已经/d 到/v 宾馆/n 了/ule 的/ude1 文字/n 信息/n 。/wj 
+向/p 张小涛/nr 发/v 一个/mq 短/a 消息/n 说/v 我/rr 已经/d 到/v 宾馆/n 了/ule 的/ude1 短/a 消息/n 。/wj 
+向/p 张小涛/nr 发/v 个/q 文字/n 信息/n 内容/n 为/p 我/rr 已经/d 到/v 宾馆/n 了/ule 的/ude1 短/a 信/n 。/wj 
+向/p 张小涛/nr 发送/v 一个/mq 短/a 消息/n 说/v 我/rr 已经/d 到/v 宾馆/n 了/ule 的/ude1 文字/n 信息/n 。/wj 
+向/p 张小涛/nr 发送/v 个/q 文字/n 信息/n 说/v 我/rr 已经/d 到/v 宾馆/n 了/ule 的/ude1 短/a 消息/n 。/wj 
+发/v 一个/mq 短/a 消息/n 给/p 同事/n 。/wj 
+发送/v 短/a 信/n 给/p 同事/n 。/wj 
+发送/v 个/q 文字/n 信息/n 给/p 同事/n 。/wj 
+给/p 同事/n 群/ng 发/v 个/q 短/a 消息/n 。/wj 
+给/p 同事/n 群/q 组/n 发送/v 个/q 短/a 信/n 。/wj 
+发/v 短/a 消息/n 内容/n 为/p 我/rr 已经/d 到/v 宾馆/n 了/ule 的/ude1 短/a 信/n 给/p 同事/n 组/n 。/wj 
+发/v 文字/n 信息/n 内容/n 为/p 我/rr 已经/d 到/v 宾馆/n 了/ule 的/ude1 文字/n 信息/n 给/p 同事/n 组/n 。/wj 
+发/v 一个/mq 文字/n 信息/n 内容/n 为/p 我/rr 已经/d 到/v 宾馆/n 了/ule 的/ude1 短/a 消息/n 给/p 同事/n 组/n 。/wj 
+发/v 个/q 短/a 信/n 内容/n 为/p 我/rr 已经/d 到/v 宾馆/n 了/ule 的/ude1 短/a 信/n 给/p 同事/n 组/n 。/wj 
+发送/v 短/a 消息/n 内容/n 为/p 我/rr 已经/d 到/v 宾馆/n 了/ule 的/ude1 文字/n 信息/n 给/p 同事/n 组/n 。/wj 
+发送/v 一个/mq 短/a 消息/n 内容/n 为/p 我/rr 已经/d 到/v 宾馆/n 了/ule 的/ude1 短/a 消息/n 给/p 同事/n 组/n 。/wj 
+发送/v 一个/mq 文字/n 信息/n 内容/n 为/p 我/rr 已经/d 到/v 宾馆/n 了/ule 的/ude1 短/a 信/n 给/p 同事/n 组/n 。/wj 
+发送/v 个/q 短/a 信/n 内容/n 为/p 我/rr 已经/d 到/v 宾馆/n 了/ule 的/ude1 文字/n 信息/n 给/p 同事/n 组/n 。/wj 
+给/p 同事/n 发/v 一个/mq 文字/n 信息/n 内容/n 为/p 我/rr 已经/d 到/v 宾馆/n 了/ule 的/ude1 短/a 消息/n 。/wj 
+给/p 同事/n 发送/v 一个/mq 文字/n 信息/n 内容/n 为/p 我/rr 已经/d 到/v 宾馆/n 了/ule 的/ude1 短/a 信/n 。/wj 
+给/p 同事/n 群/ng 发/v 一个/mq 文字/n 信息/n 内容/n 为/p 我/rr 已经/d 到/v 宾馆/n 了/ule 的/ude1 文字/n 信息/n 。/wj 
+给/p 同事/n 群/ng 发送/v 个/q 短/a 消息/n 内容/n 为/p 我/rr 已经/d 到/v 宾馆/n 了/ule 的/ude1 短/a 消息/n 。/wj 
+给/p 同事/n 群/q 组/n 发/v 个/q 短/a 消息/n 内容/n 为/p 我/rr 已经/d 到/v 宾馆/n 了/ule 的/ude1 短/a 信/n 。/wj 
+给/p 同事/n 群/q 组/n 发送/v 个/q 短/a 消息/n 内容/n 为/p 我/rr 已经/d 到/v 宾馆/n 了/ule 的/ude1 文字/n 信息/n 。/wj 
+给/p 同事/n 组/n 发/v 个/q 短/a 信/n 内容/n 为/p 我/rr 已经/d 到/v 宾馆/n 了/ule 的/ude1 短/a 消息/n 。/wj 
+给/p 同事/n 组/n 发送/v 个/q 短/a 信/n 内容/n 为/p 我/rr 已经/d 到/v 宾馆/n 了/ule 的/ude1 短/a 信/n 。/wj 
+陈菲菲/nr 手机/n 号码/n 发送/v 短/a 信/n 。/wj 
+陈菲菲/nr 的/ude1 手机/n 发送/v 文字/n 信息/n 。/wj 
+周杰伦/nr 手机/n 短/a 消息/n 。/wj 
+周杰伦/nr 手机/n 电话/n 短/a 信/n 。/wj 
+周杰伦/nr 的/ude1 手机/n 号/q 文字/n 信息/n 。/wj 
+永/d 浩/ag 手机/n 号码/n 发/v 短/a 消息/n 。/wj 
+永浩/nr2 的/ude1 手机/n 发/v 短/a 信/n 。/wj 
+永浩/nr2 的/ude1 手机/n 电话/n 发/v 文字/n 信息/n 。/wj 
+小/a 张/q 手机/n 号/q 发送/v 短/a 消息/n 。/wj 
+小张/nr 的/ude1 手机/n 号码/n 发送/v 短/a 信/n 。/wj 
+给/p 陈菲菲/nr 手机/n 发送/v 文字/n 信息/n 。/wj 
+给/p 陈菲菲/nr 的/ude1 手机/n 短/a 消息/n 。/wj 
+给/p 陈菲菲/nr 的/ude1 手机/n 电话/n 短/a 信/n 。/wj 
+给/p 周杰伦/nr 手机/n 号/q 文字/n 信息/n 。/wj 
+给/p 周杰伦/nr 的/ude1 手机/n 号码/n 发/v 短/a 消息/n 。/wj 
+给/p 永/d 浩/ag 手机/n 发/v 短/a 信/n 。/wj 
+给/p 永/d 浩/ag 手机/n 电话/n 发/v 文字/n 信息/n 。/wj 
+给/p 永浩/nr2 的/ude1 手机/n 号/q 发送/v 短/a 消息/n 。/wj 
+给/p 小/a 张/q 手机/n 号码/n 发送/v 短/a 信/n 。/wj 
+给/p 小张/nr 的/ude1 手机/n 发送/v 文字/n 信息/n 。/wj 
+短/a 消息/n 陈菲菲/nr 手机/n 。/wj 
+短/a 消息/n 小/a 张/q 的/ude1 手机/n 。/wj 
+短/a 消息/n 给/p 小/a 张/q 手机/n 。/wj 
+短/a 信/n 永浩/nr2 的/ude1 手机/n 。/wj 
+短/a 信/n 给/p 永/d 浩/ag 手机/n 。/wj 
+文字/n 信息/n 周杰伦/nr 的/ude1 手机/n 。/wj 
+文字/n 信息/n 给/p 周杰伦/nr 手机/n 。/wj 
+发/v 短/a 消息/n 陈菲菲/nr 的/ude1 手机/n 。/wj 
+发/v 短/a 消息/n 给/p 陈菲菲/nr 手机/n 。/wj 
+发/v 短/a 消息/n 给/p 小张/nr 的/ude1 手机/n 。/wj 
+发/v 短/a 信/n 小/a 张/q 手机/n 。/wj 
+发/v 短/a 信/n 给/p 永浩/nr2 的/ude1 手机/n 。/wj 
+发/v 文字/n 信息/n 永/d 浩/ag 手机/n 。/wj 
+发/v 文字/n 信息/n 给/p 周杰伦/nr 的/ude1 手机/n 。/wj 
+发送/v 短/a 消息/n 周/nr1 杰/ag 伦/ng 手机/n 。/wj 
+发送/v 短/a 消息/n 给/p 陈菲菲/nr 的/ude1 手机/n 。/wj 
+发送/v 短/a 信/n 陈菲菲/nr 手机/n 。/wj 
+发送/v 短/a 信/n 小/a 张/q 的/ude1 手机/n 。/wj 
+发送/v 短/a 信/n 给/p 小/a 张/q 手机/n 。/wj 
+发送/v 文字/n 信息/n 永浩/nr2 的/ude1 手机/n 。/wj 
+发送/v 文字/n 信息/n 给/p 永/d 浩/ag 手机/n 。/wj 
+陈菲菲/nr 手机/n 发/v 短/a 信/n 我/rr 已经/d 到/v 宾馆/n 了/y 。/wj 
+陈菲菲/nr 手机/n 号码/n 发/v 短/a 信/n 内容/n 我/rr 已经/d 到/v 宾馆/n 了/y 。/wj 
+陈菲菲/nr 手机/n 号/q 发/v 短/a 信/n 说/v 我/rr 已经/d 到/v 宾馆/n 了/y 。/wj 
+陈菲菲/nr 手机/n 电话/n 发/v 文字/n 信息/n 我/rr 已经/d 到/v 宾馆/n 了/y 。/wj 
+陈菲菲/nr 的/ude1 手机/n 发/v 文字/n 信息/n 内容/n 我/rr 已经/d 到/v 宾馆/n 了/y 。/wj 
+陈菲菲/nr 的/ude1 手机/n 号码/n 发/v 文字/n 信息/n 说/v 我/rr 已经/d 到/v 宾馆/n 了/y 。/wj 
+陈菲菲/nr 的/ude1 手机/n 号/q 发送/v 短/a 消息/n 我/rr 已经/d 到/v 宾馆/n 了/y 。/wj 
+陈菲菲/nr 的/ude1 手机/n 电话/n 发送/v 短/a 消息/n 内容/n 我/rr 已经/d 到/v 宾馆/n 了/y 。/wj 
+周杰伦/nr 手机/n 发送/v 短/a 消息/n 说/v 我/rr 已经/d 到/v 宾馆/n 了/y 。/wj 
+周杰伦/nr 手机/n 号码/n 发送/v 短/a 信/n 我/rr 已经/d 到/v 宾馆/n 了/y 。/wj 
+周杰伦/nr 手机/n 号/q 发送/v 短/a 信/n 内容/n 我/rr 已经/d 到/v 宾馆/n 了/y 。/wj 
+周杰伦/nr 手机/n 电话/n 发送/v 短/a 信/n 说/v 我/rr 已经/d 到/v 宾馆/n 了/y 。/wj 
+周杰伦/nr 的/ude1 手机/n 发送/v 文字/n 信息/n 我/rr 已经/d 到/v 宾馆/n 了/y 。/wj 
+周杰伦/nr 的/ude1 手机/n 号码/n 发送/v 文字/n 信息/n 内容/n 我/rr 已经/d 到/v 宾馆/n 了/y 。/wj 
+周杰伦/nr 的/ude1 手机/n 号/q 发送/v 文字/n 信息/n 说/v 我/rr 已经/d 到/v 宾馆/n 了/y 。/wj 
+永/d 浩/ag 手机/n 短/a 消息/n 我/rr 已经/d 到/v 宾馆/n 了/y 。/wj 
+永/d 浩/ag 手机/n 号码/n 短/a 消息/n 内容/n 我/rr 已经/d 到/v 宾馆/n 了/y 。/wj 
+永/d 浩/ag 手机/n 号/q 短/a 消息/n 说/v 我/rr 已经/d 到/v 宾馆/n 了/y 。/wj 
+永/d 浩/ag 手机/n 电话/n 短/a 信/n 我/rr 已经/d 到/v 宾馆/n 了/y 。/wj 
+永浩/nr2 的/ude1 手机/n 短/a 信/n 内容/n 我/rr 已经/d 到/v 宾馆/n 了/y 。/wj 
+永浩/nr2 的/ude1 手机/n 号码/n 短/a 信/n 说/v 我/rr 已经/d 到/v 宾馆/n 了/y 。/wj 
+永浩/nr2 的/ude1 手机/n 号/q 文字/n 信息/n 我/rr 已经/d 到/v 宾馆/n 了/y 。/wj 
+永浩/nr2 的/ude1 手机/n 电话/n 文字/n 信息/n 内容/n 我/rr 已经/d 到/v 宾馆/n 了/y 。/wj 
+小/a 张/q 手机/n 文字/n 信息/n 说/v 我/rr 已经/d 到/v 宾馆/n 了/y 。/wj 
+小/a 张/q 手机/n 号码/n 发/v 短/a 消息/n 我/rr 已经/d 到/v 宾馆/n 了/y 。/wj 
+小/a 张/q 手机/n 号/q 发/v 短/a 消息/n 内容/n 我/rr 已经/d 到/v 宾馆/n 了/y 。/wj 
+小/a 张/q 手机/n 电话/n 发/v 短/a 消息/n 说/v 我/rr 已经/d 到/v 宾馆/n 了/y 。/wj 
+小张/nr 的/ude1 手机/n 发/v 短/a 信/n 我/rr 已经/d 到/v 宾馆/n 了/y 。/wj 
+短/a 消息/n 我/rr 已经/d 到/v 宾馆/n 了/ule 给/p 周杰伦/nr 手机/n 号码/n 。/wj 
+短/a 消息/n 我/rr 已经/d 到/v 宾馆/n 了/ule 发给/v 陈菲菲/nr 的/ude1 手机/n 号码/n 。/wj 
+短/a 消息/n 我/rr 已经/d 到/v 宾馆/n 了/ule 发/v 送给/v 陈菲菲/nr 手机/n 号码/n 。/wj 
+短/a 消息/n 我/rr 已经/d 到/v 宾馆/n 了/ule 发送/v 给/p 小张/nr 的/ude1 手机/n 号码/n 。/wj 
+短/a 信/n 我/rr 已经/d 到/v 宾馆/n 了/ule 给/p 小/a 张/q 手机/n 号码/n 。/wj 
+短/a 信/n 我/rr 已经/d 到/v 宾馆/n 了/ule 发给/v 永浩/nr2 的/ude1 手机/n 号码/n 。/wj 
+短/a 信/n 我/rr 已经/d 到/v 宾馆/n 了/ule 发/v 送给/v 永/d 浩/ag 手机/n 号码/n 。/wj 
+文字/n 信息/n 我/rr 已经/d 到/v 宾馆/n 了/ule 给/p 周杰伦/nr 的/ude1 手机/n 号码/n 。/wj 
+文字/n 信息/n 我/rr 已经/d 到/v 宾馆/n 了/ule 发给/v 周/nr1 杰/ag 伦/ng 手机/n 号码/n 。/wj 
+文字/n 信息/n 我/rr 已经/d 到/v 宾馆/n 了/ule 发/v 送给/v 陈菲菲/nr 的/ude1 手机/n 号码/n 。/wj 
+小张/nr 的/ude1 手机/n 号码/n 短/a 信/n 说/v 我/rr 已经/d 到/v 宾馆/n 了/y 。/wj 
+小张/nr 的/ude1 手机/n 号/q 文字/n 信息/n 我/rr 已经/d 到/v 宾馆/n 了/y 。/wj 
+小张/nr 的/ude1 手机/n 电话/n 文字/n 信息/n 内容/n 我/rr 已经/d 到/v 宾馆/n 了/y 。/wj 
+给/p 陈菲菲/nr 手机/n 文字/n 信息/n 说/v 我/rr 已经/d 到/v 宾馆/n 了/y 。/wj 
+给/p 陈菲菲/nr 手机/n 号码/n 发/v 短/a 消息/n 我/rr 已经/d 到/v 宾馆/n 了/y 。/wj 
+给/p 陈菲菲/nr 手机/n 号/q 发/v 短/a 消息/n 内容/n 我/rr 已经/d 到/v 宾馆/n 了/y 。/wj 
+给/p 陈菲菲/nr 手机/n 电话/n 发/v 短/a 消息/n 说/v 我/rr 已经/d 到/v 宾馆/n 了/y 。/wj 
+给/p 陈菲菲/nr 的/ude1 手机/n 发/v 短/a 信/n 我/rr 已经/d 到/v 宾馆/n 了/y 。/wj 
+给/p 陈菲菲/nr 的/ude1 手机/n 号码/n 发/v 短/a 信/n 内容/n 我/rr 已经/d 到/v 宾馆/n 了/y 。/wj 
+给/p 陈菲菲/nr 的/ude1 手机/n 号/q 发/v 短/a 信/n 说/v 我/rr 已经/d 到/v 宾馆/n 了/y 。/wj 
+给/p 陈菲菲/nr 的/ude1 手机/n 电话/n 发/v 文字/n 信息/n 我/rr 已经/d 到/v 宾馆/n 了/y 。/wj 
+给/p 周杰伦/nr 手机/n 发/v 文字/n 信息/n 内容/n 我/rr 已经/d 到/v 宾馆/n 了/y 。/wj 
+给/p 周杰伦/nr 手机/n 号码/n 发/v 文字/n 信息/n 说/v 我/rr 已经/d 到/v 宾馆/n 了/y 。/wj 
+给/p 周杰伦/nr 手机/n 号/q 发送/v 短/a 消息/n 我/rr 已经/d 到/v 宾馆/n 了/y 。/wj 
+给/p 周杰伦/nr 手机/n 电话/n 发送/v 短/a 消息/n 内容/n 我/rr 已经/d 到/v 宾馆/n 了/y 。/wj 
+给/p 周杰伦/nr 的/ude1 手机/n 发送/v 短/a 消息/n 说/v 我/rr 已经/d 到/v 宾馆/n 了/y 。/wj 
+给/p 周杰伦/nr 的/ude1 手机/n 号码/n 发送/v 短/a 信/n 我/rr 已经/d 到/v 宾馆/n 了/y 。/wj 
+给/p 周杰伦/nr 的/ude1 手机/n 号/q 发送/v 短/a 信/n 内容/n 我/rr 已经/d 到/v 宾馆/n 了/y 。/wj 
+给/p 周杰伦/nr 的/ude1 手机/n 电话/n 发送/v 短/a 信/n 说/v 我/rr 已经/d 到/v 宾馆/n 了/y 。/wj 
+给/p 永/d 浩/ag 手机/n 发送/v 文字/n 信息/n 我/rr 已经/d 到/v 宾馆/n 了/y 。/wj 
+给/p 永/d 浩/ag 手机/n 号码/n 发送/v 文字/n 信息/n 内容/n 我/rr 已经/d 到/v 宾馆/n 了/y 。/wj 
+给/p 永/d 浩/ag 手机/n 号/q 发送/v 文字/n 信息/n 说/v 我/rr 已经/d 到/v 宾馆/n 了/y 。/wj 
+给/p 永浩/nr2 的/ude1 手机/n 短/a 消息/n 我/rr 已经/d 到/v 宾馆/n 了/y 。/wj 
+给/p 永浩/nr2 的/ude1 手机/n 号码/n 短/a 消息/n 内容/n 我/rr 已经/d 到/v 宾馆/n 了/y 。/wj 
+给/p 永浩/nr2 的/ude1 手机/n 号/q 短/a 消息/n 说/v 我/rr 已经/d 到/v 宾馆/n 了/y 。/wj 
+给/p 永浩/nr2 的/ude1 手机/n 电话/n 短/a 信/n 我/rr 已经/d 到/v 宾馆/n 了/y 。/wj 
+给/p 小/a 张/q 手机/n 短/a 信/n 内容/n 我/rr 已经/d 到/v 宾馆/n 了/y 。/wj 
+给/p 小/a 张/q 手机/n 号码/n 短/a 信/n 说/v 我/rr 已经/d 到/v 宾馆/n 了/y 。/wj 
+给/p 小/a 张/q 手机/n 号/q 文字/n 信息/n 我/rr 已经/d 到/v 宾馆/n 了/y 。/wj 
+给/p 小/a 张/q 手机/n 电话/n 文字/n 信息/n 内容/n 我/rr 已经/d 到/v 宾馆/n 了/y 。/wj 
+给/p 小张/nr 的/ude1 手机/n 文字/n 信息/n 说/v 我/rr 已经/d 到/v 宾馆/n 了/y 。/wj 
+给/p 小张/nr 的/ude1 手机/n 号码/n 发/v 短/a 消息/n 我/rr 已经/d 到/v 宾馆/n 了/y 。/wj 
+给/p 小张/nr 的/ude1 手机/n 号/q 发/v 短/a 消息/n 内容/n 我/rr 已经/d 到/v 宾馆/n 了/y 。/wj 
+给/p 小张/nr 的/ude1 手机/n 电话/n 发/v 短/a 消息/n 说/v 我/rr 已经/d 到/v 宾馆/n 了/y 。/wj 
+内容/n 我/rr 已经/d 到/v 宾馆/n 了/ule 短/a 消息/n 发/v 周杰伦/nr 的/ude1 手机/n 。/wj 
+内容/n 我/rr 已经/d 到/v 宾馆/n 了/ule 短/a 消息/n 发送/v 周/nr1 杰/ag 伦/ng 手机/n 。/wj 
+内容/n 我/rr 已经/d 到/v 宾馆/n 了/ule 短/a 信发/nr2 陈菲菲/nr 的/ude1 手机/n 。/wj 
+内容/n 我/rr 已经/d 到/v 宾馆/n 了/ule 短/a 信/n 发送/v 陈菲菲/nr 手机/n 。/wj 
+内容/n 我/rr 已经/d 到/v 宾馆/n 了/ule 短/a 信/n 发送/v 小/a 张/q 的/ude1 手机/n 。/wj 
+内容/n 我/rr 已经/d 到/v 宾馆/n 了/ule 文字/n 信息/n 发/v 小/a 张/q 手机/n 。/wj 
+内容/n 我/rr 已经/d 到/v 宾馆/n 了/ule 文字/n 信息/n 发送/v 永浩/nr2 的/ude1 手机/n 。/wj 
+说/v 我/rr 已经/d 到/v 宾馆/n 了/ule 短/a 消息/n 发/v 永/d 浩/ag 手机/n 。/wj 
+说/v 我/rr 已经/d 到/v 宾馆/n 了/ule 短/a 消息/n 发送/v 周杰伦/nr 的/ude1 手机/n 。/wj 
+说/v 我/rr 已经/d 到/v 宾馆/n 了/ule 短/a 信/n 发/v 周/nr1 杰/ag 伦/ng 手机/n 。/wj 
+说/v 我/rr 已经/d 到/v 宾馆/n 了/ule 短/a 信/n 发送/v 陈菲菲/nr 的/ude1 手机/n 。/wj 
+说/v 我/rr 已经/d 到/v 宾馆/n 了/ule 文字/n 信息/n 发/v 陈菲菲/nr 手机/n 。/wj 
+建/v 个/q 记事/vi 。/wj 
+写/v 一个/mq 备忘录/n 。/wj 
+编写/v 一/m 便/d 签/v 。/wj 
+添加/v 个/q 备/v 忘/v 。/wj 
+起草/v 备注/n 。/wj 
+备/v 忘/v 起草/v 。/wj 
+创建/v 题目/n 购物/vn 清单/n 的/ude1 备忘录/n 。/wj 
+创建/v 主题/n 购物/vn 清单/n 的/ude1 便/d 签/v 。/wj 
+创建/v 名/q 为/v 购物/vn 清单/n 备/d 忘/v 。/wj 
+创建/v 一个/mq 题目/n 购物/vn 清单/n 备注/n 。/wj 
+创建/v 一个/mq 主题/n 购物/vn 清单/n 的/ude1 记事/vn 。/wj 
+创建/v 一个/mq 名/ng 为/v 购物/vn 清单/n 备忘录/n 。/wj 
+创建/v 个/q 题目/n 购物/vn 清单/n 便/d 签/v 。/wj 
+创建/v 个/q 主题/n 购物/vn 清单/n 的/ude1 备/d 忘/v 。/wj 
+创建/v 个/q 名叫/v 购物/vn 清单/n 的/ude1 备注/n 。/wj 
+创建/v 一/m 题目/n 购物/vn 清单/n 记事/vi 。/wj 
+创建/v 一/m 主题/n 购物/vn 清单/n 的/ude1 备忘录/n 。/wj 
+创建/v 一/m 名/q 叫/vi 购物/vi 清单/n 的/ude1 便/d 签/v 。/wj 
+建/v 题目/n 购物/vn 清单/n 备/d 忘/v 。/wj 
+建/v 主题/n 购物/vn 清单/n 备注/n 。/wj 
+建/v 名叫/v 购物/vn 清单/n 的/ude1 记事/vn 。/wj 
+建/v 一个/mq 题目/n 购物/vn 清单/n 备忘录/n 。/wj 
+建/v 一个/mq 主题/n 购物/vn 清单/n 便/d 签/v 。/wj 
+建/v 一个/mq 名叫/v 购物/vn 清单/n 的/ude1 备/d 忘/v 。/wj 
+建/v 一个/mq 是/vshi 购物/vn 清单/n 的/ude1 备注/n 。/wj 
+建/v 个/q 主题/n 购物/vn 清单/n 记事/vi 。/wj 
+建/v 个/q 名叫/v 购物/vn 清单/n 的/ude1 备忘录/n 。/wj 
+建/v 个/q 是/vshi 购物/vn 清单/n 的/ude1 便/d 签/v 。/wj 
+建/v 一/m 主题/n 购物/vn 清单/n 备/d 忘/v 。/wj 
+建/v 一/m 名/q 叫/vi 购物/vi 清单/n 备注/n 。/wj 
+建/v 一/m 是/vshi 购物/vn 清单/n 的/ude1 记事/vn 。/wj 
+加/b 标题/n 购物/vn 清单/n 便/d 签/v 。/wj 
+创建/v 题目/n 为/p 购物/vn 清单/n 便/d 签/v 。/wj 
+加/b 名字/n 购物/vn 清单/n 的/ude1 备/d 忘/v 。/wj 
+创建/v 标题/n 名叫/v 购物/vn 清单/n 的/ude1 备忘录/n 。/wj 
+加/v 是/vshi 购物/vn 清单/n 的/ude1 备忘录/n 。/wj 
+加/v 一个/mq 名称/n 购物/vn 清单/n 的/ude1 便/d 签/v 。/wj 
+加/v 一个/mq 名叫/v 购物/vn 清单/n 备/d 忘/v 。/wj 
+加/v 一个/mq 是/vshi 购物/vn 清单/n 备注/n 。/wj 
+加/v 个/q 名称/n 购物/vn 清单/n 的/ude1 记事/vn 。/wj 
+加/v 个/q 名叫/v 购物/vn 清单/n 备忘录/n 。/wj 
+加/v 个/q 是/vshi 购物/vn 清单/n 便/d 签/v 。/wj 
+加/v 一/m 名称/n 购物/vn 清单/n 的/ude1 备/d 忘/v 。/wj 
+加/v 一/m 叫做/v 购物/vn 清单/n 的/ude1 备注/n 。/wj 
+加/v 一/m 是/vshi 购物/vn 清单/n 记事/vi 。/wj 
+写/v 名称/n 购物/vn 清单/n 的/ude1 备忘录/n 。/wj 
+写/v 叫做/v 购物/vn 清单/n 的/ude1 便/d 签/v 。/wj 
+写/v 是/vshi 购物/vn 清单/n 备/d 忘/v 。/wj 
+写/v 一个/mq 名称/n 购物/vn 清单/n 备注/n 。/wj 
+写/v 一个/mq 叫做/v 购物/vn 清单/n 的/ude1 记事/vn 。/wj 
+写/v 一个/mq 是/vshi 购物/vn 清单/n 备忘录/n 。/wj 
+写/v 个/q 名称/n 购物/vn 清单/n 便/d 签/v 。/wj 
+写/v 个/q 叫做/v 购物/vn 清单/n 的/ude1 备/d 忘/v 。/wj 
+写/v 个/q 为/v 购物/vn 清单/n 的/ude1 备注/n 。/wj 
+写/v 一/m 名称/n 购物/vn 清单/n 记事/vi 。/wj 
+写/v 一/m 叫做/v 购物/vn 清单/n 的/ude1 备忘录/n 。/wj 
+写/v 一/m 为/v 购物/vn 清单/n 的/ude1 便/d 签/v 。/wj 
+编写/v 名称/n 购物/vn 清单/n 备/d 忘/v 。/wj 
+编写/v 叫做/v 购物/vn 清单/n 备注/n 。/wj 
+编写/v 为/p 购物/vn 清单/n 的/ude1 记事/vn 。/wj 
+编写/v 一个/mq 名称/n 购物/vn 清单/n 备忘录/n 。/wj 
+编写/v 一个/mq 叫做/v 购物/vn 清单/n 便/d 签/v 。/wj 
+编写/v 一个/mq 为/v 购物/vn 清单/n 的/ude1 备/d 忘/v 。/wj 
+编写/v 个/q 标题/n 购物/vn 清单/n 的/ude1 备注/n 。/wj 
+编写/v 个/q 叫做/v 购物/vn 清单/n 记事/vi 。/wj 
+编写/v 个/q 为/v 购物/vn 清单/n 的/ude1 备忘录/n 。/wj 
+编写/v 一/m 标题/n 购物/vn 清单/n 的/ude1 便/d 签/v 。/wj 
+编写/v 一/m 叫做/v 购物/vn 清单/n 备/d 忘/v 。/wj 
+编写/v 一/m 为/v 购物/vn 清单/n 备注/n 。/wj 
+新建/v 标题/n 购物/vn 清单/n 的/ude1 记事/vn 。/wj 
+新建/v 叫做/v 购物/vn 清单/n 备忘录/n 。/wj 
+新建/v 为/p 购物/vn 清单/n 便/d 签/v 。/wj 
+新建/v 一个/mq 标题/n 购物/vn 清单/n 的/ude1 备/d 忘/v 。/wj 
+新建/v 一个/mq 名字/n 购物/vn 清单/n 的/ude1 备注/n 。/wj 
+新建/v 一个/mq 为/v 购物/vn 清单/n 记事/vi 。/wj 
+新建/v 个/q 标题/n 购物/vn 清单/n 的/ude1 备忘录/n 。/wj 
+新建/v 个/q 名字/n 购物/vn 清单/n 的/ude1 便/d 签/v 。/wj 
+新建/v 个/q 为/v 购物/vn 清单/n 备/d 忘/v 。/wj 
+新建/v 一/m 标题/n 购物/vn 清单/n 备注/n 。/wj 
+新建/v 一/m 名字/n 购物/vn 清单/n 的/ude1 记事/vn 。/wj 
+新建/v 一/m 为/v 购物/vn 清单/n 备忘录/n 。/wj 
+添加/v 标题/n 购物/vn 清单/n 便/d 签/v 。/wj 
+添加/v 名字/n 购物/vn 清单/n 的/ude1 备/d 忘/v 。/wj 
+创建/v 标题/n 名/q 为/v 购物/vn 清单/n 的/ude1 备/d 忘/v 。/wj 
+添加/v 为/p 购物/vn 清单/n 的/ude1 备/d 忘/v 。/wj 
+添加/v 一个/mq 题目/n 购物/vn 清单/n 记事/vi 。/wj 
+创建/v 名称/n 名/q 为/v 购物/vn 清单/n 的/ude1 备忘录/n 。/wj 
+添加/v 一个/mq 主题/n 购物/vn 清单/n 的/ude1 记事/vn 。/wj 
+添加/v 一个/mq 叫做/v 购物/vn 清单/n 便/d 签/v 。/wj 
+创建/v 主题/n 名/q 为/v 购物/vn 清单/n 备注/n 。/wj 
+添加/v 一个/mq 为/v 购物/vn 清单/n 的/ude1 备/d 忘/v 。/wj 
+添加/v 个/q 题目/n 购物/vn 清单/n 备忘录/n 。/wj 
+创建/v 名字/n 为/p 购物/vn 清单/n 记事/vi 。/wj 
+创建/v 一个/mq 题目/n 名叫/v 购物/vn 清单/n 的/ude1 备忘录/n 。/wj 
+创建/v 一个/mq 题目/n 是/vshi 购物/vn 清单/n 的/ude1 便/d 签/v 。/wj 
+创建/v 一个/mq 标题/n 为/p 购物/vn 清单/n 备/d 忘/v 。/wj 
+创建/v 一个/mq 名称/n 名叫/v 购物/vn 清单/n 备注/n 。/wj 
+添加/v 个/q 名称/n 购物/vn 清单/n 的/ude1 备/d 忘/v 。/wj 
+添加/v 个/q 名字/n 购物/vn 清单/n 便/d 签/v 。/wj 
+创建/v 一个/mq 主题/n 名叫/v 购物/vn 清单/n 的/ude1 备忘录/n 。/wj 
+创建/v 一个/mq 主题/n 为/p 购物/vn 清单/n 记事/vi 。/wj 
+添加/v 个/q 是/vshi 购物/vn 清单/n 备忘录/n 。/wj 
+创建/v 一个/mq 名字/n 名/q 为/v 购物/vn 清单/n 备/d 忘/v 。/wj 
+创建/v 一个/mq 名字/n 为/p 购物/vn 清单/n 的/ude1 便/d 签/v 。/wj 
+添加/v 一/m 名字/n 购物/vn 清单/n 记事/vi 。/wj 
+添加/v 一/m 名/q 为/v 购物/vn 清单/n 的/ude1 备忘录/n 。/wj 
+建立/v 题目/n 购物/vn 清单/n 的/ude1 便/d 签/v 。/wj 
+建立/v 名字/n 购物/vn 清单/n 备/d 忘/v 。/wj 
+建立/v 名/q 为/v 购物/vn 清单/n 备注/n 。/wj 
+建立/v 一个/mq 题目/n 购物/vn 清单/n 的/ude1 记事/vn 。/wj 
+建立/v 一个/mq 名字/n 购物/vn 清单/n 备忘录/n 。/wj 
+建立/v 一个/mq 名/ng 为/v 购物/vn 清单/n 便/d 签/v 。/wj 
+建立/v 个/q 题目/n 购物/vn 清单/n 的/ude1 备/d 忘/v 。/wj 
+建立/v 个/q 主题/n 购物/vn 清单/n 的/ude1 备注/n 。/wj 
+建立/v 个/q 名/q 为/v 购物/vn 清单/n 记事/vi 。/wj 
+建立/v 一/m 题目/n 购物/vn 清单/n 的/ude1 备忘录/n 。/wj 
+建立/v 一/m 主题/n 购物/vn 清单/n 的/ude1 便/d 签/v 。/wj 
+建立/v 一/m 名/q 为/v 购物/vn 清单/n 备/d 忘/v 。/wj 
+起草/v 题目/n 购物/vn 清单/n 备注/n 。/wj 
+起草/v 主题/n 购物/vn 清单/n 的/ude1 记事/vn 。/wj 
+起草/v 名/q 为/v 购物/vn 清单/n 备忘录/n 。/wj 
+起草/v 一个/mq 题目/n 购物/vn 清单/n 便/d 签/v 。/wj 
+起草/v 一个/mq 主题/n 购物/vn 清单/n 的/ude1 备/d 忘/v 。/wj 
+起草/v 一个/mq 名叫/v 购物/vn 清单/n 的/ude1 备注/n 。/wj 
+起草/v 个/q 题目/n 购物/vn 清单/n 记事/vi 。/wj 
+起草/v 个/q 主题/n 购物/vn 清单/n 的/ude1 备忘录/n 。/wj 
+创建/v 备忘录/n 标题/n 购物/vn 清单/n 。/wj 
+创建/v 便/d 签/v 标题/n 购物/vn 清单/n 。/wj 
+创建/v 一个/mq 备/d 忘/v 标题/n 购物/vn 清单/n 。/wj 
+创建/v 一个/mq 备注/n 标题/n 购物/vn 清单/n 。/wj 
+创建/v 个/q 记事/vn 标题/n 购物/vn 清单/n 。/wj 
+创建/v 一/m 备忘录/n 标题/n 购物/vn 清单/n 。/wj 
+创建/v 一/m 便/d 签/v 标题/n 购物/vn 清单/n 。/wj 
+建备/nr2 忘/v 标题/n 购物/vn 清单/n 。/wj 
+建/v 备注/n 标题/n 购物/vn 清单/n 。/wj 
+创建/v 个/q 题目/n 名叫/v 购物/vn 清单/n 记事/vi 。/wj 
+建/v 一个/mq 记事/vn 名字/n 购物/vn 清单/n 。/wj 
+创建/v 个/q 题目/n 是/vshi 购物/vn 清单/n 便/d 签/v 。/wj 
+建/v 个/q 备忘录/n 叫做/v 购物/vn 清单/n 。/wj 
+创建/v 个/q 标题/n 名/q 为/v 购物/vn 清单/n 的/ude1 备/d 忘/v 。/wj 
+创建/v 个/q 标题/n 是/vshi 购物/vn 清单/n 便/d 签/v 。/wj 
+建/v 一/m 备/v 忘/v 标题/n 购物/vn 清单/n 。/wj 
+建/v 一/m 备注/n 标题/n 购物/vn 清单/n 。/wj 
+加/v 记事/vn 标题/n 购物/vn 清单/n 。/wj 
+加/v 一个/mq 备忘录/n 标题/n 购物/vn 清单/n 。/wj 
+加/v 一个/mq 便/d 签/v 标题/n 购物/vn 清单/n 。/wj 
+加/v 个/q 备/v 忘/v 标题/n 购物/vn 清单/n 。/wj 
+加/v 个/q 备注/n 标题/n 购物/vn 清单/n 。/wj 
+加/v 一/m 记事/vn 标题/n 购物/vn 清单/n 。/wj 
+写/v 备忘录/n 标题/n 购物/vn 清单/n 。/wj 
+写/v 便/d 签/v 标题/n 购物/vn 清单/n 。/wj 
+写/v 一个/mq 备/d 忘/v 标题/n 购物/vn 清单/n 。/wj 
+写/v 一个/mq 备注/n 标题/n 购物/vn 清单/n 。/wj 
+写/v 个/q 记事/vn 标题/n 购物/vn 清单/n 。/wj 
+写/v 一/m 备忘录/n 标题/n 购物/vn 清单/n 。/wj 
+写/v 一/m 便/d 签/v 标题/n 购物/vn 清单/n 。/wj 
+编写/v 备/v 忘/v 标题/n 购物/vn 清单/n 。/wj 
+编写/v 备注/n 标题/n 购物/vn 清单/n 。/wj 
+编写/v 一个/mq 记事/vn 标题/n 购物/vn 清单/n 。/wj 
+编写/v 个/q 备忘录/n 标题/n 购物/vn 清单/n 。/wj 
+编写/v 个/q 便/d 签/v 标题/n 购物/vn 清单/n 。/wj 
+编写/v 一/m 备/v 忘/v 标题/n 购物/vn 清单/n 。/wj 
+编写/v 一/m 备注/n 标题/n 购物/vn 清单/n 。/wj 
+新建/v 记事/vn 标题/n 购物/vn 清单/n 。/wj 
+新建/v 一个/mq 备忘录/n 标题/n 购物/vn 清单/n 。/wj 
+新建/v 一个/mq 便/d 签/v 标题/n 购物/vn 清单/n 。/wj 
+新建/v 个/q 备/v 忘/v 标题/n 购物/vn 清单/n 。/wj 
+新建/v 个/q 备注/n 标题/n 购物/vn 清单/n 。/wj 
+新建/v 一/m 记事/vn 标题/n 购物/vn 清单/n 。/wj 
+添加/v 备忘录/n 标题/n 购物/vn 清单/n 。/wj 
+添加/v 便/d 签/v 标题/n 购物/vn 清单/n 。/wj 
+添加/v 一个/mq 备/d 忘/v 标题/n 购物/vn 清单/n 。/wj 
+添加/v 一个/mq 备注/n 标题/n 购物/vn 清单/n 。/wj 
+添加/v 个/q 记事/vn 标题/n 购物/vn 清单/n 。/wj 
+添加/v 一/m 备忘录/n 标题/n 购物/vn 清单/n 。/wj 
+添加/v 一/m 便/d 签/v 标题/n 购物/vn 清单/n 。/wj 
+建立/v 备/v 忘/v 标题/n 购物/vn 清单/n 。/wj 
+建立/v 备注/n 标题/n 购物/vn 清单/n 。/wj 
+建立/v 一个/mq 记事/vn 标题/n 购物/vn 清单/n 。/wj 
+建立/v 个/q 备忘录/n 标题/n 购物/vn 清单/n 。/wj 
+建立/v 个/q 便/d 签/v 标题/n 购物/vn 清单/n 。/wj 
+建立/v 一/m 备/v 忘/v 标题/n 购物/vn 清单/n 。/wj 
+建立/v 一/m 备注/n 标题/n 购物/vn 清单/n 。/wj 
+起草/v 记事/vn 标题/n 购物/vn 清单/n 。/wj 
+起草/v 一个/mq 备忘录/n 标题/n 购物/vn 清单/n 。/wj 
+起草/v 一个/mq 便/d 签/v 标题/n 购物/vn 清单/n 。/wj 
+起草/v 个/q 备/v 忘/v 标题/n 购物/vn 清单/n 。/wj 
+起草/v 个/q 备注/n 标题/n 购物/vn 清单/n 。/wj 
+起草/v 一/m 记事/vn 标题/n 购物/vn 清单/n 。/wj 
+创建/v 个/q 标题/n 是/vshi 购物/vn 清单/n 的/ude1 备注/n 。/wj 
+创建/v 个/q 名称/n 为/p 购物/vn 清单/n 记事/vi 。/wj 
+创建/v 个/q 主题/n 名叫/v 购物/vn 清单/n 的/ude1 备忘录/n 。/wj 
+创建/v 个/q 主题/n 是/vshi 购物/vn 清单/n 的/ude1 便/d 签/v 。/wj 
+创建/v 个/q 名字/n 为/p 购物/vn 清单/n 备/d 忘/v 。/wj 
+创建/v 一/m 题目/n 名叫/v 购物/vn 清单/n 备注/n 。/wj 
+创建/v 一/m 题目/n 是/vshi 购物/vn 清单/n 的/ude1 记事/vn 。/wj 
+起草/v 个/q 名/q 为/v 购物/vn 清单/n 记事/vi 。/wj 
+创建/v 一/m 标题/n 为/p 购物/vn 清单/n 的/ude1 便/d 签/v 。/wj 
+创建/v 一/m 名称/n 叫做/v 购物/vn 清单/n 的/ude1 备注/n 。/wj 
+起草/v 一/m 标题/n 购物/vn 清单/n 的/ude1 备注/n 。/wj 
+创建/v 一/m 名称/n 是/vshi 购物/vn 清单/n 记事/vi 。/wj 
+不要/d 。/wj 
+播放/v 张雨生/nr 的/ude1 音乐/n 。/wj 
+播放/v 歌手/n 张雨生/nr 的/ude1 歌/n 。/wj 
+放/v 张/nr1 雨/n 生/v 乐曲/n 。/wj 
+放/v 歌手/n 张雨生/nr 的/ude1 歌曲/n 。/wj 
+放/v 一/m 放/v 张/nr1 雨/n 生/v 。/wj 
+放/v 一/m 放/v 歌手/n 张雨生/nr 音乐/n 。/wj 
+放/v 一/m 放/v 歌星/n 张雨生/nr 的/ude1 曲子/n 。/wj 
+放/v 一/m 下/vf 歌手/n 张雨生/nr 音乐/n 。/wj 
+放/v 一/m 下/vf 歌星/n 张雨/nr 生/v 歌/n 。/wj 
+张雨/nr 生/v 歌曲/n 听/v 一下/mq 。/wj 
+张雨/nr 生/v 歌/n 放/v 一下/mq 。/wj 
+张雨生/nr 的/ude1 曲子/n 播放/v 。/wj 
+张雨生/nr 的/ude1 歌/n 听/v 一下/mq 。/wj 
+播放/v 艺人/n 列表/vi 叶惠美/nr 。/wj 
+播放/v 歌星/n 的/ude1 音乐/n 专辑/n 叶惠美/nr 。/wj 
+放/v 音乐家/n 叶惠美/nr 。/wj 
+放/v 一/m 放/v 艺人/n 唱片/n 叶惠美/nr 。/wj 
+放/v 一/m 放/v 歌星/n 的/ude1 专辑/n 叶惠美/nr 。/wj 
+放/v 一/m 下/vf 歌手/n 的/ude1 列表/vi 叶惠美/nr 。/wj 
+专辑/n 叶惠美/nr 听/v 。/wj 
+的/ude1 叶惠美/nr 听/v 一/m 听/v 。/wj 
+的/ude1 列表/vi 叶惠美/nr 听/v 一下/mq 。/wj 
+艺人/n 唱片/n 叶/ng 惠/vg 美/b 听听/v 。/wj 
+艺人/n 的/ude1 唱片/n 叶/ng 惠/vg 美/b 播放/vn 。/wj 
+歌手/n 音乐/n 专辑/n 叶/ng 惠/vg 美/b 放/v 。/wj 
+歌手/n 的/ude1 专辑/n 叶/ng 惠/vg 美/b 放/v 一/m 放/v 。/wj 
+音乐家/n 叶惠美/nr 放/v 一下/mq 。/wj 
+音乐家/n 列表/vi 叶惠美/nr 听/v 。/wj 
+音乐家/n 的/ude1 唱片/n 叶惠美/nr 听/v 一/m 听/v 。/wj 
+歌星/n 音乐/n 专辑/n 叶惠美/nr 听/v 一下/mq 。/wj 
+歌星/n 的/ude1 专辑/n 叶/ng 惠/vg 美/b 听听/v 。/wj 
+播放/v 姚贝娜/nr 的/ude1 唱片/n 叶惠美/nr 。/wj 
+播放/v 歌手/n 姚贝娜/nr 专辑/n 叶惠美/nr 。/wj 
+播放/v 音乐家/n 张雨/nr 生/v 列表/vi 叶惠美/nr 。/wj 
+放/v 姚/nr1 贝娜/nr2 的/ude1 音乐/n 专辑/n 叶惠美/nr 。/wj 
+放/v 歌手/n 姚贝娜/nr 叶惠美/nr 。/wj 
+放/v 音乐家/n 张雨/nr 生/v 唱片/n 叶惠美/nr 。/wj 
+放/v 一/m 放/v 姚贝娜/nr 的/ude1 专辑/n 叶惠美/nr 。/wj 
+放/v 一/m 放/v 艺人/n 张雨生/nr 的/ude1 列表/vi 叶惠美/nr 。/wj 
+放/v 一/m 放/v 音乐家/n 张雨生/nr 音乐/n 专辑/n 叶惠美/nr 。/wj 
+放/v 一/m 下/f 姚贝娜/nr 的/ude1 叶惠美/nr 。/wj 
+放/v 一/m 下/vf 艺人/n 张雨生/nr 的/ude1 唱片/n 叶惠美/nr 。/wj 
+放/v 一/m 下/vf 音乐家/n 张雨/nr 生/v 专辑/n 叶惠美/nr 。/wj 
+姚贝娜/nr 叶惠美/nr 听/v 。/wj 
+姚贝娜/nr 列表/vi 叶惠美/nr 听/v 一/m 听/v 。/wj 
+姚贝娜/nr 的/ude1 唱片/n 叶惠美/nr 听/v 一下/mq 。/wj 
+张雨生/nr 音乐/n 专辑/n 叶/ng 惠/vg 美/b 听听/v 。/wj 
+张雨生/nr 的/ude1 音乐/n 专辑/n 叶/ng 惠/vg 美/b 播放/vn 。/wj 
+艺人/n 姚贝娜/nr 专辑/n 叶/ng 惠/vg 美/b 放/v 。/wj 
+艺人/n 姚贝娜/nr 的/ude1 叶惠美放/nr 一/d 放/v 。/wj 
+艺人/n 姚贝娜/nr 的/ude1 列表/vi 叶/ng 惠/vg 美/b 放/v 一下/mq 。/wj 
+艺人/n 张雨/nr 生/v 唱片/n 叶惠美/nr 听/v 。/wj 
+艺人/n 张雨生/nr 的/ude1 音乐/n 专辑/n 叶惠美/nr 听/v 一/m 听/v 。/wj 
+歌手/n 姚贝娜/nr 专辑/n 叶惠美/nr 听/v 一下/mq 。/wj 
+歌手/n 姚贝娜/nr 的/ude1 叶/n 惠/vg 美/b 听听/v 。/wj 
+歌手/n 张雨生/nr 叶惠美/nr 播放/v 。/wj 
+歌手/n 张雨/nr 生/v 列表/vi 叶/ng 惠/vg 美/b 放/v 。/wj 
+歌手/n 张雨生/nr 的/ude1 唱片/n 叶/ng 惠/vg 美/b 放/v 一/m 放/v 。/wj 
+音乐家/n 姚贝娜/nr 音乐/n 专辑/n 叶/ng 惠/vg 美/b 放/v 一下/mq 。/wj 
+音乐家/n 姚贝娜/nr 的/ude1 专辑/n 叶惠美/nr 听/v 。/wj 
+音乐家/n 张雨生/nr 叶惠美/nr 听/v 一/m 听/v 。/wj 
+音乐家/n 张雨/nr 生/v 列表/vi 叶惠美/nr 听/v 一下/mq 。/wj 
+音乐家/n 张雨生/nr 的/ude1 唱片/n 叶/ng 惠/vg 美/b 听听/v 。/wj 
+歌星/n 姚贝娜/nr 唱片/n 叶/ng 惠/vg 美/b 播放/vn 。/wj 
+歌星/n 姚贝娜/nr 的/ude1 音乐/n 专辑/n 叶/ng 惠/vg 美/b 放/v 。/wj 
+歌星/n 张雨/nr 生/v 专辑/n 叶/ng 惠/vg 美/b 放/v 一/m 放/v 。/wj 
+歌星/n 张雨生/nr 的/ude1 叶/n 惠/vg 美/b 放/v 一下/mq 。/wj 
+歌星/n 张雨生/nr 的/ude1 列表/vi 叶惠美/nr 听/v 。/wj 
+播放/v 音乐/n 爱/v 在/p 西/f 元/q 前/f 放/v 一/m 放/v 。/wj 
+播放/v 音乐/n 爱/v 在/p 西/f 元/q 前/f 。/wj 
+播放/v 的/ude1 音乐/n 爱/v 在/p 西/f 元/q 前/f 听/v 一/m 听/v 。/wj 
+播放/v 的/ude1 音乐/n 爱/v 在/p 西/f 元/q 前/f 放/v 一/m 放/v 。/wj 
+播放/v 艺人/n 歌曲/n 爱/v 在/p 西/f 元/q 前/f 。/wj 
+播放/v 艺人/n 音乐/n 爱/v 在/p 西/f 元/q 前/f 听/v 一/m 听/v 。/wj 
+播放/v 艺人/n 的/ude1 歌曲/n 爱/v 在/p 西/f 元/q 前/f 放/v 一/m 放/v 。/wj 
+播放/v 艺人/n 的/ude1 歌/n 爱/v 在/p 西/f 元/q 前/f 。/wj 
+播放/v 歌手/n 歌曲/n 爱/v 在/p 西/f 元/q 前/f 听/v 一/m 听/v 。/wj 
+播放/v 歌手/n 歌/n 爱/v 在/p 西/f 元/q 前/f 放/v 一/m 放/v 。/wj 
+播放/v 歌手/n 的/ude1 曲子/n 爱/v 在/p 西/f 元/q 前/f 。/wj 
+播放/v 歌手/n 的/ude1 歌/n 爱/v 在/p 西/f 元/q 前/f 听/v 一/m 听/v 。/wj 
+播放/v 音乐家/n 曲子/n 爱/v 在/p 西/f 元/q 前/f 放/v 一/m 放/v 。/wj 
+播放/v 音乐家/n 的/ude1 爱/vn 在/p 西/f 元/q 前/f 。/wj 
+播放/v 音乐家/n 的/ude1 曲子/n 爱/v 在/p 西/f 元/q 前/f 听/v 一/m 听/v 。/wj 
+播放/v 歌星/n 爱/v 在/p 西/f 元/q 前/f 放/v 一/m 放/v 。/wj 
+播放/v 歌星/n 乐曲/n 爱/v 在/p 西/f 元/q 前/f 。/wj 
+播放/v 歌星/n 的/ude1 爱/vn 在/p 西/f 元/q 前/f 听/v 一/m 听/v 。/wj 
+播放/v 歌星/n 的/ude1 乐曲/n 爱/v 在/p 西/f 元/q 前/f 放/v 一/m 放/v 。/wj 
+放/v 音乐/n 爱/v 在/p 西/f 元/q 前/f 。/wj 
+放/v 乐曲/n 爱/v 在/p 西/f 元/q 前/f 听/v 一/m 听/v 。/wj 
+放/v 的/ude1 音乐/n 爱/v 在/p 西/f 元/q 前/f 放/v 一/m 放/v 。/wj 
+放/v 的/ude1 音乐/n 爱/v 在/p 西/f 元/q 前/f 。/wj 
+放/v 艺人/n 音乐/n 爱/v 在/p 西/f 元/q 前/f 听/v 一/m 听/v 。/wj 
+放/v 艺人/n 音乐/n 爱/v 在/p 西/f 元/q 前/f 放/v 一/m 放/v 。/wj 
+放/v 艺人/n 的/ude1 歌曲/n 爱/v 在/p 西/f 元/q 前/f 。/wj 
+放/v 艺人/n 的/ude1 音乐/n 爱/v 在/p 西/f 元/q 前/f 听/v 一/m 听/v 。/wj 
+放/v 歌手/n 歌曲/n 爱/v 在/p 西/f 元/q 前/f 放/v 一/m 放/v 。/wj 
+放/v 歌手/n 歌/n 爱/v 在/p 西/f 元/q 前/f 。/wj 
+放/v 歌手/n 的/ude1 歌曲/n 爱/v 在/p 西/f 元/q 前/f 听/v 一/m 听/v 。/wj 
+放/v 歌手/n 的/ude1 歌/n 爱/v 在/p 西/f 元/q 前/f 放/v 一/m 放/v 。/wj 
+放/v 音乐家/n 曲子/n 爱/v 在/p 西/f 元/q 前/f 。/wj 
+放/v 音乐家/n 歌/n 爱/v 在/p 西/f 元/q 前/f 听/v 一/m 听/v 。/wj 
+放/v 音乐家/n 的/ude1 曲子/n 爱/v 在/p 西/f 元/q 前/f 放/v 一/m 放/v 。/wj 
+放/v 歌星/n 爱/v 在/p 西/f 元/q 前/f 。/wj 
+放/v 歌星/n 曲子/n 爱/v 在/p 西/f 元/q 前/f 听/v 一/m 听/v 。/wj 
+放/v 歌星/n 的/ude1 爱/vn 在/p 西/f 元/q 前/f 放/v 一/m 放/v 。/wj 
+放/v 歌星/n 的/ude1 乐曲/n 爱/v 在/p 西/f 元/q 前/f 。/wj 
+放/v 一/m 放/v 爱/v 在/p 西/f 元/q 前/f 听/v 一/m 听/v 。/wj 
+放/v 一/m 放/v 乐曲/n 爱/v 在/p 西/f 元/q 前/f 放/v 一/m 放/v 。/wj 
+放/v 一/m 放/v 的/ude1 音乐/n 爱/v 在/p 西/f 元/q 前/f 。/wj 
+放/v 一/m 放/v 的/ude1 乐曲/n 爱/v 在/p 西/f 元/q 前/f 听/v 一/m 听/v 。/wj 
+放/v 一/m 放/v 艺人/n 音乐/n 爱/v 在/p 西/f 元/q 前/f 放/v 一/m 放/v 。/wj 
+放/v 一/m 放/v 艺人/n 音乐/n 爱/v 在/p 西/f 元/q 前/f 。/wj 
+放/v 一/m 放/v 艺人/n 的/ude1 音乐/n 爱/v 在/p 西/f 元/q 前/f 听/v 一/m 听/v 。/wj 
+放/v 一/m 放/v 艺人/n 的/ude1 音乐/n 爱/v 在/p 西/f 元/q 前/f 放/v 一/m 放/v 。/wj 
+放/v 一/m 放/v 歌手/n 歌曲/n 爱/v 在/p 西/f 元/q 前/f 。/wj 
+放/v 一/m 放/v 歌手/n 音乐/n 爱/v 在/p 西/f 元/q 前/f 听/v 一/m 听/v 。/wj 
+放/v 一/m 放/v 歌手/n 的/ude1 歌曲/n 爱/v 在/p 西/f 元/q 前/f 放/v 一/m 放/v 。/wj 
+放/v 一/m 放/v 歌手/n 的/ude1 歌/n 爱/v 在/p 西/f 元/q 前/f 。/wj 
+放/v 一/m 放/v 音乐家/n 歌曲/n 爱/v 在/p 西/f 元/q 前/f 听/v 一/m 听/v 。/wj 
+放/v 一/m 放/v 音乐家/n 歌/n 爱/v 在/p 西/f 元/q 前/f 放/v 一/m 放/v 。/wj 
+放/v 一/m 放/v 音乐家/n 的/ude1 曲子/n 爱/v 在/p 西/f 元/q 前/f 。/wj 
+放/v 一/m 放/v 音乐家/n 的/ude1 歌/n 爱/v 在/p 西/f 元/q 前/f 听/v 一/m 听/v 。/wj 
+放/v 一/m 放/v 歌星/n 曲子/n 爱/v 在/p 西/f 元/q 前/f 放/v 一/m 放/v 。/wj 
+放/v 一/m 放/v 歌星/n 的/ude1 爱/vn 在/p 西/f 元/q 前/f 。/wj 
+放/v 一/m 放/v 歌星/n 的/ude1 曲子/n 爱/v 在/p 西/f 元/q 前/f 听/v 一/m 听/v 。/wj 
+放/v 一/m 下/f 爱/v 在/p 西/f 元/q 前/f 放/v 一/m 放/v 。/wj 
+放/v 一/m 下/vf 乐曲/n 爱/v 在/p 西/f 元/q 前/f 。/wj 
+放/v 一/m 下/f 的/ude1 爱/vn 在/p 西/f 元/q 前/f 听/v 一/m 听/v 。/wj 
+放/v 一/m 下/f 的/ude1 乐曲/n 爱/v 在/p 西/f 元/q 前/f 放/v 一/m 放/v 。/wj 
+放/v 一/m 下/vf 艺人/n 音乐/n 爱/v 在/p 西/f 元/q 前/f 。/wj 
+放/v 一/m 下/vf 艺人/n 乐曲/n 爱/v 在/p 西/f 元/q 前/f 听/v 一/m 听/v 。/wj 
+放/v 一/m 下/vf 艺人/n 的/ude1 音乐/n 爱/v 在/p 西/f 元/q 前/f 放/v 一/m 放/v 。/wj 
+放/v 一/m 下/vf 艺人/n 的/ude1 音乐/n 爱/v 在/p 西/f 元/q 前/f 。/wj 
+放/v 一/m 下/vf 歌手/n 音乐/n 爱/v 在/p 西/f 元/q 前/f 听/v 一/m 听/v 。/wj 
+放/v 一/m 下/vf 歌手/n 音乐/n 爱/v 在/p 西/f 元/q 前/f 放/v 一/m 放/v 。/wj 
+放/v 一/m 下/vf 歌手/n 的/ude1 歌曲/n 爱/v 在/p 西/f 元/q 前/f 。/wj 
+放/v 一/m 下/vf 歌手/n 的/ude1 音乐/n 爱/v 在/p 西/f 元/q 前/f 听/v 一/m 听/v 。/wj 
+放/v 一/m 下/vf 音乐家/n 歌曲/n 爱/v 在/p 西/f 元/q 前/f 放/v 一/m 放/v 。/wj 
+放/v 一/m 下/vf 音乐家/n 歌/n 爱/v 在/p 西/f 元/q 前/f 。/wj 
+放/v 一/m 下/vf 音乐家/n 的/ude1 歌曲/n 爱/v 在/p 西/f 元/q 前/f 听/v 一/m 听/v 。/wj 
+放/v 一/m 下/vf 音乐家/n 的/ude1 歌/n 爱/v 在/p 西/f 元/q 前/f 放/v 一/m 放/v 。/wj 
+放/v 一/m 下/vf 歌星/n 曲子/n 爱/v 在/p 西/f 元/q 前/f 。/wj 
+放/v 一/m 下/vf 歌星/n 歌/n 爱/v 在/p 西/f 元/q 前/f 听/v 一/m 听/v 。/wj 
+放/v 一/m 下/vf 歌星/n 的/ude1 曲子/n 爱/v 在/p 西/f 元/q 前/f 放/v 一/m 放/v 。/wj 
+播放/v 姚贝娜/nr 爱/v 在/p 西/f 元/q 前/f 。/wj 
+播放/v 歌手/n 姚贝娜/nr 音乐/n 爱/v 在/p 西/f 元/q 前/f 。/wj 
+播放/v 歌星/n 姚贝娜/nr 的/ude1 曲子/n 爱/v 在/p 西/f 元/q 前/f 。/wj 
+放/v 歌手/n 姚贝娜/nr 音乐/n 爱/v 在/p 西/f 元/q 前/f 。/wj 
+放/v 歌星/n 姚贝娜歌/nr 爱/v 在/p 西/f 元/q 前/f 。/wj 
+放/v 一/m 放/v 艺人/n 姚贝娜/nr 的/ude1 乐曲/n 爱/v 在/p 西/f 元/q 前/f 。/wj 
+放/v 一/m 放/v 歌星/n 姚贝娜/nr 歌曲/n 爱/v 在/p 西/f 元/q 前/f 。/wj 
+放/v 一/m 下/vf 艺人/n 姚贝娜/nr 的/ude1 爱/vn 在/p 西/f 元/q 前/f 。/wj 
+放/v 一/m 下/vf 音乐家/n 姚贝娜/nr 的/ude1 音乐/n 爱/v 在/p 西/f 元/q 前/f 。/wj 
+姚贝娜/nr 音乐/n 爱/v 在/p 西/f 元/q 前/f 听听/v 。/wj 
+姚贝娜/nr 音乐/n 爱/v 在/p 西/f 元/q 前/f 听/v 。/wj 
+姚贝娜/nr 的/ude1 歌曲/n 爱/v 在/p 西/f 元/q 前/f 放/v 。/wj 
+姚贝娜/nr 的/ude1 音乐/n 爱/v 在/p 西/f 元/q 前/f 听听/v 。/wj 
+艺人/n 姚贝娜/nr 歌曲/n 爱/v 在/p 西/f 元/q 前/f 听/v 。/wj 
+艺人/n 姚贝娜歌/nr 爱/v 在/p 西/f 元/q 前/f 放/v 。/wj 
+艺人/n 姚贝娜/nr 的/ude1 歌曲/n 爱/v 在/p 西/f 元/q 前/f 听听/v 。/wj 
+艺人/n 姚贝娜/nr 的/ude1 歌/n 爱/v 在/p 西/f 元/q 前/f 听/v 。/wj 
+歌手/n 姚贝娜/nr 曲子/n 爱/v 在/p 西/f 元/q 前/f 放/v 。/wj 
+歌手/n 姚贝娜歌/nr 爱/v 在/p 西/f 元/q 前/f 听听/v 。/wj 
+歌手/n 姚贝娜/nr 的/ude1 曲子/n 爱/v 在/p 西/f 元/q 前/f 听/v 。/wj 
+音乐家/n 姚贝娜/nr 爱/v 在/p 西/f 元/q 前/f 放/v 。/wj 
+音乐家/n 姚贝娜/nr 曲子/n 爱/v 在/p 西/f 元/q 前/f 听听/v 。/wj 
+音乐家/n 姚贝娜/nr 的/ude1 爱/vn 在/p 西/f 元/q 前/f 听/v 。/wj 
+音乐家/n 姚贝娜/nr 的/ude1 乐曲/n 爱/v 在/p 西/f 元/q 前/f 放/v 。/wj 
+歌星/n 姚贝娜/nr 爱/v 在/p 西/f 元/q 前/f 听听/v 。/wj 
+歌星/n 姚贝娜/nr 乐曲/n 爱/v 在/p 西/f 元/q 前/f 听/v 。/wj 
+歌星/n 姚贝娜/nr 的/ude1 音乐/n 爱/v 在/p 西/f 元/q 前/f 放/v 。/wj 
+歌星/n 姚贝娜/nr 的/ude1 乐曲/n 爱/v 在/p 西/f 元/q 前/f 听听/v 。/wj 
+听/v 一/m 听/v 民谣/n 。/wj 
+播放/v 艺人/n 李志/nr 乐曲/n 。/wj 
+播放/v 歌手/n 李志/nr 的/ude1 乐曲/n 。/wj 
+播放/v 歌星/n 李志/nr 乐曲/n 。/wj 
+放/v 李/nr1 志/n 的/ude1 乐曲/n 。/wj 
+放/v 歌手/n 李志/nr 乐曲/n 。/wj 
+放/v 音乐家/n 李志/nr 的/ude1 乐曲/n 。/wj 
+放/v 一/m 放/v 李/nr1 志/n 乐曲/n 。/wj 
+放/v 一/m 放/v 艺人/n 李志/nr 的/ude1 乐曲/n 。/wj 
+放/v 一/m 放/v 音乐家/n 李志/nr 乐曲/n 。/wj 
+放/v 一/m 放/v 歌星/n 李志/nr 的/ude1 乐曲/n 。/wj 
+放/v 一/m 下/vf 艺人/n 李志/nr 乐曲/n 。/wj 
+放/v 一/m 下/vf 歌手/n 李志/nr 的/ude1 乐曲/n 。/wj 
+放/v 一/m 下/vf 歌星/n 李志/nr 乐曲/n 。/wj 
+李志/nr 音乐/n 专辑/n 播放/v 。/wj 
+李志/nr 音乐/n 听/v 一下/mq 。/wj 
+李志/nr 音乐/n 放/v 一下/mq 。/wj 
+李志/nr 的/ude1 音乐/n 专辑/n 播放/v 。/wj 
+李志/nr 的/ude1 音乐/n 听/v 一下/mq 。/wj 
+李志/nr 的/ude1 音乐/n 放/v 一下/mq 。/wj 
+艺人/n 李志/nr 音乐/n 专辑/n 播放/v 。/wj 
+艺人/n 李志/nr 音乐/n 听/v 一下/mq 。/wj 
+艺人/n 李志/nr 音乐/n 放/v 一下/mq 。/wj 
+艺人/n 李志/nr 的/ude1 音乐/n 专辑/n 播放/v 。/wj 
+艺人/n 李志/nr 的/ude1 音乐/n 听/v 一下/mq 。/wj 
+艺人/n 李志/nr 的/ude1 音乐/n 放/v 一下/mq 。/wj 
+歌手/n 李志/nr 音乐/n 专辑/n 播放/v 。/wj 
+歌手/n 李志/nr 音乐/n 听/v 一下/mq 。/wj 
+还/d 要/v 多少/ry 路/n 。/wj 
+还/d 要/v 多少/ry 距离/n 。/wj 
+还要/d 多/a 长/a 路程/n 。/wj 
+还要/d 多/a 长/a 公里/q 。/wj 
+还要/d 多/a 长远/an 。/wj 
+还要/v 几/m 路/n 。/wj 
+还要/v 几/m 距离/n 。/wj 
+还要/d 多/a 路程/n 。/wj 
+还要/v 多/m 公里/q 。/wj 
+还要/d 多/a 远/a 。/wj 
+还要/d 走/v 多少/ry 路/n 。/wj 
+还要/d 走/v 多少/ry 距离/n 。/wj 
+还要/d 走/v 多/m 长/a 路程/n 。/wj 
+还要/d 走/v 多/m 长/a 公里/q 。/wj 
+还要/d 走/v 多/m 长远/an 。/wj 
+还要/d 走/v 几/m 路/n 。/wj 
+还要/d 走/v 几/m 距离/n 。/wj 
+还要/d 走/v 多/a 路程/n 。/wj 
+还要/d 走/v 多/m 公里/q 。/wj 
+还要/d 走/v 多/m 远/a 。/wj 
+还有/v 多少/ry 路/n 。/wj 
+还有/v 多少/ry 距离/n 。/wj 
+还有/v 多/m 长/a 路程/n 。/wj 
+还有/v 多/m 长/a 公里/q 。/wj 
+还有/v 多/m 长远/an 。/wj 
+还有/v 几/m 路/n 。/wj 
+还有/v 几/m 距离/n 。/wj 
+还有/v 多/a 路程/n 。/wj 
+还有/v 多/m 公里/q 。/wj 
+还有/v 多/m 远/a 。/wj 
+还有/v 走/v 多少/ry 路/n 。/wj 
+还有/v 走/v 多少/ry 距离/n 。/wj 
+还有/v 走/v 多/m 长/a 路程/n 。/wj 
+还有/v 走/v 多/m 长/a 公里/q 。/wj 
+还有/v 走/v 多/m 长远/an 。/wj 
+还有/v 走/v 几/m 路/n 。/wj 
+还有/v 走/v 几/m 距离/n 。/wj 
+还有/v 走/v 多/a 路程/n 。/wj 
+还有/v 走/v 多/m 公里/q 。/wj 
+还有/v 走/v 多/m 远/a 。/wj 
+还/d 剩/v 多少/ry 路/n 。/wj 
+还/d 剩/v 多少/ry 距离/n 。/wj 
+还/d 剩/v 多/m 长/a 路程/n 。/wj 
+还/d 剩/v 多/m 长/a 公里/q 。/wj 
+还/d 剩/v 多/m 长远/an 。/wj 
+还/d 剩/v 几/m 路/n 。/wj 
+还/d 剩/v 几/m 距离/n 。/wj 
+还/d 剩/v 多/a 路程/n 。/wj 
+还/d 剩/v 多/m 公里/q 。/wj 
+还/d 剩/v 多/m 远/a 。/wj 
+还/d 剩/v 走/v 多少/ry 路/n 。/wj 
+还/d 剩/v 走/v 多少/ry 距离/n 。/wj 
+还/d 剩/v 走/v 多/m 长/a 路程/n 。/wj 
+还/d 剩/v 走/v 多/m 长/a 公里/q 。/wj 
+还/d 剩/v 走/v 多/m 长远/an 。/wj 
+还/d 剩/v 走/v 几/m 路/n 。/wj 
+还/d 剩/v 走/v 几/m 距离/n 。/wj 
+还/d 剩/v 走/v 多/a 路程/n 。/wj 
+还/d 剩/v 走/v 多/m 公里/q 。/wj 
+还/d 剩/v 走/v 多/m 远/a 。/wj 
+还要/d 多/a 长/a 分钟/qt 。/wj 
+还要/v 几/m 个/q 时间/n 。/wj 
+还要/v 几/m 个/q 小时/n 。/wj 
+还/d 要/v 多少/ry 分钟/qt 。/wj 
+还要/d 走/v 多/m 长/a 时间/n 。/wj 
+还要/d 走/v 多/m 长/a 小时/n 。/wj 
+还要/d 走/v 几/m 个/q 分钟/qt 。/wj 
+还要/d 走/v 多少/ry 时间/n 。/wj 
+还要/d 走/v 多少/ry 小时/n 。/wj 
+还有/v 多/m 长/a 分钟/qt 。/wj 
+还有/v 几/m 个/q 时间/n 。/wj 
+还有/v 几/m 个/q 小时/n 。/wj 
+还有/v 多少/ry 分钟/qt 。/wj 
+还有/v 走/v 多/m 长/a 时间/n 。/wj 
+还有/v 走/v 多/m 长/a 小时/n 。/wj 
+还有/v 走/v 几/m 个/q 分钟/qt 。/wj 
+还有/v 走/v 多少/ry 时间/n 。/wj 
+还有/v 走/v 多少/ry 小时/n 。/wj 
+取消/v 导航/vi 。/wj 
+取消/v 找/v 方向/n 。/wj 
+停止/v 定位/vi 。/wj 
+导航/vi 取消/v 。/wj 
+定位/vd 取消/v 。/wj 
+找/v 方向/n 取消/v 。/wj 
+到/p 紫竹/nr 院/n 人/n 济/vg 山庄/n 。/wj 
+去/vf 紫竹/nr 院/n 人/n 济/vg 山庄/n 。/wj 
+回/v 紫竹/nr 院/n 人/n 济/vg 山庄/n 。/wj 
+找到/v 紫竹/nr 院/n 人/n 济/vg 山庄/n 。/wj 
+导航/vi 到/v 紫竹/nr 院/n 人/n 济/vg 山庄/n 。/wj 
+导航/vi 去/vf 紫竹/nr 院/n 人/n 济/vg 山庄/n 。/wj 
+导航/vi 回/v 紫竹/nr 院/n 人/n 济/vg 山庄/n 。/wj 
+导航/vi 找到/v 紫竹/nr 院/n 人/n 济/vg 山庄/n 。/wj 
+定位/vd 到/v 紫竹/nr 院/n 人/n 济/vg 山庄/n 。/wj 
+定位/n 去/vf 紫竹/nr 院/n 人/n 济/vg 山庄/n 。/wj 
+定位/vd 回/v 紫竹/nr 院/n 人/n 济/vg 山庄/n 。/wj 
+定位/vd 找到/v 紫竹/nr 院/n 人/n 济/vg 山庄/n 。/wj 
+找/v 方向/n 到/v 紫竹/nr 院/n 人/n 济/vg 山庄/n 。/wj 
+找/v 方向/n 去/vf 紫竹/nr 院/n 人/n 济/vg 山庄/n 。/wj 
+找/v 方向/n 回/v 紫竹/nr 院/n 人/n 济/vg 山庄/n 。/wj 
+找/v 方向/n 找到/v 紫竹/nr 院/n 人/n 济/vg 山庄/n 。/wj 
+需要/v 到/v 紫竹/nr 院/n 人/n 济/vg 山庄/n 。/wj 
+需要/v 去/vf 紫竹/nr 院/n 人/n 济/vg 山庄/n 。/wj 
+需要/v 回/v 紫竹/nr 院/n 人/n 济/vg 山庄/n 。/wj 
+需要/v 找到/v 紫竹/nr 院/n 人/n 济/vg 山庄/n 。/wj 
+需要/v 导航/vi 到/v 紫竹/nr 院/n 人/n 济/vg 山庄/n 。/wj 
+需要/v 导航/vi 去/vf 紫竹/nr 院/n 人/n 济/vg 山庄/n 。/wj 
+需要/v 导航/vi 回/v 紫竹/nr 院/n 人/n 济/vg 山庄/n 。/wj 
+需要/v 导航/vi 找到/v 紫竹/nr 院/n 人/n 济/vg 山庄/n 。/wj 
+需要/v 定位/vd 到/v 紫竹/nr 院/n 人/n 济/vg 山庄/n 。/wj 
+需要/v 定位/vi 去/vf 紫竹/nr 院/n 人/n 济/vg 山庄/n 。/wj 
+需要/v 定位/vd 回/v 紫竹/nr 院/n 人/n 济/vg 山庄/n 。/wj 
+需要/v 定位/vd 找到/v 紫竹/nr 院/n 人/n 济/vg 山庄/n 。/wj 
+需要/v 找/v 方向/n 到/v 紫竹/nr 院/n 人/n 济/vg 山庄/n 。/wj 
+需要/v 找/v 方向/n 去/vf 紫竹/nr 院/n 人/n 济/vg 山庄/n 。/wj 
+需要/v 找/v 方向/n 回/v 紫竹/nr 院/n 人/n 济/vg 山庄/n 。/wj 
+需要/v 找/v 方向/n 找到/v 紫竹/nr 院/n 人/n 济/vg 山庄/n 。/wj 
+要/v 到/v 紫竹/nr 院/n 人/n 济/vg 山庄/n 。/wj 
+要/v 去/vf 紫竹/nr 院/n 人/n 济/vg 山庄/n 。/wj 
+要/v 回/v 紫竹/nr 院/n 人/n 济/vg 山庄/n 。/wj 
+要/v 找到/v 紫竹/nr 院/n 人/n 济/vg 山庄/n 。/wj 
+要/v 导航/vi 到/v 紫竹/nr 院/n 人/n 济/vg 山庄/n 。/wj 
+要/v 导航/vi 去/vf 紫竹/nr 院/n 人/n 济/vg 山庄/n 。/wj 
+要/v 导航/vi 回/v 紫竹/nr 院/n 人/n 济/vg 山庄/n 。/wj 
+要/v 导航/vi 找到/v 紫竹/nr 院/n 人/n 济/vg 山庄/n 。/wj 
+要/v 定位/vd 到/v 紫竹/nr 院/n 人/n 济/vg 山庄/n 。/wj 
+要/v 定位/vi 去/vf 紫竹/nr 院/n 人/n 济/vg 山庄/n 。/wj 
+要/v 定位/vd 回/v 紫竹/nr 院/n 人/n 济/vg 山庄/n 。/wj 
+要/v 定位/vd 找到/v 紫竹/nr 院/n 人/n 济/vg 山庄/n 。/wj 
+要/v 找/v 方向/n 到/v 紫竹/nr 院/n 人/n 济/vg 山庄/n 。/wj 
+要/v 找/v 方向/n 去/vf 紫竹/nr 院/n 人/n 济/vg 山庄/n 。/wj 
+要/v 找/v 方向/n 回/v 紫竹/nr 院/n 人/n 济/vg 山庄/n 。/wj 
+要/v 找/v 方向/n 找到/v 紫竹/nr 院/n 人/n 济/vg 山庄/n 。/wj 
+想到/v 紫竹/nr 院/n 人/n 济/vg 山庄/n 。/wj 
+想/v 去/vf 紫竹/nr 院/n 人/n 济/vg 山庄/n 。/wj 
+想/v 回/v 紫竹/nr 院/n 人/n 济/vg 山庄/n 。/wj 
+想/v 找/v 到/v 紫竹/nr 院/n 人/n 济/vg 山庄/n 。/wj 
+想/v 导航/vi 到/v 紫竹/nr 院/n 人/n 济/vg 山庄/n 。/wj 
+想/v 导航/vi 去/vf 紫竹/nr 院/n 人/n 济/vg 山庄/n 。/wj 
+想/v 导航/vi 回/v 紫竹/nr 院/n 人/n 济/vg 山庄/n 。/wj 
+想/v 导航/vi 找到/v 紫竹/nr 院/n 人/n 济/vg 山庄/n 。/wj 
+想/v 定位/vd 到/v 紫竹/nr 院/n 人/n 济/vg 山庄/n 。/wj 
+想/v 定位/vi 去/vf 紫竹/nr 院/n 人/n 济/vg 山庄/n 。/wj 
+想/v 定位/vd 回/v 紫竹/nr 院/n 人/n 济/vg 山庄/n 。/wj 
+想/v 定位/vd 找到/v 紫竹/nr 院/n 人/n 济/vg 山庄/n 。/wj 
+想/v 找/v 方向/n 到/v 紫竹/nr 院/n 人/n 济/vg 山庄/n 。/wj 
+想/v 找/v 方向/n 去/vf 紫竹/nr 院/n 人/n 济/vg 山庄/n 。/wj 
+想/v 找/v 方向/n 回/v 紫竹/nr 院/n 人/n 济/vg 山庄/n 。/wj 
+想/v 找/v 方向/n 找到/v 紫竹/nr 院/n 人/n 济/vg 山庄/n 。/wj 
+想/v 要/v 到/v 紫竹/nr 院/n 人/n 济/vg 山庄/n 。/wj 
+想/v 要/v 去/vf 紫竹/nr 院/n 人/n 济/vg 山庄/n 。/wj 
+想/v 要/v 回/v 紫竹/nr 院/n 人/n 济/vg 山庄/n 。/wj 
+想/v 要/v 找到/v 紫竹/nr 院/n 人/n 济/vg 山庄/n 。/wj 
+想/v 要/v 导航/vi 到/v 紫竹/nr 院/n 人/n 济/vg 山庄/n 。/wj 
+想/v 要/v 导航/vi 去/vf 紫竹/nr 院/n 人/n 济/vg 山庄/n 。/wj 
+想/v 要/v 导航/vi 回/v 紫竹/nr 院/n 人/n 济/vg 山庄/n 。/wj 
+想/v 要/v 导航/vi 找到/v 紫竹/nr 院/n 人/n 济/vg 山庄/n 。/wj 
+想/v 要/v 定位/vd 到/v 紫竹/nr 院/n 人/n 济/vg 山庄/n 。/wj 
+想/v 要/v 定位/vi 去/vf 紫竹/nr 院/n 人/n 济/vg 山庄/n 。/wj 
+想/v 要/v 定位/vd 回/v 紫竹/nr 院/n 人/n 济/vg 山庄/n 。/wj 
+想/v 要/v 定位/vd 找到/v 紫竹/nr 院/n 人/n 济/vg 山庄/n 。/wj 
+想/v 要/v 找/v 方向/n 到/v 紫竹/nr 院/n 人/n 济/vg 山庄/n 。/wj 
+想/v 要/v 找/v 方向/n 去/vf 紫竹/nr 院/n 人/n 济/vg 山庄/n 。/wj 
+想/v 要/v 找/v 方向/n 回/v 紫竹/nr 院/n 人/n 济/vg 山庄/n 。/wj 
+想/v 要/v 找/v 方向/n 找到/v 紫竹/nr 院/n 人/n 济/vg 山庄/n 。/wj 
+导航/vi 。/wj 
+找/v 方向/n 。/wj 
+开始/v 定位/vi 。/wj 
+启动/v 导航/vi 。/wj 
+启动/v 找/v 方向/n 。/wj 
+导航/vi 启动/v 。/wj 
+定位/vd 启动/v 。/wj 
+找/v 方向/n 启动/v 。/wj 
+需要/v 定位/vi 。/wj 
+要/v 导航/vi 。/wj 
+要/v 找/v 方向/n 。/wj 
+想/v 定位/vi 。/wj 
+想/v 要/v 导航/vi 。/wj 
+想/v 要/v 找/v 方向/n 。/wj 
+兴趣/n 点/qt 。/wj 
+机构/n 。/wj 
+行/vi 。/wj 
+允许/v 。/wj 
+恩/ng 。/wj 
+是/vshi 。/wj 
+继续/v 。/wj 
+取消/v 。/wj 
+不/d 。/wj 
+不/d 停止/v 。/wj 
+不/d 要/v 取消/v 。/wj 
+不行/a 。/wj 
+不行/a 停止/v 。/wj 
+别/d 取消/v 。/wj 
+不/d 用/v 。/wj 
+不/d 用/v 停止/v 。/wj 
+继续/v 定位/vi 。/wj 
+读读/v 新闻/n 。/wj 
+来/vf 新闻/n 。/wj 
+来/vf 一点/mq 新闻/n 。/wj 
+读/v 点/qt 新闻/n 。/wj 
+要/v 些/q 新闻/n 。/wj 
+看看/v 当地/s 新闻/n 。/wj 
+读读/v 当地/s 新闻/n 。/wj 
+看/v 当地/s 新闻/n 。/wj 
+来/vf 当地/s 新闻/n 。/wj 
+来/m 些/q 当地/s 新闻/n 。/wj 
+来/vf 一点/mq 当地/s 新闻/n 。/wj 
+读/v 一些/mq 当地/s 新闻/n 。/wj 
+读/v 点/qt 当地/s 新闻/n 。/wj 
+要/v 当地/s 新闻/n 。/wj 
+要/v 些/q 当地/s 新闻/n 。/wj 
+要/v 一点/mq 当地/s 新闻/n 。/wj 
+看看/v 新闻/n 类/q 。/wj 
+看/v 一/m 看/v 新闻/n 类/q 。/wj 
+读读/v 新闻/n 类/q 。/wj 
+读/v 一/m 读/v 新闻/n 类/q 。/wj 
+看/v 新闻/n 类/q 。/wj 
+读/v 新闻/n 类/q 。/wj 
+读/v 一/m 读/v 体育/n 新闻/n 。/wj 
+来/vf 体育/n 新闻/n 。/wj 
+来/vf 一点/mq 体育/n 新闻/n 。/wj 
+读/v 点/qt 体育/n 新闻/n 。/wj 
+要/v 些/q 体育/n 新闻/n 。/wj 
+看看/v 高考/vi 的/ude1 新闻/n 。/wj 
+看看/v 有关/vn 高考/vn 的/ude1 新闻/n 。/wj 
+看/v 一/m 看/v 关于/p 高考/vi 的/ude1 新闻/n 。/wj 
+读读/v 高考/vi 的/ude1 新闻/n 。/wj 
+读读/v 有关/vn 高考/vn 的/ude1 新闻/n 。/wj 
+读/v 一/m 读/v 关于/p 高考/vi 的/ude1 新闻/n 。/wj 
+看/v 高考/vi 的/ude1 新闻/n 。/wj 
+看/v 有关/vn 高考/vn 的/ude1 新闻/n 。/wj 
+读/v 关于/p 高考/vi 的/ude1 新闻/n 。/wj 
+来/vf 高考/vi 的/ude1 新闻/n 。/wj 
+来/vf 有关/vn 高考/vn 的/ude1 新闻/n 。/wj 
+来/vf 一些/mq 关于/p 高考/vi 的/ude1 新闻/n 。/wj 
+来/m 些/q 高考/vn 的/ude1 新闻/n 。/wj 
+来/m 些/q 有关/vn 高考/vn 的/ude1 新闻/n 。/wj 
+来/m 点/qt 关于/p 高考/vi 的/ude1 新闻/n 。/wj 
+来/vf 一点/mq 高考/vi 的/ude1 新闻/n 。/wj 
+来/vf 一点/mq 有关/vn 高考/vn 的/ude1 新闻/n 。/wj 
+读/v 一些/mq 高考/vi 的/ude1 新闻/n 。/wj 
+读/v 一些/mq 有关/vn 高考/vn 的/ude1 新闻/n 。/wj 
+读/v 些/q 关于/p 高考/vi 的/ude1 新闻/n 。/wj 
+读/v 点/qt 高考/vi 的/ude1 新闻/n 。/wj 
+读/v 点/qt 有关/vn 高考/vn 的/ude1 新闻/n 。/wj 
+读/v 一点/mq 关于/p 高考/vi 的/ude1 新闻/n 。/wj 
+要/v 高考/vi 的/ude1 新闻/n 。/wj 
+要/v 有关/vn 高考/vn 的/ude1 新闻/n 。/wj 
+要/v 一些/mq 关于/p 高考/vi 的/ude1 新闻/n 。/wj 
+要/v 些/q 高考/vn 的/ude1 新闻/n 。/wj 
+要/v 些/q 有关/vn 高考/vn 的/ude1 新闻/n 。/wj 
+要点/n 关于/p 高考/vi 的/ude1 新闻/n 。/wj 
+要/v 一点/mq 高考/vi 的/ude1 新闻/n 。/wj 
+要/v 一点/mq 有关/vn 高考/vn 的/ude1 新闻/n 。/wj 
+关于/p 高考/vi 的/ude1 新闻/n 。/wj 
+当地/s 。/wj 
+来/vf 一些/mq 当地/s 新闻/n 。/wj 
+来/m 点/qt 当地/s 新闻/n 。/wj 
+读/v 当地/s 新闻/n 。/wj 
+读/v 些/q 当地/s 新闻/n 。/wj 
+读/v 一点/mq 当地/s 新闻/n 。/wj 
+要/v 一些/mq 当地/s 新闻/n 。/wj 
+要点/n 当地/s 新闻/n 。/wj 
+当地/s 新闻/n 。/wj 
+看看/v 南方周末/gngd 新闻/n 。/wj 
+看看/v 环球时报/gnqg 新闻/n 。/wj 
+看/v 一/m 看/v 南方周末/gngd 新闻/n 。/wj 
+看/v 一/m 看/v 环球时报/gnqg 新闻/n 。/wj 
+读读/v 南方周末/gngd 新闻/n 。/wj 
+读读/v 环球时报/gnqg 新闻/n 。/wj 
+读读/v 环球时报/gnqg 号/q 新闻/n 。/wj 
+读/v 一/m 读/v 南方周末/gngd 新闻/n 。/wj 
+读/v 一/m 读/v 环球时报/gnqg 新闻/n 。/wj 
+看/v 南方周末/gngd 新闻/n 。/wj 
+看/v 环球时报/gnqg 新闻/n 。/wj 
+读/v 南方周末/gngd 新闻/n 。/wj 
+读/v 环球时报/gnqg 新闻/n 。/wj 
+来/vf 南方周末/gngd 新闻/n 。/wj 
+来/vf 环球时报/gnqg 新闻/n 。/wj 
+来/vf 一些/mq 南方周末/gngd 新闻/n 。/wj 
+来/vf 一些/mq 环球时报/gnqg 新闻/n 。/wj 
+来/m 些/q 南方周末/gngd 新闻/n 。/wj 
+来/m 些/q 环球时报/gnqg 新闻/n 。/wj 
+来/m 些/q 环球时报/gnqg 号/q 新闻/n 。/wj 
+来/m 点/qt 南方周末/gngd 新闻/n 。/wj 
+来/m 点/qt 环球时报/gnqg 新闻/n 。/wj 
+来/m 点/qt 环球时报/gnqg 号/q 新闻/n 。/wj 
+来/vf 一点/mq 南方周末/gngd 新闻/n 。/wj 
+来/vf 一点/mq 环球时报/gnqg 新闻/n 。/wj 
+来/vf 一点/mq 环球时报/gnqg 号/q 新闻/n 。/wj 
+读/v 环球时报/gnqg 号/q 新闻/n 。/wj 
+读/v 一些/mq 南方周末/gngd 新闻/n 。/wj 
+读/v 一些/mq 环球时报/gnqg 新闻/n 。/wj 
+读/v 一些/mq 环球时报/gnqg 号/q 新闻/n 。/wj 
+读/v 些/q 南方周末/gngd 新闻/n 。/wj 
+读/v 些/q 环球时报/gnqg 新闻/n 。/wj 
+读/v 些/q 环球时报/gnqg 号/q 新闻/n 。/wj 
+读/v 点/qt 南方周末/gngd 新闻/n 。/wj 
+读/v 点/qt 环球时报/gnqg 新闻/n 。/wj 
+读/v 点/qt 环球时报/gnqg 号/q 新闻/n 。/wj 
+读/v 一点/mq 南方周末/gngd 新闻/n 。/wj 
+读/v 一点/mq 环球时报/gnqg 新闻/n 。/wj 
+读/v 一点/mq 环球时报/gnqg 号/q 新闻/n 。/wj 
+要/v 南方周末/gngd 新闻/n 。/wj 
+要/v 环球时报/gnqg 新闻/n 。/wj 
+要/v 环球时报/gnqg 号/q 新闻/n 。/wj 
+要/v 一些/mq 南方周末/gngd 新闻/n 。/wj 
+要/v 一些/mq 环球时报/gnqg 新闻/n 。/wj 
+要/v 一些/mq 环球时报/gnqg 号/q 新闻/n 。/wj 
+要/v 些/q 南方周末/gngd 新闻/n 。/wj 
+要/v 些/q 环球时报/gnqg 新闻/n 。/wj 
+要/v 些/q 环球时报/gnqg 号/q 新闻/n 。/wj 
+要点/n 南方周末/gngd 新闻/n 。/wj 
+要点/n 环球时报/gnqg 新闻/n 。/wj 
+要点/n 环球时报/gnqg 号/q 新闻/n 。/wj 
+要/v 一点/mq 南方周末/gngd 新闻/n 。/wj 
+要/v 一点/mq 环球时报/gnqg 新闻/n 。/wj 
+要/v 一点/mq 环球时报/gnqg 号/q 新闻/n 。/wj 
+环球时报/gnqg 。/wj 
+选/v 家/n 儿/ng 附近/f 的/ude1 中餐馆/n 。/wj 
+周围/f 的/ude1 中餐馆/n 寻找/v 一/m 家/q 儿/ng 。/wj 
+附近/f 离/v 最近/t 的/ude1 地/n 电影院/n 。/wj 
+选/v 距离/n 最近/t 的/ude1 的/ude1 电影院/n 。/wj 
+筛选/v 周围/f 最近/t 的/ude1 得/v 电影院/n 。/wj 
+选择/v 距离/n 最近/t 地/n 电影院/n 。/wj 
+想/v 选/v 周围/f 距离/p 最近/t 的/ude1 的/ude1 电影院/n 。/wj 
+想/v 挑选/v 距离/n 距离/n 最近/t 的/ude1 得/v 电影院/n 。/wj 
+想/v 选择/v 周围/f 距离/p 最近/t 地/n 电影院/n 。/wj 
+要/v 距离/n 离/v 我/rr 最近/t 的/ude1 的/ude1 电影院/n 。/wj 
+要/v 挑选/v 周围/f 离/v 我/rr 最近/t 的/ude1 得/v 电影院/n 。/wj 
+要/v 筛选/v 距离/n 距离/n 我/rr 最近/t 的/ude1 地/n 电影院/n 。/wj 
+想/v 要/v 周围/f 离/v 最近/t 的/ude1 的/ude1 电影院/n 。/wj 
+想/v 要/v 选/v 距离/n 离/v 最近/t 的/ude1 得/v 电影院/n 。/wj 
+想/v 要/v 筛选/v 旁边/f 最近/t 的/ude1 地/n 电影院/n 。/wj 
+想/v 要/v 选择/v 距离/n 附近/f 最近/t 的/ude1 电影院/n 。/wj 
+我/rr 选/v 旁边/f 最近/t 得/v 电影院/n 。/wj 
+我/rr 挑选/v 距离/n 附近/f 距离/p 最近/t 的/ude1 地/n 电影院/n 。/wj 
+我/rr 选择/v 周围/f 距离/p 最近/t 的/ude1 得/v 电影院/n 。/wj 
+我/rr 选择/v 距离/n 周围/f 离/v 我/rr 最近/t 的/ude1 的/ude1 电影院/n 。/wj 
+最近/t 的/ude1 得/v 中餐馆/n 要/v 选择/v 个/q 。/wj 
+我/rr 想/v 选/v 离/v 旁边/f 距离/n 我/rr 最近/t 的/ude1 地/n 电影院/n 。/wj 
+最近/t 地/n 中餐馆/n 要/v 选/v 一下/mq 。/wj 
+最近/t 得/v 中餐馆/n 想/v 要/v 挑选/v 个/q 。/wj 
+距离/p 最近/t 的/ude1 地/n 中餐馆/n 筛选/v 一/m 家/q 。/wj 
+我/rr 想/v 选择/v 离/v 周围/f 距离/n 我/rr 最近/t 的/ude1 地/n 电影院/n 。/wj 
+距离/p 最近/t 的/ude1 中餐馆/n 要/v 个/q 。/wj 
+距离/p 最近/t 地/n 中餐馆/n 想/v 要/v 选/v 一/m 家/q 。/wj 
+我/rr 要/v 选/v 距离/n 距离/n 最近/t 的/ude1 得/v 电影院/n 。/wj 
+离/p 我/rr 最近/t 的/ude1 地/n 中餐馆/n 想/v 要/v 一个/mq 。/wj 
+距离/p 我/rr 最近/t 的/ude1 地/n 中餐馆/n 选/v 一下/mq 。/wj 
+我/rr 要/v 挑选/v 距离/n 附近/f 离/v 我/rr 最近/t 的/ude1 的/ude1 电影院/n 。/wj 
+离/p 最近/t 的/ude1 的/ude1 中餐馆/n 要/v 选择/v 一下/mq 。/wj 
+我/rr 要/v 选择/v 周围/f 距离/p 最近/t 的/ude1 得/v 电影院/n 。/wj 
+我/rr 要/v 选择/v 距离/n 旁边/f 最近/t 的/ude1 的/ude1 电影院/n 。/wj 
+附近/f 最近/t 的/ude1 地/n 中餐馆/n 要/v 个/q 。/wj 
+附近/f 最近/t 的/ude1 得/v 中餐馆/n 想/v 要/v 个/q 。/wj 
+附近/f 最近/t 地/n 中餐馆/n 想/v 一/m 家/q 儿/ng 。/wj 
+附近/f 最近/t 得/v 中餐馆/n 要/v 筛选/v 一/m 家/q 。/wj 
+我/rr 想/v 要/v 筛选/v 周围/f 距离/p 最近/t 地/n 电影院/n 。/wj 
+附近/f 距离/p 最近/t 的/ude1 得/v 中餐馆/n 选择/v 个/q 。/wj 
+附近/f 距离/p 最近/t 的/ude1 中餐馆/n 要/v 一个/mq 。/wj 
+这个/rz 距离/n 最近/t 的/ude1 得/v 中餐馆/n 我/rr 选/v 。/wj 
+这个/rz 离/v 最近/t 的/ude1 的/ude1 中餐馆/n 选/v 。/wj 
+这个/rz 附近/f 距离/p 最近/t 的/ude1 的/ude1 中餐馆/n 我/rr 选/v 。/wj 
+这个/rz 附近/f 距离/n 我/rr 最近/t 的/ude1 地/n 中餐馆/n 选/v 。/wj 
+附近/f 距离/p 最近/t 地/n 中餐馆/n 想/v 要/v 筛选/v 家/n 儿/ng 。/wj 
+附近/f 离/v 我/rr 最近/t 的/ude1 地/n 中餐馆/n 选择/v 一/m 家/q 。/wj 
+这个/rz 附近/f 离/v 最近/t 的/ude1 得/v 中餐馆/n 我/rr 要/v 选择/vn 。/wj 
+附近/f 距离/n 我/rr 最近/t 的/ude1 地/n 中餐馆/n 想/v 选/v 下/vf 儿/ng 。/wj 
+这个/rz 周围/f 距离/p 最近/t 得/v 中餐馆/n 想/v 要/v 选/v 。/wj 
+这个/rz 周围/f 离/v 最近/t 的/ude1 得/v 中餐馆/n 我/rr 想/v 要/v 选/v 。/wj 
+这个/rz 旁边/f 距离/p 最近/t 的/ude1 的/ude1 中餐馆/n 我/rr 想/v 挑选/v 。/wj 
+这个/rz 旁边/f 距离/n 我/rr 最近/t 的/ude1 地/n 中餐馆/n 想/v 挑选/v 。/wj 
+离/p 这个/rz 最近/t 地/n 中餐馆/n 我/rr 想/v 挑选/v 。/wj 
+离/p 这个/rz 距离/n 最近/t 的/ude1 得/v 中餐馆/n 我/rr 想/v 选择/vn 。/wj 
+离/p 这个/rz 离/v 我/rr 最近/t 的/ude1 地/n 中餐馆/n 想/v 筛选/v 。/wj 
+周围/f 最近/t 的/ude1 的/ude1 中餐馆/n 想/v 筛选/v 一/m 家/q 儿/ng 。/wj 
+离/p 这个/rz 附近/f 最近/t 的/ude1 地/n 中餐馆/n 我/rr 想/v 挑选/v 。/wj 
+离/p 这个/rz 附近/f 距离/p 最近/t 地/n 中餐馆/n 我/rr 要/v 挑选/v 。/wj 
+离/p 这个/rz 附近/f 离/v 最近/t 的/ude1 得/v 中餐馆/n 要/v 挑选/v 。/wj 
+周围/f 最近/t 的/ude1 中餐馆/n 选/v 一/m 家/q 儿/ng 。/wj 
+离/p 这个/rz 周围/f 距离/p 最近/t 的/ude1 得/v 中餐馆/n 选择/vn 。/wj 
+周围/f 最近/t 得/v 中餐馆/n 想/v 筛选/v 一/m 家/q 儿/ng 。/wj 
+离/p 这个/rz 周围/f 距离/n 我/rr 最近/t 的/ude1 得/v 中餐馆/n 我/rr 选择/v 。/wj 
+离/p 这个/rz 旁边/f 最近/t 地/n 中餐馆/n 要/v 挑选/v 。/wj 
+离/p 这个/rz 旁边/f 离/v 我/rr 最近/t 的/ude1 的/ude1 中餐馆/n 选/v 。/wj 
+距离/n 这个/rz 最近/t 的/ude1 的/ude1 中餐馆/n 我/rr 选/v 。/wj 
+距离/n 这个/rz 距离/n 最近/t 地/n 中餐馆/n 选/v 。/wj 
+距离/n 这个/rz 离/v 最近/t 的/ude1 地/n 中餐馆/n 我/rr 选/v 。/wj 
+距离/n 这个/rz 附近/f 距离/p 最近/t 的/ude1 地/n 中餐馆/n 筛选/vn 。/wj 
+周围/f 距离/p 最近/t 的/ude1 中餐馆/n 想/v 要/v 筛选/v 下/vf 。/wj 
+周围/f 离/v 我/rr 最近/t 的/ude1 的/ude1 中餐馆/n 想/v 选/v 一/m 家/q 儿/ng 。/wj 
+周围/f 离/v 我/rr 最近/t 的/ude1 得/v 中餐馆/n 筛选/v 一/m 家/q 。/wj 
+周围/f 距离/n 我/rr 最近/t 的/ude1 的/ude1 中餐馆/n 想/v 选/v 家/n 儿/ng 。/wj 
+距离/n 这个/rz 附近/f 离/v 最近/t 的/ude1 地/n 中餐馆/n 我/rr 。/wj 
+周围/f 距离/n 我/rr 最近/t 的/ude1 得/v 中餐馆/n 要/v 选择/v 家/n 儿/ng 。/wj 
+周围/f 离/v 最近/t 的/ude1 的/ude1 中餐馆/n 想/v 要/v 挑选/v 一下/mq 。/wj 
+距离/n 这个/rz 周围/f 离/v 我/rr 最近/t 的/ude1 地/n 中餐馆/n 我/rr 想/v 筛选/v 。/wj 
+距离/n 这个/rz 周围/f 离/v 最近/t 的/ude1 地/n 中餐馆/n 我/rr 筛选/v 。/wj 
+旁边/f 最近/t 的/ude1 地/n 中餐馆/n 要/v 选/v 一/m 家/q 儿/ng 。/wj 
+距离/n 这个/rz 旁边/f 最近/t 的/ude1 中餐馆/n 我/rr 要/v 选择/vn 。/wj 
+距离/n 这个/rz 旁边/f 距离/p 最近/t 的/ude1 得/v 中餐馆/n 我/rr 想/v 挑选/v 。/wj 
+旁边/f 最近/t 地/n 中餐馆/n 想/v 要/v 选择/v 家/n 儿/ng 。/wj 
+旁边/f 距离/p 最近/t 的/ude1 的/ude1 中餐馆/n 选择/v 下/vf 。/wj 
+旁边/f 距离/p 最近/t 的/ude1 得/v 中餐馆/n 想/v 挑选/v 个/q 。/wj 
+旁边/f 距离/p 最近/t 地/n 中餐馆/n 想/v 要/v 一/m 家/q 。/wj 
+旁边/f 离/v 我/rr 最近/t 的/ude1 地/n 中餐馆/n 挑选/v 个/q 。/wj 
+旁边/f 距离/n 我/rr 最近/t 的/ude1 的/ude1 中餐馆/n 要/v 一/m 家/q 。/wj 
+旁边/f 距离/n 我/rr 最近/t 的/ude1 得/v 中餐馆/n 想/v 要/v 挑选/v 个/q 。/wj 
+旁边/f 离/v 最近/t 的/ude1 得/v 中餐馆/n 想/v 一/m 家/q 。/wj 
+离/p 最近/t 的/ude1 地/n 中餐馆/n 要/v 挑选/v 个/q 。/wj 
+离/p 最近/t 地/n 中餐馆/n 一/m 家/q 。/wj 
+离/p 距离/n 最近/t 的/ude1 的/ude1 中餐馆/n 想/v 挑选/v 个/q 。/wj 
+离/p 距离/n 最近/t 的/ude1 得/v 中餐馆/n 想/v 要/v 一/m 家/q 。/wj 
+离/p 距离/n 最近/t 得/v 中餐馆/n 挑选/v 个/q 。/wj 
+离/v 离/v 我/rr 最近/t 的/ude1 地/n 中餐馆/n 要/v 一/m 家/q 。/wj 
+离/p 距离/n 我/rr 最近/t 的/ude1 的/ude1 中餐馆/n 想/v 要/v 挑选/v 个/q 。/wj 
+离/v 离/v 最近/t 的/ude1 的/ude1 中餐馆/n 想/v 一/m 家/q 。/wj 
+离/v 离/v 最近/t 的/ude1 得/v 中餐馆/n 要/v 挑选/v 个/q 。/wj 
+离/v 附近/f 最近/t 的/ude1 得/v 中餐馆/n 一/m 家/q 。/wj 
+离/v 附近/f 最近/t 地/n 中餐馆/n 想/v 挑选/v 个/q 。/wj 
+离/v 附近/f 距离/p 最近/t 的/ude1 的/ude1 中餐馆/n 想/v 要/v 一/m 家/q 。/wj 
+离/v 附近/f 距离/p 最近/t 的/ude1 中餐馆/n 挑选/v 个/q 。/wj 
+离/v 附近/f 距离/p 最近/t 得/v 中餐馆/n 要/v 一/m 家/q 。/wj 
+离/v 附近/f 离/v 我/rr 最近/t 的/ude1 地/n 中餐馆/n 想/v 要/v 挑选/v 个/q 。/wj 
+离/v 附近/f 距离/n 我/rr 最近/t 的/ude1 地/n 中餐馆/n 想/v 一/m 家/q 。/wj 
+离/v 附近/f 离/v 最近/t 的/ude1 的/ude1 中餐馆/n 要/v 挑选/v 个/q 。/wj 
+离/v 周围/f 最近/t 的/ude1 的/ude1 中餐馆/n 一/m 家/q 。/wj 
+离/v 周围/f 最近/t 的/ude1 得/v 中餐馆/n 想/v 挑选/v 个/q 。/wj 
+离/v 周围/f 最近/t 地/n 中餐馆/n 想/v 要/v 一/m 家/q 。/wj 
+离/v 周围/f 距离/p 最近/t 的/ude1 地/n 中餐馆/n 挑选/v 个/q 。/wj 
+离/v 周围/f 距离/p 最近/t 的/ude1 中餐馆/n 要/v 一/m 家/q 。/wj 
+离/v 周围/f 距离/p 最近/t 得/v 中餐馆/n 想/v 要/v 挑选/v 个/q 。/wj 
+离/v 周围/f 离/v 我/rr 最近/t 的/ude1 得/v 中餐馆/n 想/v 一/m 家/q 。/wj 
+离/v 周围/f 距离/n 我/rr 最近/t 的/ude1 地/n 中餐馆/n 要/v 挑选/v 个/q 。/wj 
+离/v 周围/f 离/v 最近/t 的/ude1 地/n 中餐馆/n 一/m 家/q 。/wj 
+离/v 旁边/f 最近/t 的/ude1 的/ude1 中餐馆/n 想/v 挑选/v 个/q 。/wj 
+离/v 旁边/f 最近/t 的/ude1 得/v 中餐馆/n 想/v 要/v 一/m 家/q 。/wj 
+离/v 旁边/f 最近/t 得/v 中餐馆/n 挑选/v 个/q 。/wj 
+离/v 旁边/f 距离/p 最近/t 的/ude1 地/n 中餐馆/n 要/v 一/m 家/q 。/wj 
+离/v 旁边/f 距离/p 最近/t 的/ude1 中餐馆/n 想/v 要/v 挑选/v 个/q 。/wj 
+离/v 旁边/f 离/v 我/rr 最近/t 的/ude1 的/ude1 中餐馆/n 想/v 一/m 家/q 。/wj 
+离/v 旁边/f 离/v 我/rr 最近/t 的/ude1 得/v 中餐馆/n 要/v 挑选/v 个/q 。/wj 
+离/v 旁边/f 距离/n 我/rr 最近/t 的/ude1 得/v 中餐馆/n 一/m 家/q 。/wj 
+离/v 旁边/f 离/v 最近/t 的/ude1 地/n 中餐馆/n 想/v 挑选/v 个/q 。/wj 
+距离/p 最近/t 的/ude1 的/ude1 中餐馆/n 想/v 要/v 一/m 家/q 。/wj 
+距离/p 最近/t 的/ude1 中餐馆/n 挑选/v 个/q 。/wj 
+距离/p 最近/t 得/v 中餐馆/n 要/v 一/m 家/q 。/wj 
+距离/p 距离/n 最近/t 的/ude1 地/n 中餐馆/n 想/v 要/v 挑选/v 个/q 。/wj 
+距离/p 距离/n 最近/t 地/n 中餐馆/n 想/v 一/m 家/q 。/wj 
+距离/n 离/v 我/rr 最近/t 的/ude1 的/ude1 中餐馆/n 要/v 挑选/v 个/q 。/wj 
+距离/p 距离/n 我/rr 最近/t 的/ude1 的/ude1 中餐馆/n 一/m 家/q 。/wj 
+距离/p 距离/n 我/rr 最近/t 的/ude1 得/v 中餐馆/n 想/v 挑选/v 个/q 。/wj 
+距离/n 离/v 最近/t 的/ude1 地/n 中餐馆/n 想/v 要/v 一/m 家/q 。/wj 
+距离/n 附近/f 最近/t 的/ude1 地/n 中餐馆/n 挑选/v 个/q 。/wj 
+距离/n 附近/f 最近/t 的/ude1 中餐馆/n 要/v 一/m 家/q 。/wj 
+距离/n 附近/f 最近/t 得/v 中餐馆/n 想/v 要/v 挑选/v 个/q 。/wj 
+距离/n 附近/f 距离/p 最近/t 的/ude1 得/v 中餐馆/n 想/v 一/m 家/q 。/wj 
+距离/n 附近/f 距离/p 最近/t 地/n 中餐馆/n 要/v 挑选/v 个/q 。/wj 
+距离/n 附近/f 离/v 我/rr 最近/t 的/ude1 地/n 中餐馆/n 一/m 家/q 。/wj 
+距离/n 附近/f 距离/n 我/rr 最近/t 的/ude1 的/ude1 中餐馆/n 想/v 挑选/v 个/q 。/wj 
+距离/n 附近/f 距离/n 我/rr 最近/t 的/ude1 得/v 中餐馆/n 想/v 要/v 一/m 家/q 。/wj 
+距离/n 附近/f 离/v 最近/t 的/ude1 得/v 中餐馆/n 挑选/v 个/q 。/wj 
+距离/n 周围/f 最近/t 的/ude1 地/n 中餐馆/n 要/v 一/m 家/q 。/wj 
+距离/n 周围/f 最近/t 的/ude1 中餐馆/n 想/v 要/v 挑选/v 个/q 。/wj 
+距离/n 周围/f 距离/p 最近/t 的/ude1 的/ude1 中餐馆/n 想/v 一/m 家/q 。/wj 
+距离/n 周围/f 距离/p 最近/t 的/ude1 得/v 中餐馆/n 要/v 挑选/v 个/q 。/wj 
+距离/n 周围/f 距离/p 最近/t 得/v 中餐馆/n 一/m 家/q 。/wj 
+距离/n 周围/f 离/v 我/rr 最近/t 的/ude1 地/n 中餐馆/n 想/v 挑选/v 个/q 。/wj 
+距离/n 周围/f 距离/n 我/rr 最近/t 的/ude1 的/ude1 中餐馆/n 想/v 要/v 一/m 家/q 。/wj 
+距离/n 周围/f 离/v 最近/t 的/ude1 的/ude1 中餐馆/n 挑选/v 个/q 。/wj 
+距离/n 周围/f 离/v 最近/t 的/ude1 得/v 中餐馆/n 要/v 一/m 家/q 。/wj 
+距离/n 旁边/f 最近/t 的/ude1 地/n 中餐馆/n 想/v 要/v 挑选/v 个/q 。/wj 
+距离/n 旁边/f 最近/t 地/n 中餐馆/n 想/v 一/m 家/q 。/wj 
+距离/n 旁边/f 距离/p 最近/t 的/ude1 的/ude1 中餐馆/n 要/v 挑选/v 个/q 。/wj 
+距离/n 旁边/f 距离/p 最近/t 的/ude1 中餐馆/n 一/m 家/q 。/wj 
+距离/n 旁边/f 距离/p 最近/t 得/v 中餐馆/n 想/v 挑选/v 个/q 。/wj 
+距离/n 旁边/f 离/v 我/rr 最近/t 的/ude1 地/n 中餐馆/n 想/v 要/v 一/m 家/q 。/wj 
+距离/n 旁边/f 距离/n 我/rr 最近/t 的/ude1 地/n 中餐馆/n 挑选/v 个/q 。/wj 
+距离/n 旁边/f 离/v 最近/t 的/ude1 的/ude1 中餐馆/n 要/v 一/m 家/q 。/wj 
+距离/n 旁边/f 离/v 最近/t 的/ude1 得/v 中餐馆/n 想/v 要/v 挑选/v 个/q 。/wj 
+这/rzv 块儿/n 周围/f 的/ude1 酒吧/n 。/wj 
+想/v 周围/f 地/n 酒吧/n 。/wj 
+想/v 选择/v 这/rzv 周围/f 得/v 酒吧/n 。/wj 
+要/v 筛选/v 这儿/rzs 旁边/f 的/ude1 酒吧/n 。/wj 
+想/v 要/v 挑选/v 这里/rzs 旁边/f 地/n 酒吧/n 。/wj 
+我/rr 选/v 这/rzv 块儿/n 旁边/f 得/v 酒吧/n 。/wj 
+我/rr 想/v 选/v 这/rzv 附近/f 的/ude1 酒吧/n 。/wj 
+我/rr 要/v 这儿/rzs 附近/f 地/n 酒吧/n 。/wj 
+我/rr 要/v 选择/v 这里/rzs 附近/f 得/v 酒吧/n 。/wj 
+我/rr 想/v 要/v 筛选/v 这/rzv 块儿/n 周围/f 的/ude1 酒吧/n 。/wj 
+选择/v 周围/f 地/n 酒吧/n 。/wj 
+酒吧/n 筛选/v 查/v 离/v 我/rr 最近/t 的/ude1 。/wj 
+挑选/v 看/v 距离/n 最近/t 酒吧/n 。/wj 
+离/p 这个/rz 距离/n 最近/t 得/v 酒吧/n 。/wj 
+选/v 这个/rz 附近/f 离/v 我/rr 最近/t 的/ude1 的/ude1 酒吧/n 。/wj 
+选/v 距离/n 这个/rz 周围/f 离/v 我/rr 最近/t 的/ude1 地/n 酒吧/n 。/wj 
+挑选/v 离/v 这个/rz 旁边/f 离/v 我/rr 最近/t 的/ude1 得/v 酒吧/n 。/wj 
+筛选/v 离/v 这个/rz 距离/n 我/rr 最近/t 的/ude1 的/ude1 酒吧/n 。/wj 
+选择/v 这个/rz 附近/f 距离/n 我/rr 最近/t 的/ude1 地/n 酒吧/n 。/wj 
+选择/v 距离/n 这个/rz 周围/f 距离/n 我/rr 最近/t 的/ude1 得/v 酒吧/n 。/wj 
+想/v 离/v 这个/rz 旁边/f 离/v 最近/t 的/ude1 的/ude1 酒吧/n 。/wj 
+想/v 选/v 离/v 这个/rz 离/v 最近/t 的/ude1 地/n 酒吧/n 。/wj 
+想/v 挑选/v 这个/rz 附近/f 离/v 最近/t 的/ude1 得/v 酒吧/n 。/wj 
+想/v 挑选/v 距离/n 这个/rz 旁边/f 最近/t 的/ude1 的/ude1 酒吧/n 。/wj 
+想/v 筛选/v 距离/n 这个/rz 最近/t 的/ude1 地/n 酒吧/n 。/wj 
+想/v 选择/v 离/v 这个/rz 附近/f 最近/t 的/ude1 得/v 酒吧/n 。/wj 
+要/v 这个/rz 周围/f 最近/t 的/ude1 酒吧/n 。/wj 
+要/v 距离/n 这个/rz 旁边/f 最近/t 地/n 酒吧/n 。/wj 
+要/v 选/v 距离/n 这个/rz 最近/t 得/v 酒吧/n 。/wj 
+要/v 挑选/v 离/v 这个/rz 附近/f 距离/p 最近/t 的/ude1 的/ude1 酒吧/n 。/wj 
+要/v 筛选/v 这个/rz 周围/f 距离/p 最近/t 的/ude1 地/n 酒吧/n 。/wj 
+要/v 筛选/v 距离/n 这个/rz 旁边/f 距离/p 最近/t 的/ude1 得/v 酒吧/n 。/wj 
+要/v 选择/v 距离/n 这个/rz 距离/n 最近/t 的/ude1 酒吧/n 。/wj 
+想/v 要/v 离/v 这个/rz 附近/f 距离/p 最近/t 地/n 酒吧/n 。/wj 
+想/v 要/v 选/v 这个/rz 周围/f 距离/p 最近/t 得/v 酒吧/n 。/wj 
+想/v 要/v 选/v 距离/n 这个/rz 旁边/f 离/v 我/rr 最近/t 的/ude1 的/ude1 酒吧/n 。/wj 
+想/v 要/v 挑选/v 距离/n 这个/rz 离/v 我/rr 最近/t 的/ude1 地/n 酒吧/n 。/wj 
+想/v 要/v 筛选/v 离/v 这个/rz 附近/f 离/v 我/rr 最近/t 的/ude1 得/v 酒吧/n 。/wj 
+给/p 我/rr 检查/v 电源/n 功能/n 。/wj 
+给/p 俺/rr 检验/v 电源/n 功能/n 。/wj 
+帮/v 本人/rr 检查/v 电源/n 功能/n 。/wj 
+帮/v 咱/rr 检验/v 电源/n 功能/n 。/wj 
+让/v 俺/rr 检查/v 电源/n 功能/n 。/wj 
+允许/v 我/rr 检验/v 电源/n 功能/n 。/wj 
+允许/v 咱/rr 检查/v 电源/n 功能/n 。/wj 
+电源/n 还/d 剩下/v 什么/ry 程度/n 。/wj 
+批准/v 咱/rr 检查/v 电源/n 功能/n 。/wj 
+帮助/v 本人/rr 检验/v 电源/n 功能/n 。/wj 
+替/p 我/rr 检查/v 电源/n 功能/n 。/wj 
+替/p 俺/rr 检验/v 电源/n 功能/n 。/wj 
+电源/n 消耗/vn 功能/n 。/wj 
+检验/v 电源/n 使用/v 功能/n 。/wj 
+展示/v 电池/n 应用/vn 功能/n 。/wj 
+请/v 显示/v 电源/n 消耗/vn 功能/n 。/wj 
+麻烦/an 显示/v 电源/n 使用/v 功能/n 。/wj 
+拜托/v 显示/v 电池/n 应用/vn 功能/n 。/wj 
+拜托/v 展示/v 电源/n 消耗/vn 功能/n 。/wj 
+俺/rr 还/d 剩下/v 多少/ry 电源/n 。/wj 
+把/pba 电池/n 应用/vn 功能/n 检验/v 一下/mq 。/wj 
+将/p 电池/n 使用/v 功能/n 检验/v 一下/mq 。/wj 
+将/p 电源/n 消耗/vn 功能/n 检验/v 一下/mq 。/wj 
+电池/n 消耗/vn 功能/n 检验/vn 。/wj 
+我/rr 想/v 要/v 知道/v 电源/n 还/d 余/m 留/v 什么/ry 程度/n 。/wj 
+我/rr 希望/v 了解/v 电池/n 还/d 余/m 留/v 什么/ry 程度/n 。/wj 
+我/rr 要/v 了解/v 电源/n 还/d 余/m 留/v 什么/ry 程度/n 。/wj 
+我/rr 需要/v 知道/v 电池/n 还/d 余/m 留/v 什么/ry 程度/n 。/wj 
+我/rr 计划/v 知道/v 电源/n 还/d 余/m 留/v 什么/ry 程度/n 。/wj 
+本/rz 人/n 想/v 要/v 了解/v 电池/n 还/d 余/m 留/v 什么/ry 程度/n 。/wj 
+本人/rr 希望/v 了解/v 电源/n 还/d 余/m 留/v 什么/ry 程度/n 。/wj 
+本/rz 人/n 想/v 知道/v 电池/n 还/d 余/m 留/v 什么/ry 程度/n 。/wj 
+本人/rr 需要/v 知道/v 电源/n 还/d 余/m 留/v 什么/ry 程度/n 。/wj 
+本人/rr 计划/v 了解/v 电池/n 还/d 余/m 留/v 什么/ry 程度/n 。/wj 
+俺/rr 想/v 要/v 了解/v 电源/n 还/d 余/m 留/v 什么/ry 程度/n 。/wj 
+俺/rr 要/v 知道/v 电池/n 还/d 余/m 留/v 什么/ry 程度/n 。/wj 
+俺/rr 想/v 知道/v 电源/n 还/d 余/m 留/v 什么/ry 程度/n 。/wj 
+俺/rr 需要/v 了解/v 电池/n 还/d 余/m 留/v 什么/ry 程度/n 。/wj 
+俺/rr 计划/v 了解/v 电源/n 还/d 余/m 留/v 什么/ry 程度/n 。/wj 
+咱/rr 希望/v 知道/v 电池/n 还/d 余/m 留/v 什么/ry 程度/n 。/wj 
+咱/rr 要/v 知道/v 电源/n 还/d 余/m 留/v 什么/ry 程度/n 。/wj 
+咱/rr 想/v 了解/v 电池/n 还/d 余/m 留/v 什么/ry 程度/n 。/wj 
+咱/rr 需要/v 了解/v 电源/n 还/d 余/m 留/v 什么/ry 程度/n 。/wj 
+启动/v WIFI/n 。/wj 
+设/v 成/v WIFI/n 。/wj 
+变为/v WIFI/n 。/wj 
+切换/v 无线/b 网/n 为/p 开启/v 状态/n 。/wj 
+切换/v 无线/b 网/n 成/v 开开/nz 状态/n 。/wj 
+切换/v WIFI/n 到/v 打开/v 状态/n 。/wj 
+切换/v WIFI/n 为/p 开/v 状态/n 。/wj 
+切换/v WIFI/n 成/v 启用/v 状态/n 。/wj 
+设置/v 无线/b 网/n 到/v 启动/v 状态/n 。/wj 
+设置/v 无线/b 网/n 为/p 开始/v 状态/n 。/wj 
+设置/v 无线/b 网/n 至/p 开启/v 状态/n 。/wj 
+设置/v WIFI/n 到/v 开开/nz 状态/n 。/wj 
+设置/v WIFI/n 成/v 打开/v 状态/n 。/wj 
+设置/v WIFI/n 至/p 开/v 状态/n 。/wj 
+设/v 无线/b 网/n 到/v 启用/v 状态/n 。/wj 
+设/v 无线/b 网/n 成/v 启动/v 状态/n 。/wj 
+设/v 无线/b 网/n 至/p 开始/v 状态/n 。/wj 
+设/v WIFI/n 为/p 开启/v 状态/n 。/wj 
+设/v WIFI/n 成/v 开开/nz 状态/n 。/wj 
+进入/v 无线/b 网/n 到/v 打开/v 状态/n 。/wj 
+进入/v 无线/b 网/n 为/p 开/v 状态/n 。/wj 
+进入/v 无线/b 网/n 成/v 启用/v 状态/n 。/wj 
+进入/v WIFI/n 到/v 启动/v 状态/n 。/wj 
+进入/v WIFI/n 为/p 开始/v 状态/n 。/wj 
+进入/v WIFI/n 至/p 开启/v 状态/n 。/wj 
+转/v 无线/b 网/n 到/v 开开/nz 状态/n 。/wj 
+转/v 无线/b 网/n 成/v 打开/v 状态/n 。/wj 
+转/v 无线/b 网/n 至/p 开/v 状态/n 。/wj 
+转/v WIFI/n 到/v 启用/v 状态/n 。/wj 
+转/v WIFI/n 成/v 启动/v 状态/n 。/wj 
+转/v WIFI/n 至/p 开始/v 状态/n 。/wj 
+转换/v 无线/b 网/n 为/p 开启/v 状态/n 。/wj 
+转换/v 无线/b 网/n 成/v 开开/nz 状态/n 。/wj 
+转换/v WIFI/n 到/v 打开/v 状态/n 。/wj 
+转换/v WIFI/n 为/p 开/v 状态/n 。/wj 
+转换/v WIFI/n 成/v 启用/v 状态/n 。/wj 
+变/v 无线/b 网/n 到/v 启动/v 状态/n 。/wj 
+变/v 无线/b 网/n 为/p 开始/v 状态/n 。/wj 
+变/v 无线/b 网/n 至/p 开启/v 状态/n 。/wj 
+变/v WIFI/n 到/v 开开/nz 状态/n 。/wj 
+变/v WIFI/n 成/v 打开/v 状态/n 。/wj 
+变/v WIFI/n 至/p 开/v 状态/n 。/wj 
+我/rr 想/v 使用/v WIFI/n 。/wj 
+本人/rr 要/v 使用/v WIFI/n 。/wj 
+俺/rr 希望/v 使用/v WIFI/n 。/wj 
+咱/rr 想/v 要/v 使用/v WIFI/n 。/wj 
+咱/rr 计划/v 使用/v WIFI/n 。/wj 
+把/pba 无线/b 网/n 切换/v 为/p 开启/v 状态/n 。/wj 
+把/pba 无线/b 网/n 切/d 换成/v 开开/nz 状态/n 。/wj 
+把/pba 无线/b 网/n 设置/v 到/v 打开/v 状态/n 。/wj 
+把/pba 无线/b 网/n 设置/v 为/p 开/v 状态/n 。/wj 
+把/pba 无线/b 网/n 设置/v 成/v 启用/v 状态/n 。/wj 
+把/pba 无线/b 网/n 设/v 到/v 启动/v 状态/n 。/wj 
+把/pba 无线/b 网/n 设/v 为/p 开始/v 状态/n 。/wj 
+把/pba 无线/b 网/n 设/v 至/p 开启/v 状态/n 。/wj 
+把/pba 无线/b 网/n 进入/v 到/v 开开/nz 状态/n 。/wj 
+把/pba 无线/b 网/n 进入/v 成/v 打开/v 状态/n 。/wj 
+把/pba 无线/b 网/n 进入/v 至/p 开/v 状态/n 。/wj 
+把/pba 无线/b 网/n 转/vd 到/v 启用/v 状态/n 。/wj 
+把/pba 无线/b 网/n 转/vd 成/v 启动/v 状态/n 。/wj 
+把/pba 无线/b 网/n 转/v 至/p 开始/v 状态/n 。/wj 
+把/pba 无线/b 网/n 转换/v 为/p 开启/v 状态/n 。/wj 
+把/pba 无线/b 网/n 转换/v 成/v 开开/nz 状态/n 。/wj 
+把/pba 无线/b 网/n 变/v 到/v 打开/v 状态/n 。/wj 
+把/pba 无线/b 网/n 变为/v 开/v 状态/n 。/wj 
+把/pba 无线/b 网/n 变成/v 启用/v 状态/n 。/wj 
+把/pba WIFI/n 切换/vn 到/v 启动/v 状态/n 。/wj 
+把/pba WIFI/n 切换/vn 为/v 开始/v 状态/n 。/wj 
+把/pba WIFI/n 切换/v 至/p 开启/v 状态/n 。/wj 
+把/pba WIFI/n 设置/v 到/v 开开/nz 状态/n 。/wj 
+把/pba WIFI/n 设置/v 成/v 打开/v 状态/n 。/wj 
+把/pba WIFI/n 设置/v 至/p 开/v 状态/n 。/wj 
+把/pba WIFI/n 设/v 到/v 启用/v 状态/n 。/wj 
+把/pba WIFI/n 设/v 成/v 启动/v 状态/n 。/wj 
+把/pba WIFI/n 设/v 至/p 开始/v 状态/n 。/wj 
+把/pba WIFI/n 进入/v 为/p 开启/v 状态/n 。/wj 
+把/pba WIFI/n 进入/v 成/v 开开/nz 状态/n 。/wj 
+把/pba WIFI/n 转/v 到/v 打开/v 状态/n 。/wj 
+把/pba WIFI/n 转为/v 开/v 状态/n 。/wj 
+把/pba WIFI/n 转/v 成/v 启用/v 状态/n 。/wj 
+把/pba WIFI/n 转换/v 到/v 启动/v 状态/n 。/wj 
+把/pba WIFI/n 转换/v 为/p 开始/v 状态/n 。/wj 
+把/pba WIFI/n 转换/v 至/p 开启/v 状态/n 。/wj 
+把/pba WIFI/n 变/v 到/v 开开/nz 状态/n 。/wj 
+把/pba WIFI/n 变成/v 打开/v 状态/n 。/wj 
+把/pba WIFI/n 变/v 至/p 开/v 状态/n 。/wj 
+切换/v 到/v 另外/rz 的/ude1 无线/b 网/n 接入/v 点/qt 。/wj 
+切/d 换/v 成/v 其他/rzv 的/ude1 无线/b 网/n 接入/v 点/qt 。/wj 
+切换/v 至/p 别的/rzv 无线/b 网/n 接入/v 点/qt 。/wj 
+设置/v 为/p 另外/rz 的/ude1 无线/b 网/n 接入/v 点/qt 。/wj 
+设置/v 至/p 其他/rzv 的/ude1 无线/b 网/n 接入/v 点/qt 。/wj 
+设/v 到/v 别的/rzv 无线/b 网/n 接入/v 点/qt 。/wj 
+设/v 成/v 另外/rz 的/ude1 无线/b 网/n 接入/v 点/qt 。/wj 
+进入/v 到/v 其他/rzv 的/ude1 无线/b 网/n 接入/v 点/qt 。/wj 
+进入/v 为/p 别的/rzv 无线/b 网/n 接入/v 点/qt 。/wj 
+进入/v 至/p 另外/rz 的/ude1 无线/b 网/n 接入/v 点/qt 。/wj 
+转为/v 其他/rzv 的/ude1 无线/b 网/n 接入/v 点/qt 。/wj 
+转/v 成/v 别的/rzv 无线/b 网/n 接入/v 点/qt 。/wj 
+转换/v 到/v 另外/rz 的/ude1 无线/b 网/n 接入/v 点/qt 。/wj 
+转换/v 成/v 其他/rzv 的/ude1 无线/b 网/n 接入/v 点/qt 。/wj 
+转换/v 至/p 别的/rzv 无线/b 网/n 接入/v 点/qt 。/wj 
+变为/v 另外/rz 的/ude1 无线/b 网/n 接入/v 点/qt 。/wj 
+变/v 至/p 其他/rzv 的/ude1 无线/b 网/n 接入/v 点/qt 。/wj 
+让/v WIFI/n 接入/v 点/qt 变换/v 。/wj 
+能/v 不能/v 暂停/v 会话/v 。/wj 
+我/rr 想/v 中止/v 会话/v 。/wj 
+我/rr 要/v 暂时/d 停止/v 会话/v 。/wj 
+暂停/v 会话/v 唉/e 。/wj 
+暂时/d 停止/v 呀/y 。/wj 
+后/f 一/m 页/q 。/wj 
+末/f 页/q 。/wj 
+使用/v 静音/vn 。/wj 
+不/d 关/v 静音/vn 。/wj 
+不/d 禁止/v 静音/vn 。/wj 
+不要/d 关掉/v 静音/vn 。/wj 
+不行/a 禁用/vn 静音/vn 。/wj 
+不行/a 解除/v 静音/vn 。/wj 
+别/d 取消/v 静音/vn 。/wj 
+不/d 用/v 关闭/v 静音/vn 。/wj 
+不/d 用/v 取消/v 掉/v 静音/vn 。/wj 
+设/v 成/v 静音/vn 。/wj 
+调/v 静音/vn 。/wj 
+静音/vn 。/wj 
+我/rr 需要/v 静音/vn 。/wj 
+不/d 静音/vn 模式/n 呗/y 。/wj 
+不/d 无/v 声/qv 模式/n 哇/y 。/wj 
+不要/d 静音/vn 模式/n 哟/y 。/wj 
+不行/a 静音/vn 。/wj 
+不行/a 无声/vi 呀/y 。/wj 
+别/rz 静音/vn 吧/y 。/wj 
+别/d 无/v 声/n 唉/e 。/wj 
+不用/d 静音/vn 噢/y 。/wj 
+不/d 用/v 无声/vi 模式/n 啊/y 。/wj 
+我/rr 想/v 要/v 取消/v 静音/vn 。/wj 
+我/rr 希望/v 停止/v 静音/vn 。/wj 
+我/rr 需要/v 撤销/v 静音/vn 。/wj 
+请/v 帮忙/vi 取消/v 静音/vn 。/wj 
+请/v 帮/v 个/q 忙/v 停止/v 静音/vn 。/wj 
+请/v 帮/v 一/m 下/f 撤销/v 静音/vn 。/wj 
+能否/v 帮忙/vi 取消/v 静音/vn 。/wj 
+能否/v 帮/v 个/q 忙/v 停止/v 静音/vn 。/wj 
+能否/v 帮/v 一/m 下/f 撤销/v 静音/vn 。/wj 
+能/v 不能/v 帮忙/vi 取消/v 静音/vn 。/wj 
+能/v 不/d 能/v 帮/v 个/q 忙/v 停止/v 静音/vn 。/wj 
+能/v 不/d 能/v 帮/v 一/m 下/f 撤销/v 静音/vn 。/wj 
+可以/v 帮忙/vi 取消/v 静音/vn 。/wj 
+可以/v 帮/v 个/q 忙/v 停止/v 静音/vn 。/wj 
+可以/v 帮/v 一/m 下/f 撤销/v 静音/vn 。/wj 
+可以/v 不/d 可以/v 帮忙/vi 取消/v 静音/vn 。/wj 
+可以/v 不/d 可以/v 帮/v 个/q 忙/v 停止/v 静音/vn 。/wj 
+可以/v 不/d 可以/v 帮/v 一/m 下/f 撤销/v 静音/vn 。/wj 
+取消/v 静音/vn 。/wj 
+静音/vn 取消/v 。/wj 
+静音/vn 模式/n 解除/v 。/wj 
+无声/vi 模式/n 关掉/v 。/wj 
+静音/vn 不要/d 启用/v 。/wj 
+静音/vn 不用/d 开启/v 。/wj 
+静音/vn 模式/n 不/d 要/v 打开/v 。/wj 
+静音/vn 模式/n 别/d 运行/vi 。/wj 
+无声/vi 不/d 启动/v 。/wj 
+无声/vi 不行/a 开/v 起来/vf 。/wj 
+无声/vi 模式/n 不/d 开/v 。/wj 
+无声/vi 模式/n 不行/a 使用/vn 。/wj 
+无声/vi 模式/n 不/d 用/v 激活/v 。/wj 
+继续/v 哟/y 。/wj 
+请/v 帮/v 一/m 下/f 重新/d 开始/v 。/wj 
+能/v 不/d 能/v 帮/v 一/m 下/f 重新/d 开始/v 。/wj 
+可以/v 不/d 可以/v 帮/v 一/m 下/f 重新/d 开始/v 。/wj 
+暂时/d 停止/v 呗/y 。/wj 
+我/rr 需要/v 暂时/d 停止/v 。/wj 
+重新/d 设置/v 吧/y 。/wj 
+能否/v 帮助/v 重/d 置/v 。/wj 
+能/v 不能/v 帮忙/vi 重新/d 设置/v 。/wj 
+可以/v 帮帮/v 重新/d 设定/v 。/wj 
+我/rr 想/v 重/d 置/v 。/wj 
+返回/v 上/vf 一个/mq 页面/n 。/wj 
+返回/v 到/v 上/vf 一个/mq 页面/n 。/wj 
+请/v 返回/v 上/vf 一个/mq 页面/n 。/wj 
+请/v 返回/v 到/v 上/vf 一个/mq 页面/n 。/wj 
+能否/v 返回/v 上/vf 一个/mq 页面/n 。/wj 
+能否/v 返回/v 到/v 上/vf 一个/mq 页面/n 。/wj 
+能/v 不能/v 返回/v 上/vf 一个/mq 页面/n 。/wj 
+能/v 不能/v 返回/v 到/v 上/vf 一个/mq 页面/n 。/wj 
+可以/v 返回/v 上/vf 一个/mq 页面/n 。/wj 
+可以/v 返回/v 到/v 上/vf 一个/mq 页面/n 。/wj 
+可以/v 不/d 可以/v 返回/v 上/vf 一个/mq 页面/n 。/wj 
+可以/v 不/d 可以/v 返回/v 到/v 上/vf 一个/mq 页面/n 。/wj 
+上/f 一个/mq 页面/n 。/wj 
+帮助/v 回到/v 上/vf 一个/mq 页面/n 。/wj 
+帮助/v 回/qv 退/v 上/vf 一个/mq 页/q 。/wj 
+帮助/v 我/rr 回/v 到/v 前/f 一个/mq 界面/n 。/wj 
+帮助/v 我/rr 回/v 退/v 上/vf 一个/mq 页面/n 。/wj 
+帮忙/vi 回到/v 上/vf 一个/mq 页/q 。/wj 
+帮忙/vi 我/rr 返回/v 上/vf 一个/mq 界面/n 。/wj 
+帮忙/vi 我/rr 返回/v 到/v 前/f 一个/mq 页面/n 。/wj 
+帮/v 个/q 忙/v 返回/v 前/f 一个/mq 页/q 。/wj 
+帮/v 个/q 忙/v 返回/v 到/v 上/vf 一个/mq 界面/n 。/wj 
+帮/v 个/q 忙/v 我/rr 回/v 到/v 上/vf 一个/mq 页面/n 。/wj 
+帮/v 个/q 忙/v 我/rr 回/v 退/v 上/vf 一个/mq 页/q 。/wj 
+帮帮/v 回到/v 前/f 一个/mq 界面/n 。/wj 
+帮帮/v 回/qv 退/v 上/vf 一个/mq 页面/n 。/wj 
+帮/v 帮/v 我/rr 回/v 到/v 上/vf 一个/mq 页/q 。/wj 
+帮/v 一/m 下/f 返回/v 上/vf 一个/mq 界面/n 。/wj 
+帮/v 一/m 下/f 返回/v 到/v 前/f 一个/mq 页面/n 。/wj 
+帮/v 一/m 下/f 我/rr 返回/v 前/f 一个/mq 页/q 。/wj 
+帮/v 一/m 下/f 我/rr 返回/v 到/v 上/vf 一个/mq 界面/n 。/wj 
+想/v 返回/v 上/vf 一个/mq 页/q 。/wj 
+想/v 返回/v 到/v 上/vf 一个/mq 页/q 。/wj 
+想/v 要/v 返回/v 上/vf 一个/mq 页/q 。/wj 
+想/v 要/v 返回/v 到/v 上/vf 一个/mq 页/q 。/wj 
+希望/v 返回/v 上/vf 一个/mq 页/q 。/wj 
+希望/v 返回/v 到/v 上/vf 一个/mq 页/q 。/wj 
+要/v 返回/v 上/vf 一个/mq 页/q 。/wj 
+要/v 返回/v 到/v 上/vf 一个/mq 页/q 。/wj 
+需要/v 返回/v 上/vf 一个/mq 页/q 。/wj 
+需要/v 返回/v 到/v 上/vf 一个/mq 页/q 。/wj 
+我/rr 想/v 返回/v 上/vf 一个/mq 页/q 。/wj 
+我/rr 想/v 返回/v 到/v 上/vf 一个/mq 页/q 。/wj 
+我/rr 想/v 要/v 返回/v 上/vf 一个/mq 页/q 。/wj 
+我/rr 想/v 要/v 返回/v 到/v 上/vf 一个/mq 页/q 。/wj 
+我/rr 希望/v 返回/v 上/vf 一个/mq 页/q 。/wj 
+我/rr 希望/v 返回/v 到/v 上/vf 一个/mq 页/q 。/wj 
+我/rr 要/v 返回/v 上/vf 一个/mq 页/q 。/wj 
+我/rr 要/v 返回/v 到/v 上/vf 一个/mq 页/q 。/wj 
+我/rr 需要/v 返回/v 上/vf 一个/mq 页/q 。/wj 
+我/rr 需要/v 返回/v 到/v 上/vf 一个/mq 页/q 。/wj 
+能/v 不能/v 取消/v 。/wj 
+我/rr 撤销/v 那个/rz 。/wj 
+帮/v 我/rr 停止/v 这个/rz 。/wj 
+给/p 我/rr 停止/v 这/rzv 。/wj 
+我/rr 想/v 停止/v 那个/rz 。/wj 
+我/rr 希望/v 取消/v 这个/rz 。/wj 
+我/rr 要/v 取消/v 这/rzv 。/wj 
+我/rr 需要/v 取消/v 那个/rz 。/wj 
+请/v 帮忙/vi 。/wj 
+可以/v 不/d 可以/v 帮忙/vi 。/wj 
+帮忙/vi 吧/y 。/wj 
+帮帮/v 噢/e 。/wj 
+能/v 不能/v 帮帮/v 。/wj 
+返回/v 到/v 。/wj 
+请/v 返回/v 前/f 一个/mq 列表/vi 。/wj 
+能否/v 回到/v 前/f 一个/mq 列表/vi 。/wj 
+能/v 不能/v 返回/v 到/v 前/f 一个/mq 列表/vi 。/wj 
+可以/v 回/qv 退/v 前/f 一个/mq 列表/vi 。/wj 
+前/f 一个/mq 。/wj 
+帮助/v 我/rr 回/v 到/v 前/f 一个/mq 列表/vi 。/wj 
+帮忙/vi 我/rr 返回/v 上/vf 一个/mq 列表/vi 。/wj 
+帮/v 个/q 忙/v 返回/v 到/v 上/vf 一个/mq 列表/vi 。/wj 
+帮帮/v 回到/v 前/f 一个/mq 列表/vi 。/wj 
+帮/v 一/m 下/f 返回/v 上/vf 一个/mq 列表/vi 。/wj 
+帮/v 一/m 下/f 我/rr 返回/v 到/v 上/vf 一个/mq 列表/vi 。/wj 
+想/v 要/v 返回/v 。/wj 
+希望/v 回到/v 。/wj 
+要/v 返回/v 到/v 。/wj 
+需要/v 回/qv 退/v 。/wj 
+我/rr 想/v 要/v 返回/v 。/wj 
+我/rr 希望/v 回到/v 。/wj 
+我/rr 要/v 返回/v 到/v 。/wj 
+我/rr 需要/v 回/qv 退/v 。/wj 
+可以/v 不/d 可以/v 撤销/v 。/wj 
+帮/v 我/rr 取消/v 。/wj 
+给/p 我/rr 取消/v 那个/rz 列表/vi 。/wj 
+我/rr 想/v 取消/v 那/rzv 列表/vi 。/wj 
+我/rr 想/v 要/v 撤销/v 。/wj 
+我/rr 希望/v 撤销/v 那个/rz 列表/vi 。/wj 
+我/rr 要/v 撤销/v 那/rzv 列表/vi 。/wj 
+我/rr 需要/v 停止/v 。/wj 
+曼谷/nsf 降水量/n 强/ng 不/d 强/a 。/wj 
+明天/t 东莞/ns 的/ude1 气象/n 。/wj 
+下/vf 小雨/n 。/wj 
+今天/t 外面/f 有/vyou 小雨/n 。/wj 
+曼谷/nsf 有/vyou 没/d 有/vyou 毛毛雨/n 。/wj 
+曼谷/nsf 今天/t 下/f 不/d 下/vf 小雨/n 。/wj 
+明天/t 下/f 小雪/n 啊/y 。/wj 
+今天/t 明天/t 下/f 不/d 下/vf 小雪/n 啊/y 。/wj 
+东莞/ns 明天/t 有/vyou 没/d 有/vyou 小雪/n 啊/y 。/wj 
+曼谷/nsf 今天/t 有/vyou 小雪/n 啊/y 。/wj 
+今天/t 曼谷/nsf 下/f 小雪/n 啊/y 。/wj 
+曼谷/nsf 今天/t 下/f 不/d 下/vf 小雪/n 啊/y 。/wj 
+明天/t 晴天/n 啊/y 。/wj 
+今天/t 天/qt 晒/v 吗/y 啊/y 。/wj 
+曼谷/nsf 晴天/n 啊/y 。/wj 
+明天/t 天/qt 晒/v 吗/y 啊/y 。/wj 
+明天/t 今天/t 晴天/n 啊/y 。/wj 
+明天/t 东莞/ns 天/qt 晒/v 吗/y 啊/y 。/wj 
+今天/t 晴天/n 啊/y 。/wj 
+今天/t 明天/t 天/qt 晒/v 吗/y 啊/y 。/wj 
+今天/t 东莞/ns 晴天/n 啊/y 。/wj 
+今天/t 曼谷/nsf 天/n 晒/v 吗/y 啊/y 。/wj 
+东莞/ns 明天/t 晴天/n 啊/y 。/wj 
+东莞/ns 今天/t 天/qt 晒/v 吗/y 啊/y 。/wj 
+东莞/ns 曼谷/nsf 晴天/n 啊/y 。/wj 
+曼谷/nsf 天/n 晒/v 吗/y 啊/y 。/wj 
+曼谷/nsf 今天/t 晴天/n 啊/y 。/wj 
+曼谷/nsf 东莞/ns 天/qt 晒/v 吗/y 啊/y 。/wj 
+明天/t 东莞/ns 晴天/n 啊/y 。/wj 
+路面/n 滑/v 。/wj 
+曼谷/nsf 路况/n 滑/v 。/wj 
+东莞/ns 明天/t 路面/n 滑/v 。/wj 
+东莞/ns 明天/t 天气/n 热/a 吗/y 。/wj 
+今天/t 外边/f 冷/a 。/wj 
+东莞/ns 今天/t 冷/a 。/wj 
+要/v 用/p 雨衣/n 。/wj 
+是/vshi 不/d 是/vshi 得/v 擦/v 雨披/n 。/wj 
+明天/t 需要/v 雨伞/n 。/wj 
+明天/t 是/vshi 不/d 是/vshi 要/v 带/v 伞/n 。/wj 
+明天/t 该/v 用/p 雨衣/n 。/wj 
+今天/t 需要/v 擦/v 雨披/n 。/wj 
+今天/t 是/vshi 不/d 是/vshi 得/v 雨伞/n 。/wj 
+今天/t 该/rz 不/d 该/v 带/v 伞/n 。/wj 
+东莞/ns 要/v 用/p 雨衣/n 。/wj 
+东莞/ns 是/vshi 不/d 是/vshi 得/v 擦/v 雨披/n 。/wj 
+曼谷/nsf 需要/v 雨伞/n 。/wj 
+曼谷/nsf 是/vshi 不/d 是/vshi 要/v 带/v 伞/n 。/wj 
+曼谷/nsf 该/v 用/p 雨衣/n 。/wj 
+明天/t 东莞/ns 需要/v 擦/v 雨披/n 。/wj 
+明天/t 东莞/ns 是/vshi 不/d 是/vshi 得/v 雨伞/n 。/wj 
+明天/t 东莞/ns 该/rz 不/d 该/v 带/v 伞/n 。/wj 
+明天/t 曼谷/nsf 要/v 用/p 雨衣/n 。/wj 
+明天/t 曼谷/nsf 是/vshi 不/d 是/vshi 得/v 擦/v 雨披/n 。/wj 
+今天/t 东莞/ns 需要/v 雨伞/n 。/wj 
+今天/t 东莞/ns 是/vshi 不/d 是/vshi 要/v 带/v 伞/n 。/wj 
+今天/t 东莞/ns 该/rz 用/p 雨衣/n 。/wj 
+今天/t 曼谷/nsf 需要/v 擦/v 雨披/n 。/wj 
+今天/t 曼谷/nsf 是/vshi 不/d 是/vshi 得/v 雨伞/n 。/wj 
+今天/t 曼谷/nsf 该/rz 不/d 该/v 带/v 伞/n 。/wj 
+东莞/ns 明天/t 要/v 用/p 雨衣/n 。/wj 
+东莞/ns 明天/t 是/vshi 不/d 是/vshi 得/v 擦/v 雨披/n 。/wj 
+东莞/ns 今天/t 需要/v 雨伞/n 。/wj 
+东莞/ns 今天/t 是/vshi 不/d 是/vshi 要/v 带/v 伞/n 。/wj 
+东莞/ns 今天/t 该/v 用/p 雨衣/n 。/wj 
+曼谷/nsf 明天/t 需要/v 擦/v 雨披/n 。/wj 
+曼谷/nsf 明天/t 是/vshi 不/d 是/vshi 得/v 雨伞/n 。/wj 
+曼谷/nsf 明天/t 该/rz 不/d 该/v 带/v 伞/n 。/wj 
+曼谷/nsf 今天/t 要/v 用/p 雨衣/n 。/wj 
+曼谷/nsf 今天/t 是/vshi 不/d 是/vshi 得/v 擦/v 雨披/n 。/wj 
+需要/v 太阳镜/n 。/wj 
+是/vshi 不/d 是/vshi 要/v 带/v 墨镜/n 。/wj 
+该/rz 用/p 防晒霜/n 。/wj 
+明天/t 需要/v 擦/v 防/v 晒/v 油/n 。/wj 
+明天/t 是/vshi 不/d 是/vshi 得/v 太阳镜/n 。/wj 
+明天/t 该/rz 不/d 该/v 带/v 墨镜/n 。/wj 
+今天/t 要/v 用/p 防晒霜/n 。/wj 
+今天/t 是/vshi 不/d 是/vshi 得/v 擦/v 防/v 晒/v 油/n 。/wj 
+东莞/ns 需要/v 太阳镜/n 。/wj 
+东莞/ns 是/vshi 不/d 是/vshi 要/v 带/v 墨镜/n 。/wj 
+东莞/ns 该/rz 用/p 防晒霜/n 。/wj 
+曼谷/nsf 需要/v 擦/v 防/v 晒/v 油/n 。/wj 
+曼谷/nsf 是/vshi 不/d 是/vshi 得/v 太阳镜/n 。/wj 
+曼谷/nsf 该/rz 不/d 该/v 带/v 墨镜/n 。/wj 
+明天/t 东莞/ns 要/v 用/p 防晒霜/n 。/wj 
+明天/t 东莞/ns 是/vshi 不/d 是/vshi 得/v 擦/v 防/v 晒/v 油/n 。/wj 
+明天/t 曼谷/nsf 需要/v 太阳镜/n 。/wj 
+明天/t 曼谷/nsf 是/vshi 不/d 是/vshi 要/v 带/v 墨镜/n 。/wj 
+明天/t 曼谷/nsf 该/v 用/p 防晒霜/n 。/wj 
+今天/t 东莞/ns 需要/v 擦/v 防/v 晒/v 油/n 。/wj 
+今天/t 东莞/ns 是/vshi 不/d 是/vshi 得/v 太阳镜/n 。/wj 
+今天/t 东莞/ns 该/rz 不/d 该/v 带/v 墨镜/n 。/wj 
+今天/t 曼谷/nsf 要/v 用/p 防晒霜/n 。/wj 
+今天/t 曼谷/nsf 是/vshi 不/d 是/vshi 得/v 擦/v 防/v 晒/v 油/n 。/wj 
+东莞/ns 明天/t 需要/v 太阳镜/n 。/wj 
+东莞/ns 明天/t 是/vshi 不/d 是/vshi 要/v 带/v 墨镜/n 。/wj 
+东莞/ns 明天/t 该/v 用/p 防晒霜/n 。/wj 
+东莞/ns 今天/t 需要/v 擦/v 防/v 晒/v 油/n 。/wj 
+东莞/ns 今天/t 是/vshi 不/d 是/vshi 得/v 太阳镜/n 。/wj 
+东莞/ns 今天/t 该/rz 不/d 该/v 带/v 墨镜/n 。/wj 
+曼谷/nsf 明天/t 要/v 用/p 防晒霜/n 。/wj 
+曼谷/nsf 明天/t 是/vshi 不/d 是/vshi 得/v 擦/v 防/v 晒/v 油/n 。/wj 
+曼谷/nsf 今天/t 需要/v 太阳镜/n 。/wj 
+曼谷/nsf 今天/t 是/vshi 不/d 是/vshi 要/v 带/v 墨镜/n 。/wj 
+曼谷/nsf 今天/t 该/v 用/p 防晒霜/n 。/wj 
+需要/v 穿/v 棉衣/n 棉裤/n 。/wj 
+是/vshi 不/d 是/vshi 要/v 棉衣/n 棉裤/n 。/wj 
+是/vshi 不/d 是/vshi 得/v 穿/v 棉衣/n 棉裤/n 。/wj 
+该/rz 不/d 该/rz 棉衣/n 棉裤/n 。/wj 
+明天/t 需要/v 穿/v 棉衣/n 棉裤/n 。/wj 
+明天/t 要/v 穿/v 厚/a 衣/ng 呀/y 。/wj 
+明天/t 是/vshi 不/d 是/vshi 要/v 穿/v 厚/a 衣服/n 吗/y 。/wj 
+明天/t 该/rz 厚/a 衣服/n 吗/y 。/wj 
+明天/t 该/rz 不/d 该/v 穿/v 厚/a 衣服/n 吗/y 。/wj 
+今天/t 要/v 厚/a 衣服/n 吗/y 。/wj 
+今天/t 是/vshi 不/d 是/vshi 要/v 穿/v 多/a 吗/y 。/wj 
+今天/t 是/vshi 不/d 是/vshi 要/v 穿/v 外套/n 啊/y 。/wj 
+今天/t 是/vshi 不/d 是/vshi 得/v 穿/v 棉衣/n 棉裤/n 啊/y 。/wj 
+今天/t 该/rz 不/d 该/rz 棉衣/n 棉裤/n 。/wj 
+东莞/ns 需要/v 穿/v 棉衣/n 棉裤/n 。/wj 
+明天/t 东莞/ns 需要/v 毛衣/n 呀/y 。/wj 
+东莞/ns 是/vshi 不/d 是/vshi 要/v 穿/v 棉裤/n 。/wj 
+东莞/ns 是/vshi 不/d 是/vshi 得/v 毛衣/n 啊/y 。/wj 
+东莞/ns 该/v 秋/tg 衣/ng 秋/tg 裤/ng 吗/y 。/wj 
+东莞/ns 该/rz 不/d 该/v 厚/a 衣服/n 吗/y 。/wj 
+曼谷/nsf 需要/v 穿/v 厚/a 衣服/n 吗/y 。/wj 
+曼谷/nsf 是/vshi 不/d 是/vshi 要/v 厚/a 衣服/n 。/wj 
+明天/t 东莞/ns 是/vshi 不/d 是/vshi 得/v 大衣/n 呀/y 。/wj 
+曼谷/nsf 该/rz 棉裤/n 吗/y 。/wj 
+明天/t 东莞/ns 该/rz 穿/v 厚/a 衣/ng 呀/y 。/wj 
+明天/t 曼谷/nsf 需要/v 厚/a 衣/ng 呀/y 。/wj 
+明天/t 曼谷/nsf 要/v 秋/tg 裤/ng 啊/y 。/wj 
+今天/t 东莞/ns 是/vshi 不/d 是/vshi 要/v 穿/v 厚/a 呀/y 。/wj 
+今天/t 曼谷/nsf 是/vshi 不/d 是/vshi 得/v 穿/v 多/a 呀/y 。/wj 
+东莞/ns 明天/t 该/rz 穿/v 多/a 呀/y 。/wj 
+明天/t 曼谷/nsf 该/rz 大衣/n 呀/y 。/wj 
+明天/t 曼谷/nsf 该/rz 不/d 该/v 穿/v 棉裤/n 吗/y 。/wj 
+今天/t 东莞/ns 需要/v 厚/a 衣服/n 呀/y 。/wj 
+今天/t 东莞/ns 要/v 穿/v 棉裤/n 呀/y 。/wj 
+今天/t 东莞/ns 是/vshi 不/d 是/vshi 得/v 棉裤/n 呀/y 。/wj 
+今天/t 东莞/ns 该/rz 穿/v 棉裤/n 呀/y 。/wj 
+曼谷/nsf 该/rz 不/d 该/v 厚/a 衣/ng 吗/y 。/wj 
+今天/t 曼谷/nsf 需要/v 毛衣/n 。/wj 
+今天/t 曼谷/nsf 要/v 穿/v 毛衣/n 。/wj 
+今天/t 曼谷/nsf 是/vshi 不/d 是/vshi 得/v 毛衣/n 。/wj 
+今天/t 曼谷/nsf 该/rz 穿/v 毛衣/n 。/wj 
+东莞/ns 明天/t 需要/v 毛衣/n 。/wj 
+东莞/ns 明天/t 要/v 穿/v 毛衣/n 。/wj 
+东莞/ns 明天/t 是/vshi 不/d 是/vshi 得/v 毛衣/n 。/wj 
+东莞/ns 明天/t 该/rz 穿/v 毛衣/n 。/wj 
+东莞/ns 今天/t 需要/v 毛衣/n 。/wj 
+东莞/ns 今天/t 要/v 穿/v 毛衣/n 。/wj 
+东莞/ns 今天/t 是/vshi 不/d 是/vshi 得/v 毛衣/n 。/wj 
+东莞/ns 今天/t 该/rz 穿/v 毛衣/n 。/wj 
+曼谷/nsf 明天/t 需要/v 毛衣/n 。/wj 
+曼谷/nsf 明天/t 要/v 穿/v 毛衣/n 。/wj 
+曼谷/nsf 明天/t 是/vshi 不/d 是/vshi 得/v 毛衣/n 。/wj 
+曼谷/nsf 明天/t 该/rz 穿/v 毛衣/n 。/wj 
+曼谷/nsf 今天/t 需要/v 毛衣/n 。/wj 
+曼谷/nsf 今天/t 要/v 穿/v 毛衣/n 。/wj 
+曼谷/nsf 今天/t 是/vshi 不/d 是/vshi 得/v 毛衣/n 。/wj 
+曼谷/nsf 今天/t 该/rz 穿/v 毛衣/n 。/wj 
+需要/v 穿/v 短裤/n 。/wj 
+是/vshi 不/d 是/vshi 得/v 穿/v 薄/a 衣服/n 。/wj 
+明天/t 要/v 短袖/b 。/wj 
+明天/t 该/rz 短衣/n 短裤/n 。/wj 
+今天/t 要/v 比基尼/n 。/wj 
+今天/t 该/rz 穿/v 短衣/n 。/wj 
+东莞/ns 要/v 穿/v 薄/a 衣/ng 。/wj 
+东莞/ns 该/rz 不/d 该/rz 短裤/n 。/wj 
+曼谷/nsf 是/vshi 不/d 是/vshi 要/v 薄/a 衣服/n 。/wj 
+曼谷/nsf 该/rz 不/d 该/v 穿/v 短袖/b 。/wj 
+明天/t 要/v 穿/v 少/a 。/wj 
+今天/t 该/rz 穿/v 少/a 。/wj 
+曼谷/nsf 要/v 穿/v 少/a 。/wj 
+明天/t 东莞/ns 要/v 穿/v 短衣/n 。/wj 
+明天/t 东莞/ns 该/rz 穿/v 薄/a 衣/ng 。/wj 
+明天/t 曼谷/nsf 是/vshi 不/d 是/vshi 要/v 短裤/n 。/wj 
+明天/t 曼谷/nsf 该/rz 不/d 该/v 薄/a 衣服/n 。/wj 
+今天/t 东莞/ns 是/vshi 不/d 是/vshi 要/v 穿/v 短袖/b 。/wj 
+今天/t 东莞/ns 该/rz 不/d 该/v 穿/v 短衣/n 短裤/n 。/wj 
+今天/t 曼谷/nsf 是/vshi 不/d 是/vshi 要/v 穿/v 比基尼/n 。/wj 
+东莞/ns 明天/t 需要/v 短衣/n 。/wj 
+东莞/ns 明天/t 是/vshi 不/d 是/vshi 得/v 薄/a 衣/ng 。/wj 
+东莞/ns 今天/t 需要/v 穿/v 短裤/n 。/wj 
+东莞/ns 今天/t 是/vshi 不/d 是/vshi 得/v 穿/v 薄/a 衣服/n 。/wj 
+曼谷/nsf 明天/t 要/v 短袖/b 。/wj 
+曼谷/nsf 明天/t 该/rz 短衣/n 短裤/n 。/wj 
+曼谷/nsf 今天/t 要/v 比基尼/n 。/wj 
+曼谷/nsf 今天/t 该/rz 穿/v 短衣/n 。/wj 
+明天/t 东莞/ns 该/rz 不/d 该/v 穿/v 凉爽/an 。/wj 
+今天/t 东莞/ns 是/vshi 不/d 是/vshi 要/v 穿/v 凉爽/an 。/wj 
+今天/t 曼谷/nsf 该/rz 不/d 该/v 穿/v 凉爽/an 。/wj 
+东莞/ns 今天/t 是/vshi 不/d 是/vshi 要/v 穿/v 凉爽/an 。/wj 
+曼谷/nsf 明天/t 该/rz 不/d 该/v 穿/v 凉爽/an 。/wj 
+曼谷/nsf 日落/vi 几/m 点/qt 。/wj 
+曼谷/nsf 紫外线/n 指数/n 。/wj 
+的/ude1 可/v 视/vg 距离/n 怎样/ryv 。/wj 
+曼谷/nsf 可/v 视/vg 度/ng 高/a 。/wj 
+大气压/n 强/ng 。/wj 
+东莞/ns 大气/n 大气压/n 强/ng 不/d 强/a 。/wj 
+曼谷/nsf 空气/n 压强/n 多/m 大/a 。/wj 
+重新/d 换/v 个/q 电影/n 再/d 试/v 一/m 试/v 。/wj 
+那么/rz 再/d 换/v 成/v 电影/n 也/d 试/v 一/m 试/v 。/wj 
+麻烦/a 一/m 下去/vf 新浪/gwz 微/ag 博/ag 一会/m 。/wj 
+个人/n 网站/n 请/v 瞧瞧/v 。/wj 
+internet/a 去/vf 找/v 互联网/n 。/wj 
+在/p 互联/vi 找/v 去/vf 下/vf 。/wj 
+替/p 网/n 查找/v 下/vf 互联网/n 。/wj 
+替/p 因特网/n 查查/v 一会儿/mq 网站/n 。/wj 
+给/p internet/a 找/v 找/v 下/vf 因特网/n 。/wj 
+给/p 网上/s 找/v 一会儿/mq 互联/vi 。/wj 
+帮/v 互联网/n 搜寻/v 下/vf 网上/s 。/wj 
+让/v 网/n 搜索/v 一会儿/mq 英/b 特/ag 网/n 。/wj 
+让/v 因特网/n 搜/v 到/v 下/f 下/vf 。/wj 
+替/p 我/rr internet/a 搜/v 搜/v 网/n 。/wj 
+替/p 我/rr 网上/s 搜查/v 下/f 下/vf 网络/n 。/wj 
+替/p 俺/rr 互联网/n 查查/v internet/a 。/wj 
+替/p 咱/rr 去/vf 找/v 下/f 下/vf 网页/n 。/wj 
+替/p 咱/rr 因特网/n 查看/v 互联网/n 。/wj 
+替/p 朕/w internet/a 查询/vn 下/f 下/vf 网站/n 。/wj 
+替/p 朕/w 网上/s 想/v 查/v 因特网/n 。/wj 
+替/p 寡人/n 互联网/n 找/v 一/m 找/v 下/vf 下/f 互联/vi 。/wj 
+替/p 我们/rr 找到/v 网上/s 。/wj 
+替/p 我们/rr 因特网/n 寻找/v 下/f 下/vf 英/b 特/ag 网/n 。/wj 
+替/p 咱们/rr internet/a 查找/v 一下/mq 。/wj 
+替/p 咱们/rr 网上/s 查查/v 一会/m 网/n 。/wj 
+给/p 我/rr 互联网/n 找/v 找/v 一/m 下/vf 网络/n 。/wj 
+给/p 俺/rr 找/v 一/m 会/v internet/a 。/wj 
+给/p 俺/rr 因特网/n 搜寻/v 一下/mq 网页/n 。/wj 
+给/p 咱/rr internet/a 搜索/v 一会/m 互联网/n 。/wj 
+给/p 咱/rr 网上/s 搜/v 到/v 一/m 下/vf 网站/n 。/wj 
+给/p 朕/w 互联网/n 搜/v 一/m 搜/v 一会/m 因特网/n 。/wj 
+给/p 寡人/n 搜查/v 一下/mq 互联/vi 。/wj 
+给/p 寡人/n 因特网/n 查/v 一/m 查/v 一/m 会/v 网上/s 。/wj 
+给/p 我们/rr 网络/n 去/vf 找/v 一/m 下/f 英/b 特/ag 网/n 。/wj 
+给/p 我们/rr 网上/s 查/v 一会儿/mq 。/wj 
+给/p 咱们/rr 互联网/n 查询/v 下/vf 网/n 。/wj 
+帮/v 我/rr 搜/v 下/vf 一会儿/mq 网络/n 。/wj 
+帮/v 我/rr 因特网/n 找/v 一/m 找/v 下/f internet/a 。/wj 
+帮/v 俺/rr 网络/n 找/v 去/vf 一会儿/mq 网页/n 。/wj 
+帮/v 俺/rr 网上/s 寻找/v 下/vf 互联网/n 。/wj 
+帮/v 咱/rr 互联网/n 搜/v 一会儿/mq 网站/n 。/wj 
+帮/v 朕/w 查查/v 下/vf 因特网/n 。/wj 
+帮/v 朕/w 因特网/n 搜/v 搜/v 一会儿/mq 互联/vi 。/wj 
+帮/v 寡人/n 网络/n 找/v 下/vf 网上/s 。/wj 
+帮/v 寡人/n 网上/s 查查/v 一会儿/mq 英/b 特/ag 网/n 。/wj 
+帮/v 我们/rr 互联网/n 搜索/vn 下/f 下/vf 。/wj 
+帮/v 咱们/rr 搜/v 到/v 网/n 。/wj 
+帮/v 咱们/rr 因特网/n 搜/v 一/m 搜/v 下/f 下/vf 网络/n 。/wj 
+让/v 我/rr 网络/n 搜查/v internet/a 。/wj 
+让/v 我/rr 网上/s 查/v 一/m 查/v 下/f 下/vf 网页/n 。/wj 
+让/v 俺/rr 网页/n 去/vf 找/v 互联网/n 。/wj 
+让/v 咱/rr 查/v 下/f 下/vf 网站/n 。/wj 
+让/v 咱/rr 因特网/n 查询/vn 因特网/n 。/wj 
+让/v 朕/w 网络/n 搜/v 下/f 下/vf 下/f 互联/vi 。/wj 
+让/v 朕/w 网上/s 找/v 一/m 找/v 网上/s 。/wj 
+让/v 寡人/n 网页/n 找/v 去/vf 下/f 下/vf 英/b 特/ag 网/n 。/wj 
+让/v 我们/rr 寻找/v 一/m 下/vf 。/wj 
+让/v 我们/rr 因特网/n 搜/v 一会/m 网/n 。/wj 
+让/v 咱们/rr 网络/n 查查/v 一下/mq 网络/n 。/wj 
+让/v 咱们/rr 网上/s 搜/v 搜/v 一会/m internet/a 。/wj 
+要/v 网页/n 找/v 一/m 下/vf 网页/n 。/wj 
+想/v 查查/v 一会/m 互联网/n 。/wj 
+想/v 因特网/n 搜索/v 一下/mq 网站/n 。/wj 
+想/v 要/v 网络/n 查看/v 一会/m 因特网/n 。/wj 
+想/v 要/v 网上/s 搜/v 一/m 搜/v 一下/mq 互联/vi 。/wj 
+想/v 要/v 网页/n 想/v 查/v 一/m 会/v 网上/s 。/wj 
+希望/v 查/v 一/m 查/v 一下/mq 英/b 特/ag 网/n 。/wj 
+希望/v 网站/n 找到/v 一会儿/mq 。/wj 
+需要/v 网络/n 查/v 下/vf 网/n 。/wj 
+需要/v 网上/s 查找/v 一会儿/mq 网络/n 。/wj 
+急需/v 网页/n 搜/v 下/vf 下/f internet/a 。/wj 
+要求/v 找/v 找/v 一会儿/mq 网页/n 。/wj 
+要求/v 网站/n 找/v 去/vf 下/vf 互联网/n 。/wj 
+必须/d 网络/n 搜寻/v 一会儿/mq 网站/n 。/wj 
+必须/d 网上/s 搜/v 下/vf 因特网/n 。/wj 
+最/d 好/a 网页/n 搜/v 到/v 一会儿/mq 互联/vi 。/wj 
+我/rr 要/v 搜/v 搜/v 下/vf 网上/s 。/wj 
+我/rr 要/v 网站/n 搜查/v 一会儿/mq 英/b 特/ag 网/n 。/wj 
+我/rr 想/v 网络/n 查查/v 下/f 下/vf 。/wj 
+我/rr 想/v 网上/s 搜索/vn 网/n 。/wj 
+我/rr 想/v 要/v 网页/n 查看/v 下/f 下/vf 网络/n 。/wj 
+我/rr 想/v 要/v 搜/v 一/m 搜/v internet/a 。/wj 
+我/rr 想/v 要/v 网站/n 想/v 查/v 下/f 下/vf 网页/n 。/wj 
+我/rr 希望/v 网络/n 查/v 一/m 查/v 互联网/n 。/wj 
+我/rr 希望/v 互联/vi 找/v 到/v 下/f 下/vf 网站/n 。/wj 
+我/rr 需要/v 网页/n 查/v 因特网/n 。/wj 
+我/rr 急需/v 查找/v 下/vf 下/f 互联/vi 。/wj 
+我/rr 急需/v 网站/n 搜/v 下/vf 网上/s 。/wj 
+我/rr 要求/v 网络/n 找/v 找/v 下/f 下/vf 英/b 特/ag 网/n 。/wj 
+我/rr 要求/v 互联/vi 找/v 去/vf 一下/mq 。/wj 
+我/rr 必须/d 网页/n 搜寻/v 一会/m 网/n 。/wj 
+我/rr 最/d 好/a 搜/v 一下/mq 网络/n 。/wj 
+我/rr 最/d 好/a 网站/n 搜/v 到/v 一/m 会/v internet/a 。/wj 
+俺/rr 要/v 网络/n 搜/v 搜/v 一下/mq 网页/n 。/wj 
+俺/rr 要/v 互联/vi 搜查/v 一会/m 互联网/n 。/wj 
+俺/rr 想/v 网页/n 查查/v 一下/mq 网站/n 。/wj 
+俺/rr 想/v 英/b 特/ag 网/n 去/vf 找/v 一/m 会/v 因特网/n 。/wj 
+俺/rr 想/v 要/v 网站/n 查看/v 一下/mq 互联/vi 。/wj 
+俺/rr 想/v 要/v 网络/n 查询/v 一会/m 网上/s 。/wj 
+俺/rr 想/v 要/v 互联/vi 想/v 查/v 一下/mq 英/b 特/ag 网/n 。/wj 
+俺/rr 希望/v 网页/n 找/v 一/m 找/v 一会儿/mq 。/wj 
+俺/rr 希望/v 英/b 特/ag 网/n 找/v 到/v 下/vf 网/n 。/wj 
+俺/rr 需要/v 网站/n 寻找/v 一会儿/mq 网络/n 。/wj 
+俺/rr 急需/v 网络/n 查找/v 下/f internet/a 。/wj 
+俺/rr 急需/v 互联/vi 查查/v 一会儿/mq 网页/n 。/wj 
+俺/rr 要求/v 网页/n 找/v 找/v 下/vf 互联网/n 。/wj 
+俺/rr 要求/v 英/b 特/ag 网/n 找/v 一会儿/mq 网站/n 。/wj 
+俺/rr 必须/d 网站/n 搜寻/v 下/vf 因特网/n 。/wj 
+俺/rr 最/d 好/a 网络/n 搜索/v 一会儿/mq 互联/vi 。/wj 
+俺/rr 最/d 好/a 互联/vn 搜/v 到/v 下/vf 网上/s 。/wj 
+咱/rr 要/v 网页/n 搜/v 一/m 搜/v 一会儿/mq 英/b 特/ag 网/n 。/wj 
+咱/rr 要/v 英/b 特/ag 网/n 搜查/vn 下/f 下/vf 。/wj 
+咱/rr 想/v 网站/n 查查/v 网/n 。/wj 
+咱/rr 想/v 要/v 网/n 去/vf 找/v 下/f 下/vf 网络/n 。/wj 
+咱/rr 想/v 要/v 互联/vi 查看/v internet/a 。/wj 
+咱/rr 想/v 要/v 网页/n 查询/vn 下/f 下/vf 网页/n 。/wj 
+咱/rr 想/v 要/v 英/b 特/ag 网/n 想/v 查/v 互联网/n 。/wj 
+咱/rr 希望/v 网站/n 找/v 一/m 找/v 下/f 下/vf 网站/n 。/wj 
+咱/rr 需要/v 网/n 找到/v 因特网/n 。/wj 
+咱/rr 需要/v 互联/vi 寻找/v 下/vf 下/f 互联/vi 。/wj 
+咱/rr 急需/v 网页/n 查找/v 网上/s 。/wj 
+咱/rr 急需/v 英/b 特/ag 网/n 查查/v 下/f 下/vf 英/b 特/ag 网/n 。/wj 
+咱/rr 要求/v 网站/n 找/v 找/v 一下/mq 。/wj 
+咱/rr 必须/d 网/v 找/v 一/m 会/v 网/n 。/wj 
+咱/rr 必须/d 互联/vi 搜寻/v 一下/mq 网络/n 。/wj 
+咱/rr 最/d 好/a 网页/n 搜索/v 一会/m internet/a 。/wj 
+咱/rr 最/d 好/a 英/b 特/ag 网/n 搜/v 到/v 一/m 下/vf 网页/n 。/wj 
+朕/w 要/v 网站/n 搜/v 一/m 搜/v 一会/m 互联网/n 。/wj 
+朕/w 想/v 网/n 搜查/v 一下/mq 网站/n 。/wj 
+朕/w 想/v 互联/vi 查/v 一/m 查/v 一/m 会/v 因特网/n 。/wj 
+朕/w 想/v 要/v internet/a 去/vf 找/v 一/m 下/f 互联/vi 。/wj 
+朕/w 想/v 要/v 英/b 特/ag 网/n 查/v 一/m 会/v 网上/s 。/wj 
+朕/w 想/v 要/v 网站/n 查询/v 一下/mq 英/b 特/ag 网/n 。/wj 
+朕/w 希望/v 网/n 搜/v 下/vf 一会儿/mq 。/wj 
+朕/w 希望/v 互联/vi 找/v 一/m 找/v 下/vf 网/n 。/wj 
+朕/w 需要/v internet/a 找/v 去/vf 一会儿/mq 网络/n 。/wj 
+朕/w 需要/v 英/b 特/ag 网/n 寻找/v 下/f internet/a 。/wj 
+朕/w 急需/v 网站/n 搜/v 一会儿/mq 网页/n 。/wj 
+朕/w 要求/v 网/n 查查/v 下/vf 互联网/n 。/wj 
+朕/w 要求/v 互联/vi 搜/v 搜/v 一会儿/mq 网站/n 。/wj 
+朕/w 必须/d internet/a 找/v 下/vf 因特网/n 。/wj 
+朕/w 必须/d 英/b 特/ag 网/n 查查/v 一会儿/mq 互联/vi 。/wj 
+朕/w 最好/d 网站/n 搜索/v 下/vf 网上/s 。/wj 
+寡人/n 要/v 网/n 查看/v 一会儿/mq 英/b 特/ag 网/n 。/wj 
+寡人/n 要/v 互联/vi 搜/v 一/m 搜/v 下/f 下/vf 。/wj 
+寡人/n 想/v internet/a 搜查/vn 网/n 。/wj 
+寡人/n 想/v 英/b 特/ag 网/n 查/v 一/m 查/v 下/f 下/vf 网络/n 。/wj 
+寡人/n 想/v 要/v 互联网/n 去/vf 找/v internet/a 。/wj 
+寡人/n 想/v 要/v 网/n 查/v 下/f 下/vf 网页/n 。/wj 
+寡人/n 想/v 要/v 互联/vn 查询/vn 互联网/n 。/wj 
+寡人/n 希望/v internet/a 搜/v 下/vf 下/f 下/vf 网站/n 。/wj 
+寡人/n 希望/v 英/b 特/ag 网/n 找/v 一/m 找/v 因特网/n 。/wj 
+寡人/n 需要/v 互联网/n 找/v 去/vf 下/f 下/vf 互联/vi 。/wj 
+寡人/n 急需/v 网/n 寻找/v 网上/s 。/wj 
+寡人/n 急需/v 互联/vi 搜/v 下/f 下/vf 英/b 特/ag 网/n 。/wj 
+寡人/n 要求/v internet/a 查查/v 一下/mq 。/wj 
+寡人/n 要求/v 英/b 特/ag 网/n 搜/v 搜/v 一会/m 网/n 。/wj 
+寡人/n 必须/d 互联网/n 找/v 一/m 下/vf 网络/n 。/wj 
+寡人/n 最好/d 网/v 查查/v 一会/m internet/a 。/wj 
+寡人/n 最好/d 互联/vi 搜索/v 一下/mq 网页/n 。/wj 
+我们/rr 要/v internet/a 查看/v 一会/m 互联网/n 。/wj 
+我们/rr 要/v 英/b 特/ag 网/n 搜/v 一/m 搜/v 一下/mq 网站/n 。/wj 
+我们/rr 想/v 互联网/n 想/v 查/v 一/m 会/v 因特网/n 。/wj 
+我们/rr 想/v 要/v 网/n 查/v 一/m 查/v 一下/mq 互联/vi 。/wj 
+我们/rr 想/v 要/v 因特网/n 找到/v 一/m 会/v 网上/s 。/wj 
+我们/rr 想/v 要/v internet/a 查/v 一下/mq 英/b 特/ag 网/n 。/wj 
+我们/rr 想/v 要/v 英/b 特/ag 网/n 查找/v 一会儿/mq 。/wj 
+我们/rr 希望/v 互联网/n 搜/v 下/f 下/vf 网/n 。/wj 
+我们/rr 需要/v 网/n 找/v 找/v 一会儿/mq 网络/n 。/wj 
+我们/rr 需要/v 因特网/n 找/v 去/vf 下/f internet/a 。/wj 
+我们/rr 急需/v internet/a 搜寻/v 一会儿/mq 网页/n 。/wj 
+我们/rr 急需/v 英/b 特/ag 网/n 搜/v 下/vf 互联网/n 。/wj 
+我们/rr 要求/v 互联网/n 搜/v 到/v 一会儿/mq 网站/n 。/wj 
+我们/rr 必须/d 网/v 搜/v 搜/v 下/vf 因特网/n 。/wj 
+我们/rr 必须/d 因特网/n 搜查/v 一会儿/mq 互联/vi 。/wj 
+我们/rr 最/d 好/a internet/a 查查/v 下/vf 网上/s 。/wj 
+我们/rr 最/d 好/a 网上/s 去/vf 找/v 一会儿/mq 英/b 特/ag 网/n 。/wj 
+咱们/rr 要/v 互联网/n 查看/v 下/f 下/vf 。/wj 
+咱们/rr 想/v 网/n 搜/v 一/m 搜/v 网/n 。/wj 
+咱们/rr 想/v 因特网/n 想/v 查/v 下/f 下/vf 网络/n 。/wj 
+咱们/rr 想/v 要/v internet/a 查/v 一/m 查/v internet/a 。/wj 
+咱们/rr 想/v 要/v 网上/s 找/v 到/v 下/f 下/vf 网页/n 。/wj 
+咱们/rr 想/v 要/v 互联网/n 查/v 互联网/n 。/wj 
+咱们/rr 希望/v 网/n 查找/v 下/f 下/vf 网站/n 。/wj 
+咱们/rr 希望/v 因特网/n 搜/v 下/vf 因特网/n 。/wj 
+咱们/rr 需要/v internet/a 找/v 找/v 下/vf 下/f 互联/vi 。/wj 
+咱们/rr 需要/v 网上/s 找/v 去/vf 网上/s 。/wj 
+咱们/rr 急需/v 互联网/n 搜寻/v 下/f 下/vf 英/b 特/ag 网/n 。/wj 
+咱们/rr 要求/v 网/n 搜/v 一下/mq 。/wj 
+咱们/rr 要求/v 因特网/n 搜/v 到/v 一/m 会/v 网/n 。/wj 
+咱们/rr 必须/d internet/a 搜/v 搜/v 一下/mq 网络/n 。/wj 
+咱们/rr 必须/d 网上/s 搜查/v 一会/m internet/a 。/wj 
+咱们/rr 最/d 好/a 互联网/n 查查/v 一下/mq 网页/n 。/wj 
+现在/t 去/vf 找/v 一/m 会/v 互联网/n 。/wj 
+现在/t 因特网/n 查看/v 一下/mq 网站/n 。/wj 
+赶紧/d internet/a 查询/v 一会/m 因特网/n 。/wj 
+赶紧/d 网上/s 想/v 查/v 一下/mq 互联/vi 。/wj 
+快/a 互联网/n 找/v 一/m 找/v 一/m 会/v 网上/s 。/wj 
+马/n 上/f 找到/v 一/m 下/f 英/b 特/ag 网/n 。/wj 
+马/n 上/f 因特网/n 寻找/v 一会儿/mq 。/wj 
+快/a 点/n internet/a 查找/v 下/vf 网/n 。/wj 
