@@ -3,7 +3,7 @@ import java.io.*;
 import java.util.List;
 import java.util.ArrayList;
 
-public class queryExtract {
+public class queryText {
 	public static void main(String[] args) throws IOException {
 		
 		List<String> agentList = new ArrayList<String>();
@@ -32,13 +32,15 @@ public class queryExtract {
 				path = "CARDs/" + agentName + "/zh-CN/CARD_Expanded_Commands-zh-CN-" + agentName + "-zh-CN.csv";
 			}
 			BufferedReader br = new BufferedReader(new FileReader(path));
-			PrintStream q = new PrintStream("q/CARD_Expanded_Commands-zh-CN-" + agentName + "-zh-CN.csv");
+			PrintStream q = new PrintStream("q/" + agentName + "-zh-CN.txt");
 			
 			List<String> queries = new ArrayList<String>();
 			String line = "";
 			int lineNum = 0;
 			while ((line = br.readLine()) != null) {
-			    String query = line;
+			    String[] tokens = line.split(",");
+			    String query = tokens[8].replaceAll("\"", "");
+			    query = query.replaceAll("[\\s]+", "");
 			    queries.add(query);
 			    lineNum ++;
 			    if (lineNum > 400000) {
